@@ -26,7 +26,7 @@ snomed_ecls = {'PulmonaalLijden': [
     'CerebrovasculairLijden': [
         '<< 432504007|cerebraal infarct|'
         ,'<< 299718000|bevinding van de hersenen|'
-        ,'<< 246556002|bevinding van centraal zenuwstelsel|'
+        ,'<< 246556002|bevinding van centraal zenuwstelsel| MINUS << 74732009|psychische stoornis|'
         ,'<< 62914000|cerebrovasculaire ziekte|'
         ,'<< 439127006|trombose|'
         ,'<< 119235005|gedeelte van hersenen|'

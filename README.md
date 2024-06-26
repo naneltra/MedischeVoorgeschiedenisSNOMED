@@ -20,6 +20,15 @@ Dit is een alternatief op het clusteren op basis van zoektermen, zoals het MATLA
 
 Deze analyse beperkt zicht tot het herkennen van concepten en houdt geen rekening met de context binnen de text waarbinnen het concept is gevonden (vervolgstap). 
 
+# Aanpak
+
+1. Zoektermen uit matlabscript vertalen naar SNOMED concepten en toevoegen aan annotatie model indien beschrijving ontbreekt.
+2. Clusters van concepten maken met behulp van ECL queries
+3. Resultaten van ECL queries samenvoegen per thema. Elk thema bevat een grote lijst met SNOMED concepten.
+4. Text preprocessing, veel gebruikte afkortingen vertalen naar woorden.
+5. Draai  annotatie tool over alle preprocessed tekst.
+6. Map de concepten op de lijsten gegenereerd bij stap 3.
+
 
 # Datastroom
 

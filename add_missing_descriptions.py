@@ -1,5 +1,6 @@
 """
-This script checks if all keywords defined in the matlab script from aumc are mapped correctly to SNOMED concepts
+This script checks if all keywords defined in the matlab script from aumc are mapped correctly to SNOMED concepts.
+Keywords that were not yet present as concept in SNOMED will be added by search fitting concepts manually.
 """
 
 from medcat.cat import CAT
@@ -11,12 +12,8 @@ import os
 load_dotenv()
 
 
-batch_size_chars = 68800 
-
 model_location = os.getenv('MODEL_PATH')
-MODEL_PATH = Path(model_location)
-
-mymodel = CAT.load_model_pack(MODEL_PATH.absolute().as_posix())
+mymodel = CAT.load_model_pack(model_location)
 
 
 vumc_mapping1 = vumc_mapping.ArrayTotaal
@@ -114,4 +111,6 @@ for k,v in new_descriptions.items():
     mymodel.add_and_train_concept(cui=cui,name=k)
     
     
-mymodel.get_entities('mr heeft stroke')
+mymodel.get_entities('mr AS-infarct')
+
+mymodel.create_model_pack('/Users/lennaartraams/git/r-d-projects/gm-r-d/apps/medcat_service/models/snomed_2023_trained_neg_b3c1e19c8ffccf75')

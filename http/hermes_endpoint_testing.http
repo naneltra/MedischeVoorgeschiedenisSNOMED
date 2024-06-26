@@ -4,7 +4,7 @@
 @contentType = application/json
 @test_concept = 24700007
 
-@test_ecl = << 1386000|intracraniele bloeding|
+@test_ecl = << 246556002|bevinding van centraal zenuwstelsel| MINUS << 74732009
 
 
 ### Perform ECL on terminologu server
