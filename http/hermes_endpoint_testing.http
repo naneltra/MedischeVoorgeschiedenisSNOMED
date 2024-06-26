@@ -1,0 +1,49 @@
+@hostname = localhost
+@port = 8081
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+@test_concept = 24700007
+
+@test_ecl = << 1386000|intracraniele bloeding|
+
+
+
+
+### Perform ECL
+GET http://{{host}}/v1/snomed/expand?ecl={{test_ecl}}&includeHistoric=false HTTP/1.1
+content-type: {{contentType}}
+
+
+
+
+### Test Terminology server
+GET http://{{host}}/v1/snomed/concepts/{{test_concept}}/extended HTTP/1.1
+content-type: {{contentType}}
+
+### Search single concept
+GET http://{{host}}/v1/snomed/concepts/{{test_concept}}/descriptions  HTTP/1.1
+content-type: {{contentType}}
+
+### Search single concept properties
+GET http://{{host}}/v1/snomed/concepts/{{test_concept}}/properties?expand=1  HTTP/1.1
+content-type: {{contentType}}
+
+
+### Perform search
+@search_term = {{$input Enter search term $value: parkinson}}
+GET http://{{host}}/v1/snomed/search?s={{search_term}}&constraint=<{{concept_aandoening}}&maxHits=5  HTTP/1.1
+content-type: {{contentType}}
+
+GET http://{{host}}/v1/snomed/concepts/27113001/descriptions  HTTP/1.1
+content-type: {{contentType}}
+
+### Perform search with prompt
+GET http://{{host}}/v1/snomed/search?s={{search_term}}&maxHits=5  HTTP/1.1
+content-type: {{contentType}}
+
+
+
+
+
+
+# http://128.140.5.148:8080/v1/snomed/expand?ecl=%3C%20763158003%20%7CMedicinal%20product%20%28product%29%7C%20%3A%0A%20%20%20%20%20411116001%20%7CHas%20manufactured%20dose%20form%20%28attribute%29%7C%20%20%3D%20%3C%3C%20%20385268001%20%7COral%20dose%20form%20%28dose%20form%29%7C%20%2C%0A%20%20%20%20%7B%20%20%20%20%3C%3C%20%20127489000%20%7CHas%20active%20ingredient%20%28attribute%29%7C%20%20%3D%20%3C%3C%20%20372687004%20%7CAmoxicillin%20%28substance%29%7C%20%2C%0A%20%20%20%20%20%20%20%20%20%201142135004%20%7CHas%20presentation%20strength%20numerator%20value%20%28attribute%29%7C%20%20%3D%20%23250%2C%0A%20%20%20%20%20%20%20%20%20732945000%20%7CHas%20presentation%20strength%20numerator%20unit%20%28attribute%29%7C%20%20%3D%20%20258684004%20%7Cmilligram%20%28qualifier%20value%29%7C%7D

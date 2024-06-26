@@ -1,0 +1,583 @@
+term,meaning,remark,status,ignore_case
+#,fractuur,,enable,False
+##,fracturen,,enable,False
+//,staakteken,,enable,False
+=a,is aangevraagd,,enable,False
+A,Airway,,disable,False
+A.,(+plaatsaanduiding) Arteria,,disable,False
+A/,ziektegeschiedenis,anamnese,enable,False
+AAP,abortus arte provocatus,,enable,False
+ABC,Accidentele Bloed Contacten,,enable,False
+ACS,Acuut Coronair Syndroom,,enable,False
+ACT,Ambulante compressie therapie,,enable,False
+AD,rechteroor,auriculus dexter,enable,False
+ADHD,Attention Deficit Hyperactivity Disorder,,enable,False
+ADL,Algemene Dagelijkse Levensverrichtingen,,enable,False
+ADS,beide oren,auriculus dexter et sinister,enable,False
+AF,atrium fibrilleren / atrium flutter,,enable,False
+AH,ademhaling,,enable,False
+AIOS,Arts in opleiding tot specialist,,enable,False
+AIV,Advies Instructie en Voorlichting,,enable,False
+AKI,acute kidney injury,,enable,False
+ALS,amyotrofische lateraal sclerose,,enable,False
+ALS-FRS-R,ALS Functional Rating Scale- Revised,,enable,False
+ALTIS,"Aard, Lokalisatie, Tijdsduur, Intensiteit en Samenhang",,enable,False
+AMO,Actueel Medicatie Overzicht,,enable,False
+AMPS,Assessment of Motor and Process Skills,,enable,False
+ANIOS,Arts niet in opleiding tot specialist,,enable,False
+ANTAT,Amsterdam Nijmegen Test voor Alledaagse Taalvaardigheden,,enable,False
+APLA,Abortus provocatus lege artis,,enable,False
+APR,Achillespeesreflex,,enable,False
+APZ,Algemeen Psyciatrisch Ziekenhuis,,enable,False
+ARAT,Action Research Arm Test,,enable,False
+ARBO,Arbeidsomstandigheden,,enable,False
+AROM,Active Range of Motion,,enable,False
+ASA,American Society of Anesthesiologists physical status,,enable,False
+ASITT,Adult Sensory Integration Timmerman Treatment,,enable,False
+ATOD,oogdruk OD ( met applanatie tonometer vlgs Goldman),,enable,False
+ATOS,oogdruk OS ( idem),,enable,False
+AVF,anteversie flexie,,enable,False
+AVT,Ambulant Verpleegtechnisch Team,,enable,False
+AWBZ,Algemene Wet Bijzondere Ziektekosten,,enable,False
+Ad,Amenorroe duur,,enable,False
+Animo,afvallen nieuwe gedrag inspiratie Motivatie,,enable,False
+B,Breathing,,disable,False
+B/,beleid,,enable,False
+BADS,Behavioural Assessment of the Dysexecutive Syndrome,,enable,False
+BAEP,Brainstem Auditory Evoked Potential,,enable,False
+BCS,Bedside Cognitive Screening,,enable,False
+BDI,Beck Depression Inventory,,enable,False
+BDL,bijzondere dagelijkse levensverrichtingen,,enable,False
+BDZ,beiderzijds,,enable,False
+BEBA,Birkhovense Evaluatieschaal Behandeldoelen Afasie,,enable,False
+BEM,Beoordeling Eigen beheer Medicatie in de thuiszorg,,enable,False
+BFM,Brunnstrom Fugl-Meyer assessment,,enable,False
+BHR,Buikhuidreflex,,enable,False
+BHV,Bedrijfs Hulp Verlening,,enable,False
+BIG,Wet Beroepen in de Individuele Gezondheidszorg,,enable,False
+BIPAC,Behoeften-Inventarisatie en Probleem-Analyse van Communicatie activiteiten,,enable,False
+BIPAP,Bi-Level Positive Airway Pressure (gecontroleerde druk gestuurde beademing),,enable,False
+BK,Bloedkweek,,enable,False
+BLS,Basic Life Support,,enable,False
+BMI,Body Mass Index,,enable,False
+BNQ,Bournemouth Neck Questionnaire,,enable,False
+BNT,Boston Naming Test,,enable,False
+BOPZ,Bijzondere Opnemingen in Psychiatrische Ziekenhuizen,,enable,False
+BPH,benigne prostaat hyperplasie,,enable,False
+BPR,Bicepspeesreflex,,enable,False
+BRMO,Bijzonder resistent micro-organisme/ Broadly-resistant micro-organism,,enable,False
+BSCAN,B-scan,,enable,False
+BSN,Burgerservicenummer,,enable,False
+Bzd,Besluit zorg en dwang,,enable,False
+C,Circulation,,disable,False
+C,Cervicale (1 t/m 8),,disable,False
+C/,conclusie,,enable,False
+CABG,Coronary Artery Bypass Grafting / Bypass-ok/omleidingen,,enable,False
+CAD,"Catheter à Demeure (urinecatheter, verblijfscatheter)",,enable,False
+CAG,Coronaire angiografie / hartcatheterisatie,,enable,False
+CAK,Centraal Administratie Kantoor,,enable,False
+CANS,"Complaints of Arm, Neck and/or Shoulder",,enable,False
+CAO,Collectieve Arbeids Overeenkomst,,enable,False
+CAPD,Continue Ambulante Peritoniaal Dialyse,,enable,False
+CAT-NL,Comprehensive Aphasia Test - Nederlandse vertaling,,enable,False
+CCBR,Centraal Curatele en Bewind Register,,enable,False
+CCE,Centrum voor Consultatie en Expertise,,enable,False
+CCQ,Clinical COPD Questionnaire,,enable,False
+CCU,afdeling hartbewaking,Coronary Care Unit,enable,False
+CEA,carcino-embyonaal antigen (tumormarker),,enable,False
+CERAB,covered endovascular reconstruction of aorta,,enable,False
+CGT,Cognitieve Gedragstherapie,,enable,False
+CIC,clean intermittent catheterisation,,enable,False
+CIN,cervicale intraepitheliale neoplasie,,enable,False
+CIS,Carcinioma in situ,,enable,False
+CIZ,Centrum Indicatiestelling zorg,,enable,False
+CLCE-24,Checklist for Cognitive and Emotional Consequence of Stroke,,enable,False
+CMC,carpometacarpale gewrichten,,enable,False
+CMO,cura mortu orum mortuaribeheer b.v.,,enable,False
+CMT,Contextual Memory Test,,enable,False
+CO,(op de intensive care) cardiac output,,enable,False
+COLK,Centrum Onverklaarbare Lichamelijke Klachten,,enable,False
+COPD,Chronic Obstructive Pulmonary Disease,,enable,False
+COPM,Canadian Occupational Performance Measure,,enable,False
+CPA,Centrale Post Ambulancevervoer,,enable,False
+CPAP,Continu Positive Airwy Pressure,,enable,False
+CPM,continuous passive motion: beenslede,,enable,False
+CPT,Cognitive Performance Test,,enable,False
+CRA,Caregiver Reaction Assessment,,enable,False
+CRPC,castratie resistant prostaatcarc,,enable,False
+CSI,caregiver strain index,,enable,False
+CST,cognitieve screeningstest,,enable,False
+CT,Computer Tomografie,,enable,False
+CTA,Computed Tomography (Angiography),,enable,False
+CTG,cardiotocogram,,enable,False
+CTS,Carpale tunnel syndroom,,enable,False
+CVA,Cerebro Vasculair Accident,,enable,False
+CVC,Centraal Veneuze Catheter,,enable,False
+CVD,centraal veneuze druk,,enable,False
+CVK,centraal veneuze katheter,,enable,False
+CVP,Wzd cliëntenvertrouwenspersoon Wzd,,enable,False
+CVRM,Cardio Vasculair Risico Management,,enable,False
+CWK,Cervicale wervelkolom,,enable,False
+Camcog,Cambridge examination for mental disorders of the elderly,,enable,False
+Co,controle,,enable,False
+Cor,Coronair,,enable,False
+D,Disability,,enable,False
+DASH,"Disabilities of the Arm, Shoulder and Hand",,enable,False
+DB,distantia biparietalis,,enable,False
+DBC,Diagnose Behandel Combinatie,,enable,False
+DC,Decompensatie Cordis,,enable,False
+DCD,developmental coordination disorder,,enable,False
+DD,Differentiaal diagnose,,enable,False
+DHI,Duizeligheid Handicap Inventarisatie,,enable,False
+DHS,Dynamic Hip Screw,,enable,False
+DIAS,Diagnostisch Instrument voor Apraxie van de Spraak,,enable,False
+DIP,distaal interphalangeaal gewricht,,enable,False
+DM,Diabetes Mellitus,,enable,False
+DMII,diabetes mellitus type 2,,enable,True
+DOS(S),Delirium Observation Screening (scale),,enable,False
+DRU,distaal radio-ulnair gewricht,,enable,False
+DSM,Diagnostic and Statistical Manual of Mental Disorders,,enable,False
+DVK,diabetesverpleegkundige,,enable,False
+DVT,diep veneuze trombose,,enable,False
+DYVA,Dysartrie en Verbale Apraxie- onderzoek,,enable,False
+DaT,(scan) Dopamine transporter scintigrafie,,enable,False
+Dhr,De heer,,enable,False
+Dig,(1 t/m 5) Digitorum (1 t/m 5) (wel hand of voet benoemen),,enable,False
+E+,eiwitverrijkt,,enable,False
+E-,eiwitbeperkt,,enable,False
+EBRT,External Beam Radio Therapy,,enable,False
+ECG,hartfilmpje,electro-cardiogram,enable,False
+ECI,E causa ignota,,enable,False
+ED,erectiele dysfunctie,,enable,False
+EEG,Elektro-encefalogram,,enable,False
+EEG,filmpje van de hersengolven,electro-encefalogram,enable,False
+EFW,estimates fetal weight,,enable,False
+EH,eenheden,,enable,False
+EIN,endometriale intraepitheliale neoplasie,,enable,False
+EMCT,Expanded Mental Control Test,,enable,False
+EMDR,Eye Movement Desensitization and Reprocessing,,enable,False
+EMG,Elektromyografie,,enable,False
+EMS,Elderly Mobility Scale,,enable,False
+EMV,"glasgow coma score (Eyes, Motor, Verbal)",,enable,False
+ENG,Elektronystagmografie,,enable,False
+EPD,Electronisch Patienten Dossier,,enable,False
+ERAS,Enhanced Recovery After Surgery,,enable,False
+ERCP,endoscopische retrograde cholangio -en pancreaticografie,,enable,False
+ESBL,Extended Spectrum Bèta Lacamase,,enable,False
+EUG,extra uteriene graviditeit,,enable,False
+EV,extra verstrekking,,enable,False
+EVAR,Endovascular Aneurysm Repair,,enable,False
+EVS,Elektronisch Voorschrijfsysteem,,enable,False
+EWS,Early Warning Score,,enable,False
+En+,energieverrijkt,,enable,False
+En-,energiebeperkt,,enable,False
+FAC,fetal abdominal circumference,,enable,False
+FAG,FAG/ fluorescentie-angiogram,,enable,False
+FEC,5 Fluorouracil Epirubicine Cyclofosfamide kuur (chemotherapie),,enable,False
+FEES,Fiber Laryngoscopy Evaluation of Swallow,,enable,False
+FFP,fresh frozen plasma,,enable,False
+FL,Femur length,,enable,False
+FOIS,Functional Oral Intake Scale,,enable,False
+FROM,Functione RangeOof Motion,,enable,False
+FRT,Functional Reach Test,,enable,False
+FSP,Farmaceutisch Steunpunt,,enable,False
+FSS,Fatique Severity Scale,,enable,False
+FTO,farmacotherapeutisch overleg,,enable,False
+G,"P Am M Ab sc gravida, para, amenorrhoeduur, mater, abortus, sectio caesarea",,disable,False
+GBS,Hemolytische streptococ groep/ Groep B Streptokokken,,enable,False
+GDS,Geriatric Depression Scale,,enable,False
+GGD,Gemeenschappelijke GezondheidsDienst,,enable,False
+GGZ,Geestelijke Gezondheids Zorg,,enable,False
+GIP,Gedragsobservatieschaal voor Intramurale Psychogeriatrie,,enable,False
+GIT,Groninger Intelligentie Test,,enable,False
+GMFCS,gross motor function classification,,enable,False
+GMFM,Gross motor function measurement,,enable,False
+GOAC,Geriatrisch onderzoeks- en adviescentrum,,enable,False
+GOLD,Global initiative for chronic Obstructive Lung Disease,,enable,False
+GR,Geriatrische Revalidatie,,enable,False
+GRZ,Geriatrische Revalidatie Zorg,,enable,False
+H&B,Harris & Benedict( formule waarmee energiebehoefte wordt berekend),,enable,False
+H2O,water,,enable,False
+HA,huisarts,,enable,False
+HADS,Hospital Anxiety & Depression Scale,,enable,False
+HAP,huisartsenpost,,enable,False
+HC,head circumference,,enable,False
+HCG,Humaan Chorion Gonadotropine Hormoon,,enable,False
+HDL,Huishoudelijke Dagelijkse Levensverrichtingen,,enable,False
+HELLP,Hemolysis Elevated liver enzymes and low platelets,,enable,False
+HFA,Humphrey Field Analyser ( gezichtsveld onderzoek),,enable,False
+HKZ,Harmonisatie Kwaliteitsbeoordeling Zorgsector,,enable,False
+HNP,Hernia Nuclei Pulposi,,enable,False
+HR,polsslag (heart rate),,enable,False
+HiX,Healthcare Information X-change,,enable,False
+IADM,Insuline Afhankelijke Diabetes Mellitus,,enable,False
+IAP,instabiele agina pectoris,,enable,False
+IC,Intensive Care,,enable,False
+ICD,Implanteerbare Cardiale Defibrillator,,disable,False
+ICD,10 Internationaal gestandaardiseerd Classificatiesysteem van Diagnosen,,disable,False
+ICU,afdeling intensieve bewaking,Intensive Care Unit,enable,False
+ID,identiteit (sbewijs),,enable,False
+IDDD,Interview voor Deterioratie in Dagelijks leven bij Dementie,,enable,False
+IE,"insuline eenheid, internationale eenheid",,enable,False
+IGJ,Inspectie Gezondheidszorg en Jeugd,,enable,False
+IGZ,Inspectie voor de Gezondheidszorg,,enable,False
+IM,intramusculair,,enable,False
+INR,International Normalized Ratio,,enable,False
+IPPV,invasive positive pressure ventilation,,enable,False
+IUD,spiraaltje,intra uterien device,enable,False
+IV,intraveneus,,enable,False
+IVF,In Vitro Fertilisatie,,enable,False
+JCI,Joint Commission International,,enable,False
+JGZ,Jeugdgezondheidszorg,,enable,False
+KNO,Keel-neus-oor,,enable,False
+KPR,Kniepeesreflex,,enable,False
+KR,koude rilling,,enable,False
+"Kg,",kilogram,,enable,False
+L,Lumbale (1 t/m 5),,enable,False
+LAB,laboratorium diagnostiek,,enable,False
+LBTB,Linker bundeltakblok,,enable,False
+LE,longembolie,,enable,False
+LO/,Lichamelijk onderzoek,,enable,False
+LOB,linker onderbuik,,enable,False
+LOK,linker onderkwab (long),,enable,False
+LP,ruggenprik waarbij vocht wordt afgenomen,lumbaalpunctie,enable,False
+LUTS,Lower urinary Tract symptoms,,enable,False
+LVF,linker ventrikel functie,,enable,False
+LWI,luchtweginfectie,,enable,False
+LWK,Lumbale wervelkolom,,enable,False
+LZ,Langdurige zorg,,enable,False
+Li,of li links,,enable,False
+M,man,,disable,False
+M.,(+plaatsaanduiding) musculus,,disable,False
+MAB,maximale androgeen blokkade,,enable,False
+MADRS,Montgomery Asberg Depression Rating Scale,,enable,False
+MAL,Motor Activity Log,,enable,False
+MAP,mean arterial pressure,,enable,False
+MCI,Mild Cognitive Impairment,,enable,False
+MCP,metacarpophalangeaal gewricht,,enable,False
+MDO,multi disciplinair overleg,,enable,False
+MEP,Motor Evoked Potential,,enable,False
+MF,multi fibre (sondevoeding),,enable,False
+MFIS,"Modified, Fatigue Impact Scale (vermoeidheidstest)",,enable,False
+MHOQ,Michigan Hand Outcomes Questionnaire,,enable,False
+MKD,Medisch klaar datum,,enable,False
+MLDV,Manuele Lymfedrainage ad modum Vodder,,enable,False
+MMSE,mini mental state examination,,enable,False
+MNA,mini nutritional assesment,,enable,False
+MOCA,montreal cognitive assesment,,enable,False
+MRA,Magnetic Resonance Angiography,,enable,False
+MRC,(schaal) Medical Research Council (Schaal),,enable,False
+MRI,Magnetic Resonance Imaging,,enable,False
+MRSA,Meticilline-resistente staphylococcus aureus,,enable,False
+MTP,MetaTarsal Phalangeal gewricht,,enable,False
+MVI,Multidimensionele Vermoeidheids Index,,enable,False
+Mevr,Mevrouw,,enable,False
+N.,(+plaatsaanduiding) nervus,,disable,False
+N.B.,nota bene,,enable,False
+NAH,niet-aangeboren hersenletsel,,enable,False
+NAW-gegevens,"naam, adres, woonplaats",,enable,False
+NB,Nota Bene,,enable,False
+NDO-V,Nederlands Dysartrie Onderzoek-Volwassenen,,enable,False
+NDT,neuro developmental treatment,,enable,False
+NH,naar huis,,enable,False
+NHPT,Nine Hole Peg Test,,enable,False
+NIADM,Niet-insuline afhankelijke Diabetes mellitus,,enable,False
+NIAZ,Nederlands Instituut voor Accreditatie van Ziekenhuizen,,enable,False
+NIBP,Non Invasive Blood Pressure (bloeddruk),,enable,False
+NIPPV,non invasive positive pressure ventilation (= BiPAP / CPAP),,enable,False
+NMDA(R),N-methyl-D-asparaginezuur (receptor),,enable,False
+NPI-NH,Neuropsychiatric Inventory - Nursing Home,,enable,False
+NPIQ,Neuropsychiatric Inventory Questionnaire,,enable,False
+NPO,neuropsychologisch onderzoek,,enable,False
+NPV,Nederlandse Persoonlijkheids Vragenlijst,,enable,False
+NRS,Nummerieke Rating Scale,,enable,False
+NSCLC,non small cell lung cancer,,enable,False
+NSVO,Nederlandstalig Spraak Verstaanbaarheids Onderzoek,,enable,False
+NTG,Nitroglycerine,,enable,False
+NVZB,niet verschenen zonder bericht,,enable,False
+NX,Navel / xyphoid,,enable,False
+NZM,Nazorgmedewerker,,enable,False
+NaCl,natrium chloride,,enable,False
+O/,onderzoek,,enable,False
+O2,zuurstof,,enable,False
+OAC,de pil,orale anticonceptie,enable,False
+OCT,optical coherence tomografie,,enable,False
+OD,rechteroog,oculo dextra,enable,False
+ODS,beide ogen,oculo dextra et sinistra,enable,False
+OHCA,out of hospital cardiac arrest,,enable,False
+OK,operatie(kamer),,enable,False
+OMO,Ontslag medicatie overzicht,,enable,False
+OPHI-II,Occupational Performance History Interview,,enable,False
+OS,linkeroog,oculo sinistra,enable,False
+OSA,Occupational Self Assessment,,enable,False
+OSAS,Obstructief slaap apnoe syndroom,,enable,False
+OT,Oefentherapie,,enable,False
+P,pols,,disable,False
+P/,plan,,enable,False
+PA,pathologische anatomie,,enable,False
+PAAZ,Psychiatrische Afdeling Algemeen Ziekenhuis,,enable,False
+PACSLAC-D,Pain Assessment Checklist for Seniors with Severe Dementia,,enable,False
+PACT,Partners van Afasiepatiënten Conversatie Training,,enable,False
+PAF,Paroxysmaal atriumfibrilleren,,enable,False
+PALPA,Psycholinguistic Assessments of Language Processing in Aphasia,,enable,False
+PAOD,Peripheral arterial occlusive disease,,enable,False
+PAP,Papanicolaou classificatie,,enable,False
+PBR,Pseudobulbaire reflexen,,enable,False
+PC,(IC) Pressure controle,,disable,False
+PC,(transfusie) packed cell,,disable,False
+PCA,Patiënt (ge)Controleerde Analgesie,,enable,False
+PCN,percutane nefrostomie (catheter),,enable,False
+PDI,Pain Disability Index,,enable,False
+PDL,Passiviteiten van het Dagelijks Leven,,enable,False
+PDMS,patiënt data management systeem,,enable,False
+PE,Pre eclampsie,,enable,False
+PEARL,pupil beoordeling,,enable,False
+PEG,Percutane Endoscopische Gastrostomie,,enable,False
+PET,Positron emissie tomografie,,enable,False
+PG,psycho geriatrie,,enable,False
+PGB,Persoons Gebonden Budget,,enable,False
+PI,(gyneacologie) Pulsatility index,,disable,False
+PI,(oogheelkunde) perifere iridotomie,,disable,False
+PICC,Percutane Inserted Centrale Catheter,,enable,False
+PIF,Product informatie folder,,enable,False
+PIPO,Plas- en poeppoli,,enable,False
+PLVT,Pitch Limiting Voice Treatment,,enable,False
+PM,pro memori,,enable,False
+PO,psychologisch onderzoek,,enable,False
+POB,pijn op de borst,,enable,False
+POD,Psychologisch Onderzoek Dementie,,enable,False
+POH,Praktijkondersteuner huisarts,,enable,False
+POMA,Performance oriented Mobility Assessment (Tinettitest),,enable,False
+POS,Pre Operatieve Screening,,enable,False
+POVIAS,"beoordeling portio, ontsluiting, vliezen, indaling, aard voorliggend deel, stand",,enable,False
+PPROM,Preterm Premature rupture of membranes,,enable,False
+PROM,Premature rupture of membranes,,enable,False
+PRVC,Pressure Regulated Volume Controle,,enable,False
+PRWHE-DLV,Patient Rated Wrist Hand Evaluation - Dutch Language Version,,enable,False
+PS,Pressure support,,enable,False
+PTA,Percutane transluminale angioplastiek,,enable,False
+PTCA,Dotteren,,enable,False
+PTCD,percutaneous Transhepatic Cholangio Drainage,,enable,False
+PTSS,Post Traumatische Stress Stoornis,,enable,False
+PVC,Prematuur Ventriculair Complex,,enable,False
+Post-Icschaal,Post Intensive Care Schaal,,enable,False
+R.I.P.,ruimte innemend proces,,enable,False
+RAVEN,Raven coloured progressive matrices,,enable,False
+RBK,rechter bovenkwab (long),,enable,False
+RBMT,Rivermead Behavioral Memory Test,,enable,False
+RBTB,Rechter bundeltakblok,,enable,False
+RFA,Radiofrequente ablatie,,enable,False
+RHCO,Rechterhemisfeer Communicatie Onderzoek,,enable,False
+RIAGG,Regionale Instelling voor Ambulante Geestelijke Gezondheidszorg,,enable,False
+RIP,ruimte innemend proces,,enable,False
+RLM,Regionaal Laboratorium Medische Microbiologie,,enable,False
+RMBPC,Revised Memory and Behavior Problems Checklist,,enable,False
+ROB,rechter onderbuik,,enable,False
+ROK,rechter onderkwab (long),,enable,False
+RPE,Ratings of Perveived Exertion (Borgschaal),,enable,False
+RPT,Retropulsietest,,enable,False
+RR,bloeddruk,,enable,False
+RS,Respiratoir-syncytieel virus,,enable,False
+RVF,retroversieflexie,,enable,False
+RZA,Rivas Zorg Advies,,enable,False
+RvC,reden van consult,,enable,False
+RvK,reden van komst,,enable,False
+RvO,reden van opname,,enable,False
+S,(1 t/m 5) Sacrale (1 t/m 5),,disable,False
+S.I,gewricht sacro-iliacaal gewricht,,enable,False
+SAT,Semantisch Associatie Test,,enable,False
+SC,(als toedieningsvorm) Subcutaan,,disable,False
+SC,(gynaecologie) sectio caesarea,,disable,False
+SCLC,small cell lung cancer,,enable,False
+SCM,musculus sterno cleido mastoideus,,enable,False
+SEH,spoedeisende hulp,,enable,False
+SEO,Screenend Echoscopisch Onderzoek,,enable,False
+SI,(gewricht) Sacro-iliacaal (gewricht),,enable,False
+SIM,Simpele incident melding,,enable,False
+SK,sputumkweek,,enable,False
+SLE,systemische lupus erythematodes,,enable,False
+SLT,selective laser trabeculectomie,,enable,False
+SN,Symfyse / navel,,enable,False
+SNAQ,RC Short Nutrition Assessment Questionnaire for Residential Care,,enable,False
+SO,Specialist Ouderengeneeskunde,,enable,False
+SOA,seksueel overdraag bare aandoening,,enable,False
+SOAP,"Subjectief, Objectief, Analyse, Plan",,enable,False
+SODA,Sequential Occupational Dexterity Assessment,,enable,False
+SOEP,"Subjectief, Objectief, Evaluatie, Plan",,enable,False
+SOESSS,Standaard Observatie Ergotherapie Schrijven en Sensomotorische,,enable,False
+SOESSS-V,Standaard Observatie Ergotherapie Schrijven en Sensomotorische,,enable,False
+SPECT,Single photon emission computed tomography,,enable,False
+SPV-er,Sociaal Psychiatrisch Verpleegkundige,,enable,False
+SQA,status quo ante,,enable,False
+SR,Sinusritme,,enable,False
+SROM,Spontaneous rupture of membranes,,enable,False
+SSEP,Somato-sensory Evoked Potential,,enable,False
+ST,Sinus tachycardie,,enable,False
+STS,Sit to Stand,,enable,False
+SULCS,Stroke Upper Limb Capacity Scale,,enable,False
+SV,Sondevoeding,,enable,False
+SVT,Supra ventriculaire tachyardie,,enable,False
+SWT,Shuttle walk test,,enable,False
+SpAaa,"spontane partus, achterhoofdsligging met achterhoofd achter",,enable,False
+SpAav,"spontane partus, achterhoofdsligging met achterhoofd voor",,enable,False
+T1-12,Thoracaal 1-12,,enable,False
+TAC,Taxotere Adriamycine Cyclofosfamide kuur (chemotherapie),,enable,False
+TBC,Tuberculose,,enable,False
+TC,telefonisch consult,,enable,False
+TCT,Trunk Control Test,,enable,False
+TD,Technische Dienst,,enable,False
+TEV,tussenevaluatie,,enable,False
+THP,totale heupprothese,,enable,False
+TIA,Transient Ischaemic Attack,,enable,False
+TIS,Trunk Impairment Scale,,enable,False
+TKP,totale knieprothese,,enable,False
+TMT,Trail Making Test,,enable,False
+TNM,tumorstadiering,,enable,False
+TNP,topneusproef,,enable,False
+TO,Telefonisch consult,,enable,False
+TOMM,Test Of Memory Malingering,,enable,False
+TOS,Thoracic Outlet Syndrome,,enable,False
+TPR,Tricepspeesreflex,,enable,False
+TPV,Totaal parenterale voeding,,enable,False
+TS,tentamen suïcide,,enable,False
+TSK,Tampaschaal voor Kinesiofobie,,enable,False
+TUG,Timed up and go,,enable,False
+TV,tidal volume,,enable,False
+TVT,tension free vaginal tape,,enable,False
+TWK,Thoracale wervelkolom,,enable,False
+Th,thoracaal,,enable,False
+Th,(1 t/m 12) Thoracale (1 t/m 12),,disable,False
+Tr,Tractus,,enable,False
+UAT,Utrecht Arm/Hand Test,,enable,False
+UK,urinekweek,,enable,False
+UPPP,uvulopalatopharyngoplastiek,,enable,False
+US,Urinesediment,,enable,False
+USER,Utrechtse Schaal voor de Evaluatie van klinische Revalidatie,,enable,False
+UWI,Urineweginfectie,,enable,False
+Uvit,Registratienummer van WLangdurige Zorg rolstoelen,,enable,False
+V,vrouw,,false,False
+V+U,vocht en urine,,enable,False
+VAG,Vesiculair Ademgeruis,,enable,False
+VAS,Visuele Analoge Scale,,enable,False
+VAT,Visuele Associaltie Test,,enable,False
+VBI,Vrijheidsbeperkende Interventies,,enable,False
+VBM,Vrijheidsbeperkende maatregelen,,enable,False
+VBV,Vaginaal bloedverlies,,enable,False
+VC,Volume Controlled,,enable,False
+VEP,Visual Evoked Potential,,enable,False
+VF,ventrikel fibrileren,,enable,False
+VG,verstandelijk gehandicapten,,enable,False
+VGCt,Vereniging voor Gedragstherapie en Cognitieve therapie,,enable,False
+VHI,Voice Handicap Index,,enable,False
+VIB,Video Interactie Begeleiding,,enable,False
+VIG,verzorgende individuele gezondheidszorg,,enable,False
+VIM,Veilig Incidenten Melden,,enable,False
+VIN,vulvaire intraepitheliale neoplasie,,enable,False
+VKP,Vragenlijst voor Kenmerken van Persoonlijkheid,,enable,False
+VOD,Verwachte OntslagDatum,,enable,False
+VT,ventrikel tachycardie / Ventriculaire tachycardie,,enable,False
+VZR,Voetzoolreflex,,enable,False
+WAIS,Wechsler adult intelligence scale,,enable,False
+WBOPZ,Wet bijzondere opneming psychiatrische ziekenhuizen,,enable,False
+WEZT,Werkwoorden en Zinnen Test,,enable,False
+WGBO,Wet geneeskundige behandelings overeenkomst,,enable,False
+WLZ,Wet Langdurige Zorg,,enable,False
+WMS,Wechsler Memory Scale,,enable,False
+WV,Wijkverpleging,,enable,False
+WVPK,Wijkverpleegkundige,,enable,False
+Wbp,Wet bescherming persoonsgegevens,,enable,False
+Wfz,Wet forensische zorg,,enable,False
+Wmo,Wet maatschappelijke ondersteuning,,enable,False
+Wvggz,Wet verplichte geestelijke gezondheidszorg,,enable,False
+Wzd,Wet zorg en dwang,,enable,False
+"X,",x- Rontgenfoto / (röntgen)foto,,enable,False
+X-foto,/ naam van de foto röntgen foto van een bepaald deel vh lichaam,,enable,False
+X-thorax,röntgenfoto van de borstkas,,enable,False
+YAG,laser gebruikt voor nastaar en perifere iridotomie,,enable,False
+ZA,Zorgassistent,,enable,False
+ZAT,Zinnen Aanvul Test,,enable,False
+ZLP,Zorgleefplan,,enable,False
+ZR,Zorgregisseur,,enable,False
+ZV,(+) Zorgverlener (plus),,enable,False
+ZVW,Zorgverzekeringswet,,enable,False
+ZZP,Zorg Zwaarte Pakket,,enable,False
+a terme,verwachte datum van bevallen,,enable,False
+a.b.,antibiotica,,enable,False
+acuut,plotseling beginnend,,enable,False
+bpm,beats per minute,,enable,False
+con,consistentie,,enable,False
+cô,controle,,enable,False
+def.,ontlasting,defaecatie,enable,False
+diast.,onderste waarde bloeddruk,diastole,enable,False
+e.c.i.,door onbekende oorzaak,e causa ignota,enable,False
+ery's,rode bloedcellen,erytrocyten,enable,False
+febris,koorts,,enable,False
+fem,femoralis,,enable,False
+foetor,stank,,enable,False
+g.a,geen afwijkingen,,enable,False
+g.d.a,geen directe afwijkingen,,enable,False
+hdlp,high density lipoproteine,,enable,False
+i.m.,in de spier,intramusculair,enable,False
+i.v,in de ader,intraveneus,enable,False
+iADL,instrumentele algemene dagelijkse levensverrichtingen,,enable,False
+iPSA,initieel PSA,,enable,False
+ibs,(in juridische zin) inbewaringstelling,,disable,False
+ibs,irriteble bowel syndrome,,disable,False
+in partu,aan het bevallen,,enable,False
+info,informatie,,enable,False
+kJ,kilo Joule,,enable,False
+kcal,kilocalorie,,enable,False
+l.o.,lichamelijk onderzoek,,enable,False
+latent,verborgen,,enable,False
+ldlp,low density lipoproteine,,enable,False
+li,"links, linker",,enable,True
+mcg,microgram,,enable,False
+mg,milligram,,enable,False
+mictie,urinelozing,,enable,False
+ml,milliliter,,enable,False
+mmHg,millimeter kwik,,enable,False
+mmol/,L minimol per liter,,enable,False
+mot.,Ind. Motricity Index,,enable,False
+multiple,veelvoudig,,enable,False
+niadm,of NIADM niet-insuline afhankelijke diabeet,,enable,False
+norm.,normaal,,enable,False
+np,nieuwe patient,,enable,False
+npsp,nieuwe patient spoed,,enable,False
+opm,opmerking,,enable,False
+p.o.,door de mond,per os,enable,False
+p.o.b.,pijn op de borst,,enable,False
+pH,Zuurgraad,,enable,False
+palp.,onderzoek door betasting,palpatie,enable,False
+re,"rechts, rechter",,enable,True
+rm,rechterlijke machtiging,,enable,False
+s.p.,suprapubisch,,enable,False
+sectio (caesarea),keizersnede,,enable,False
+sed,urinesediment,,enable,False
+symm.,symmetrisch,,enable,False
+syst.,bovenste waarde bloeddruk,systole,enable,False
+tel.,telefoon,,enable,False
+temp,temperatuur,,enable,False
+trombo's,bloedplaatjes,trombocyten,enable,False
+urge,aandrang,,enable,False
+vpk,verpleegkundige,,enable,False
+vpl,verpleegkundige,,enable,False
+wv,waarvoor,enable,True,False
+z.n.,zo nodig,,enable,False
+zh,ziekenhuis,,enable,True
+μ,micro,,enable,False
+MI,mitralisinsufficiëntie,enable,False
+AP,angina pectoris,enable,False
+BF,boezemfibrileren,enable,False
+NRNB,niet reanimeren niet beademen,enable,False
+WR,wel reanimeren,enable,False
+NR,niet reanimeren,enable,False
+MDR,multidisciplinaire richtlijn,enable,False
+LESA,Landelijke Eerstelijns Samenwerkings Afspraak,enable,False
+pt,patient,enable,True
+AED,Automatische Externe Defibrillator,enable,False
+ALS,advanced life support,disable,False
+BLS,basic life support,enable,False
+ZLP,zorgleefplan,enable,True
+CPC,Cerebral Performance Categories,enable,False
+OHCA,reanimatie buiten het ziekenhuis,enable
+PCI,percutane coronaire interventie,enable,False

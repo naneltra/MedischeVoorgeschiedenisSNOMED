@@ -1,0 +1,137 @@
+%readVoorgeschiedenis
+cd('Z:\COVID\SymptomenCOVIDnaVaccinatie\Aanlevering april');
+
+%%code voor 'automatisch' inladen
+%naam en directory van waar het bestand ingeladen moet worden
+readfile = 'Z:\COVID\SymptomenCOVIDnaVaccinatie\Aanlevering april\COVID_20220422__MED.csv'
+    Data = readtable(readfile);
+     size(Data)
+
+    dataTableS = Data;
+    TempName = ['Voorgeschiedenis_COVID_AanleveringApril2022_05092022','Matlab.csv'];
+	filename = join(TempName);
+%%
+
+%%Handmatig inladen code
+%Na inladen handmatig aanpassen
+%dataTableS = MDSMEDISCHEGESCHIEDENISwithclientenasselectmrodorganiza20210806;
+%name = ['MDSMEDISCHEGESCHIEDENISwithclientenasselectmrodorganiza20210806','Matlab.csv'];
+%filename = join(name)
+%%
+
+%Add Columns
+datesvct = repmat(0, size(dataTableS,1), 1); 
+dataTableS = [table(datesvct, 'VariableNames', {'PulmonaalLijden'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'CardiovasculairLijden'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'CerebrovasculairLijden'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'DiabetesMellitus'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'Dementie'}),dataTableS];
+dataTableS = [table(datesvct, 'VariableNames', {'Nierfalen'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'Obesitas'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'Parkinson'}),dataTableS]; 
+dataTableS = [table(datesvct, 'VariableNames', {'Korsakov'}),dataTableS];
+dataTableS = [table(datesvct, 'VariableNames', {'Huntington'}),dataTableS]; 
+
+
+%% Pulmonaal lijden: COPD, astma
+% 0 geen Pulmonaal lijden
+% 1 COPD
+% 2 astma
+
+nameMHArray = {'PulmonaalLijden', 'CardiovasculairLijden', 'CerebrovasculairLijden',
+    'DiabetesMellitus', 'Dementie', 'Nierfalen', 'Obesitas', 'Parkinson', 'Korsakov', 'Huntington'}; 
+
+PulmonaalA = ["COPD","astma", "longfibrose","CARA","OSAS", "slaapapneu","obstructief slaapapneu" ];
+
+CardiovasculairLijdenA = ["hartfalen", "decompensatio cordis", "dec cordis", "coronair lijden", "atriumfibrilleren", "boezemfibrilleren", "myocardinfarct", "mitralisinsufficiëntie" , "hypertrofie linker ventrikel", "PTCA", "angina pectoris", "hartkatheterisatie",  "pulmonale hypertensie",
+    " mitralisklepinsufficiëntie", "kleplijden", "coronair lijden", "myocard infarct", "PCI", "dotteren", "aortastenose",
+    "arterieel vaatlijden", " PTA ","Claudicatio intermittens", "PTCA", "hypertrofie linker ventrikel",
+    "angina pectoris", "hartkatheterisatie", "CABG", "coronairlijden", "AV-blok", "totaalblok", "hartritmestoornissen",  "pacemaker",
+    "onderwandinfarct","voorwandinfarct", "VW infarct","anteroseptaal infarct", "AS-infarct", "anterior infarct", "posterior infarct", "inferior infarct", "septaal infarct"];
+% infarct weggehaald.
+
+CerebrovasculairLijdenA = ["CVA", "TIA", "iCVA", "beroerte", "hersen infarct", "stenose arteria carotis", "trombose", "DVT", "herseninfarct", "intracerebrale hersenbloeding",
+"intracerebrale bloeding", "hersenbloeding", "stroke", "cerebraal infarct", "hemiplegie", "tetraplegie", "hemiparese", "hemibeeld", "lacunair infarct", "lacunaire infarcten","occipitaal infarct", "hersenstaminfarct", "staminfarct", "media infarct", "mediainfarct",  "cerebellair infarct", "cerebrovasculair lijden", "vertrebrobasillair infarct", "infarct linker hemisfeer", 
+"infarct linkerhemisfeer", "infarct rechter hemisfeer", "infarct rechterhemisfeer", "infarct LHS", "infarct RHS", "cerebrale infarcten", "pons infarct", "thalamusinfarct", "infarct thalamus"];
+
+DiabetesMellitusA = ["diabetes mellitus", "diabetes", "suikerziekte", "DMII"];
+
+DementieA = ["dementie", "Alzheimer", "cognitieve achteruitgang", "MCI", "mild cognitive impairment", "cognitieve stoornis", "anamnetische stoornis", "SDAT"];
+
+NierfalenA = ["nierfalen", "nierinsufficiëntie", "dialyse", "nefropathie","nierfunctiestoornis",
+"nierfunctiestoornis", "verminderde nierfunctie","slechte nierfunctie", "nierinsufficientie", "nierinsufficiëntie"];
+
+ObesitasA =  ["obesitas", "obees", "overgewicht", "gewichtstoename"];
+
+ParkinsonA = ["Parkinson"];
+
+KorsakovA = ["alcohol", "Korsakov", "Korsakoff","Korsakow" "Wernicke encephalopathie", "Wernicke","amnestisch syndroom"];
+
+HuntingtonA = ["Huntington"];
+
+
+ArrayTotaal(1).PulmonaalLijden = PulmonaalA;
+ArrayTotaal(1).CardiovasculairLijden = CardiovasculairLijdenA;
+ArrayTotaal(1).CerebrovasculairLijden = CerebrovasculairLijdenA;
+ArrayTotaal(1).DiabetesMellitus = DiabetesMellitusA;
+ArrayTotaal(1).Dementie = DementieA;
+ArrayTotaal(1).Nierfalen = NierfalenA;
+ArrayTotaal(1).Obesitas = ObesitasA;
+ArrayTotaal(1).Parkinson = ParkinsonA;
+ArrayTotaal(1).Korsakov = KorsakovA;
+ArrayTotaal(1).Huntington = HuntingtonA;
+
+
+
+%% Check wat voor soort 'Diagnose is'of het al een string is of niet.
+for j = 1:length(nameMHArray)
+    ArrayMH = ArrayTotaal(1).(nameMHArray{j})
+    for d = 1:length(ArrayMH)
+        for i = 1:size(dataTableS.Diagnose,1)
+            VG = char(dataTableS.Diagnose(i));
+            if strfind(lower(VG),lower(ArrayMH(d)))> 0
+                dataTableS.(nameMHArray{j})(i) = d;
+            end
+        end
+    end
+end
+
+%writetable(dataTableS,'VGCOVID3011Bevestigd.csv');
+
+nameMHArrayB = {'CardiovasculairLijden', 'CerebrovasculairLijden',
+    'DiabetesMellitus', 'Dementie'}; 
+CardiovasculairLijdenB = [" AF ", " MI ", "STEMI", "PCI", " AP ", " BF ", " PTA "];
+CerebrovasculairLijdenB = [" CVA ", " TIA ", " iCVA ", " DVT ", " ICH "];
+DiabetesMellitusB = [" DM ", " DMII "];
+DementieB = [" MCI "];
+
+
+ArrayTotaalB(1).CardiovasculairLijden = CardiovasculairLijdenB;
+ArrayTotaalB(1).CerebrovasculairLijden = CerebrovasculairLijdenB;
+ArrayTotaalB(1).DiabetesMellitus = DiabetesMellitusB;
+ArrayTotaalB(1).Dementie = DementieB;
+
+%No lower case
+for j = 1:length(nameMHArrayB)
+    ArrayMH = ArrayTotaalB(1).(nameMHArrayB{j})
+    for d = 1:length(ArrayMH)
+        for i = 1:size(dataTableS.Diagnose,1)
+            VG2 = char(dataTableS.Diagnose(i));
+            if strfind((VG2),(ArrayMH(d)))> 0
+                dataTableS.(nameMHArrayB{j})(i) = d;
+            end
+        end
+    end
+end
+
+writetable(dataTableS,filename);
+
+%Als je de workspace wilt opslaan zodat je niet opnieuw steeds e excel
+%hoeft te laden, zorg dat je alle variabelen die je niet wilt delete
+%(rechter muisknop, delete)
+% save('WorkspaceMGVerenso.mat');
+
+%Als je wilt inladen
+% load('WorkspaceMGVerenso.mat')
+
+disp done

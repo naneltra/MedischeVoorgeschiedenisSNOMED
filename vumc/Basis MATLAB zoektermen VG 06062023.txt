@@ -1,0 +1,32 @@
+PulmonaalA = ["COPD","astma", "longfibrose","CARA","OSAS", "slaapapneu","obstructief slaapapneu" ];
+
+CardiovasculairLijdenA = ["hartfalen", "decompensatio cordis", "dec cordis", "coronair lijden", "atriumfibrilleren", "boezemfibrilleren", "myocardinfarct", "mitralisinsufficiëntie" , "hypertrofie linker ventrikel", "PTCA", "angina pectoris", "hartkatheterisatie",  "pulmonale hypertensie",...
+    " mitralisklepinsufficiëntie", "kleplijden", "coronair lijden", "myocard infarct", "PCI", "dotteren", "aortastenose",...
+    "arterieel vaatlijden", " PTA ","Claudicatio intermittens", "PTCA", "hypertrofie linker ventrikel",...
+    "angina pectoris", "hartkatheterisatie", "CABG", "coronairlijden", "AV-blok", "totaalblok", "hartritmestoornissen",  "pacemaker",...
+    "onderwandinfarct","voorwandinfarct", "VW infarct","anteroseptaal infarct", "AS-infarct", "anterior infarct", "posterior infarct", "inferior infarct", "septaal infarct"];
+[" AF ", " MI ", "STEMI", "PCI", " AP ", " BF ", " PTA "];
+
+CerebrovasculairLijdenA = ["CVA", "TIA", "iCVA", "beroerte", "hersen infarct", "stenose arteria carotis",...
+    "trombose", "DVT", "herseninfarct", "intracerebrale hersenbloeding",...
+"intracerebrale bloeding", "hersenbloeding", "stroke", "cerebraal infarct", "hemiplegie", "tetraplegie", "hemiparese", "hemibeeld",...
+"lacunair infarct", "lacunaire infarcten","occipitaal infarct", "hersenstaminfarct", "staminfarct", "media infarct", "mediainfarct",  "cerebellair infarct", "cerebrovasculair lijden", "vertrebrobasillair infarct", "infarct linker hemisfeer", ...
+"infarct linkerhemisfeer", "infarct rechter hemisfeer", "infarct rechterhemisfeer", "infarct LHS", "infarct RHS", "cerebrale infarcten", "pons infarct", "thalamusinfarct", "infarct thalamus"];
+[" CVA ", " TIA ", " iCVA ", " DVT ", " ICH "];
+
+DiabetesMellitusA = ["diabetes mellitus", "diabetes", "suikerziekte", "DMII"];
+[" DM ", " DMII "];
+
+DementieA = ["dementie", "Alzheimer", "cognitieve achteruitgang", "MCI", "mild cognitive impairment", "cognitieve stoornis", "anamnetische stoornis", "SDAT"];
+[" MCI "];
+
+NierfalenA = ["nierfalen", "nierinsufficiëntie", "dialyse", "nefropathie","nierfunctiestoornis",...
+"nierfunctiestoornis", "verminderde nierfunctie","slechte nierfunctie", "nierinsufficientie", "nierinsufficiëntie"];
+
+ObesitasA =  ["obesitas", "obees", "overgewicht", "gewichtstoename"];
+
+ParkinsonA = ["Parkinson"];
+
+KorsakovA = ["alcohol", "Korsakov", "Korsakoff","Korsakow" "Wernicke encephalopathie", "Wernicke","amnestisch syndroom"];
+
+HuntingtonA = ["Huntington"];
