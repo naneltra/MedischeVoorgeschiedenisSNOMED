@@ -1,7 +1,21 @@
 
+tl;td
+
+Scripts en mapping om medische voorgeschiedenis te mappen m.b.v. SNOMED annotaties op de volgende themas:
+- PulmonaalLijden
+- CardiovasculairLijden
+- CerebrovasculairLijden
+- DiabetesMellitus
+- Dementie
+- Nierfalen
+- Obesitas
+- Parkinson
+- Korsakov
+- Huntington
+
 # Doel en Scope
 
-Dit document is een toelichting op de analyse waarbij vrije tekst wordt geannoteerd en geclusterd met behulp van SNOMED ontologie.  
+Deze repo is een analyse op clustering van vrije tekst (medische voorgeschiedenis) met behulp van SNOMED ontologie.  
 Dit is een alternatief op het clusteren op basis van zoektermen, zoals het MATLAB script. Beide benaderingen worden vergeleken. De verkenning van boomstructuren in SNOMED kan nieuwe inzichten geven en is een toets of de informatie vraag beantwoord kan worden.  
 De context waarin een concept staat is ook belangrijk. Dit document is beperkt tot het vinden van SNOMED concepten in de dataset en gaat niet in op de context van een concept. 
 
@@ -49,21 +63,4 @@ Concepten met een relatie met een ander concept, attribuut interpreteert
 * : 363714003|interpreteert| = 311465003|cognitieve functie|
 ```
 
-
-
-
-
-
-
-Map medische voorgeschiedenis op SNOMED concepten en cluster in deze categorieen:
-
-PulmonaalLijden
-CardiovasculairLijden
-CerebrovasculairLijden
-DiabetesMellitus
-Dementie
-Nierfalen
-Obesitas
-Parkinson
-Korsakov
-Huntington
+ECL zoekopdrachten voor elk thema vind je [hier](/vumc/snomed_mapping.py)
