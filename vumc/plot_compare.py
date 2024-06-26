@@ -1,6 +1,12 @@
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
+
+
+"""
+Plots the labels for both matlab scipt approach and snomed annotation approach
+Hardcoded data for simplicity
+"""
 def plot_tiles():
 
     data =[

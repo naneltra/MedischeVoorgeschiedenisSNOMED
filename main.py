@@ -3,17 +3,16 @@ from pathlib import Path
 import re
 from tqdm import tqdm
 from vumc import plot_compare, vumc_mapping, snomed_mapping
+from dotenv import load_dotenv
+import os
 
 # import importlib
 # importlib.reload(snomed_mapping)
 # importlib.reload(vumc_mapping)
 # importlib.reload(plot_compare)
 
-from medcat.cat import CAT
-
 tqdm.pandas(desc="processing vumc dataextract")
-
-
+load_dotenv()
 
 ##############################################
 ##      LOAD MEDISCHE VOORGESCHIEDENIS
@@ -37,12 +36,10 @@ df = df.loc[~df['text'].isna()]
 
 
 
-
-
 ##############################################
 ##      ANNOTATE
 ##############################################
-
+from medcat.cat import CAT
 
 def data_iterator(data: pd.DataFrame):
     for id, row in data[['text']].iterrows():
@@ -56,10 +53,8 @@ df['word_count'] = df.loc[~df['diagnose'].isna(),'diagnose'].apply(lambda x: len
 # 43 * 8 * 200
 batch_size_chars = 68800 
 
-model_location = '/Users/lennaartraams/git/r-d-projects/gm-r-d/apps/medcat_service/models/snomed_2023_trained_neg_b3c1e19c8ffccf75.zip'
-MODEL_PATH = Path(model_location)
-
-mymodel = CAT.load_model_pack(MODEL_PATH.absolute().as_posix())
+model_location = os.getenv('MODEL_PATH')
+mymodel = CAT.load_model_pack(model_location)
 
 results = mymodel.multiprocessing_batch_char_size(generator,  # Formatted data
                                               batch_size_chars = batch_size_chars,

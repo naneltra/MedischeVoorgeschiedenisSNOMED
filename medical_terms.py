@@ -1,3 +1,9 @@
+"""
+This script loads a csv file with abbrevations and replaces it with written out equivalent.
+This will improve annotation quality, the annotation model is setup to not annotate 2 character words.
+"""
+
+
 import csv
 import pandas as pd
 

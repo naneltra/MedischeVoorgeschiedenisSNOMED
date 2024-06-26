@@ -1,13 +1,19 @@
+"""
+This script checks if all keywords defined in the matlab script from aumc are mapped correctly to SNOMED concepts
+"""
+
 from medcat.cat import CAT
 from pathlib import Path
 from vumc import vumc_mapping
+from dotenv import load_dotenv
+import os
 
-import importlib
-importlib.reload(vumc_mapping)
+load_dotenv()
+
 
 batch_size_chars = 68800 
 
-model_location = '/Users/lennaartraams/git/r-d-projects/gm-r-d/apps/medcat_service/models/snomed_2023_trained_neg_b3c1e19c8ffccf75.zip'
+model_location = os.getenv('MODEL_PATH')
 MODEL_PATH = Path(model_location)
 
 mymodel = CAT.load_model_pack(MODEL_PATH.absolute().as_posix())
@@ -15,7 +21,6 @@ mymodel = CAT.load_model_pack(MODEL_PATH.absolute().as_posix())
 
 vumc_mapping1 = vumc_mapping.ArrayTotaal
 
-[print(_) for _ in vumc_mapping1.keys()]
 
 all_vumc_terms = []
 [all_vumc_terms.extend(_) for _ in vumc_mapping1.values()]
@@ -28,6 +33,7 @@ for t in all_vumc_terms:
     if not bool(mymodel.get_entities(t)['entities']):
         missing_terms.append(t)
         
+# keywords without SNOMED concept
 missing_terms
 
 all_vumc_terms_annotated = []
@@ -40,7 +46,8 @@ all_vumc_terms_annotated
 
 
 
-
+"""
+"""
 
 
 new_descriptions = {'CARA': 427896006,
@@ -54,10 +61,6 @@ new_descriptions = {'CARA': 427896006,
  'hartritmestoornissen': 698247007,
  'onderwandinfarct': 73795002,
  'voorwandinfarct':233839009,
-#  ' AF ',
-#  ' MI ',
-#  ' AP ',
-#  ' BF ',
  'intracerebrale hersenbloeding': 274100004,
  'hersenbloeding': 274100004,
  'stroke' : 230690007,
