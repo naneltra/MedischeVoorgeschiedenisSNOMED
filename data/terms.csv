@@ -142,7 +142,7 @@ DVT,diep veneuze trombose,,enable,False
 DYVA,Dysartrie en Verbale Apraxie- onderzoek,,enable,False
 DaT,(scan) Dopamine transporter scintigrafie,,enable,False
 Dhr,De heer,,enable,False
-Dig,(1 t/m 5) Digitorum (1 t/m 5) (wel hand of voet benoemen),,enable,False
+Dig,(1 t/m 5) Digitorum (1 t/m 5) (wel hand of voet benoemen),,disable,False
 E+,eiwitverrijkt,,enable,False
 E-,eiwitbeperkt,,enable,False
 EBRT,External Beam Radio Therapy,,enable,False
@@ -173,7 +173,7 @@ En+,energieverrijkt,,enable,False
 En-,energiebeperkt,,enable,False
 FAC,fetal abdominal circumference,,enable,False
 FAG,FAG/ fluorescentie-angiogram,,enable,False
-FEC,5 Fluorouracil Epirubicine Cyclofosfamide kuur (chemotherapie),,enable,False
+FEC,Fluorouracil Epirubicine Cyclofosfamide kuur (chemotherapie),,enable,False
 FEES,Fiber Laryngoscopy Evaluation of Swallow,,enable,False
 FFP,fresh frozen plasma,,enable,False
 FL,Femur length,,enable,False
