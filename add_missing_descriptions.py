@@ -27,7 +27,6 @@ all_vumc_terms = []
 all_vumc_terms
 
 
-
 missing_terms = []
 for t in all_vumc_terms:
     if not bool(mymodel.get_entities(t)['entities']):
@@ -44,13 +43,8 @@ for t in all_vumc_terms:
 all_vumc_terms_annotated
 
 
-
-
-"""
-"""
-
-
-new_descriptions = {'CARA': 427896006,
+new_descriptions = {
+ 'CARA': 427896006,
  'dec cordis': 195111005,
  'mitralisinsufficiëntie': 194736003,
  'mitralisklepinsufficiëntie': 48724000,
@@ -83,26 +77,36 @@ new_descriptions = {'CARA': 427896006,
  'Wernicke encephalopathie': 21007002,
  'Wernicke': 69482004,
  'Huntington': 58756001,
- 'occipitaal infarct',
+ 'occipitaal infarct': 276219001,
  'pons infarct'
- 'infarct RHS'
- 'infarct LHS'
- 'infarct rechterhemisfeer'
- 'infarct rechter hemisfeer'
- 'infarct linkerhemisfeer',
- 'infarct linker hemisfeer'
- 'vertrebrobasillair infarct'
- 'cerebrovasculair lijden'
- 'occipitaal infarct'
- 'stenose arteria carotis'
- 'septaal infarct'
- 'inferior infarct'
- 'posterior infarct'
- 'anterior infarct'
- 'AS-infarct'
- 'anteroseptaal infarct'
- 'VW infarct'
- 'myocard infarct'
+ 'infarct rechterhemisfeer': 307767006,
+ 'infarct rechter hemisfeer': 307767006,
+ 'infarct RHS': 307767006,
+ 'rechter hemisfeer': 5228007,
+ 'rechterhemisfeer': 5228007,
+ 'RHS': 5228007,
+ 'infarct linkerhemisfeer': 307766002,
+ 'infarct linker hemisfeer': 307766002,
+ 'infarct LHS': 307766002,
+ 'linkerhemisfeer': 72792008,
+ 'linker hemisfeer': 72792008,
+ 'LHS': 72792008,
+ 'vertrebrobasillair infarct':230717002,
+ 'vertebrobasilair infarct':230717002,
+ 'cerebrovasculair lijden': 62914000,
+ 'occipitaal': 31065004,
+ 'occipitaal infarct': 276219001,
+ 'stenose arteria carotis': 64586002,
+ 'stenose linker arteria carotis': 64586002,
+ 'stenose rechter arteria carotis': 64586002,
+ 'septaal infarct': 79009004,
+ 'inferior infarct': 233840006,
+ 'posterior infarct': 164869004,
+ 'anterior infarct': 233839009,
+ 'AS-infarct': 394659003,
+ 'anteroseptaal infarct': 62695002,
+ 'VW infarct': 233839009,
+ 'myocard infarct': 394659003
  }
 
 for k,v in new_descriptions.items():

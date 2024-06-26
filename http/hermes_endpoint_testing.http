@@ -32,10 +32,22 @@ content-type: {{contentType}}
 GET http://{{host}}/v1/snomed/search?s={{search_term}}&constraint=<{{concept_aandoening}}&maxHits=5  HTTP/1.1
 content-type: {{contentType}}
 
+
+
+### Perform search no filtering
+@search_term = {{$input Enter search term $value: parkinson}}
+GET http://{{host}}/v1/snomed/search?s={{search_term}}&maxHits=5  HTTP/1.1
+content-type: {{contentType}}
+
+
+
+
+
 GET http://{{host}}/v1/snomed/concepts/27113001/descriptions  HTTP/1.1
 content-type: {{contentType}}
 
 ### Perform search with prompt
+@search_term=occipitaal
 GET http://{{host}}/v1/snomed/search?s={{search_term}}&maxHits=5  HTTP/1.1
 content-type: {{contentType}}
 

@@ -1,7 +1,7 @@
 
-tl;td
+# In het kort
 
-Scripts en mapping om medische voorgeschiedenis te mappen m.b.v. SNOMED annotaties op de volgende themas:
+Scripts en mapping om medische voorgeschiedenis te clusteren m.b.v. SNOMED annotaties op de volgende themas:
 - PulmonaalLijden
 - CardiovasculairLijden
 - CerebrovasculairLijden
@@ -17,7 +17,8 @@ Scripts en mapping om medische voorgeschiedenis te mappen m.b.v. SNOMED annotati
 
 Deze repo is een analyse op clustering van vrije tekst (medische voorgeschiedenis) met behulp van SNOMED ontologie.  
 Dit is een alternatief op het clusteren op basis van zoektermen, zoals het MATLAB script. Beide benaderingen worden vergeleken. De verkenning van boomstructuren in SNOMED kan nieuwe inzichten geven en is een toets of de informatie vraag beantwoord kan worden.  
-De context waarin een concept staat is ook belangrijk. Dit document is beperkt tot het vinden van SNOMED concepten in de dataset en gaat niet in op de context van een concept. 
+
+Deze analyse beperkt zicht tot het herkennen van concepten en houdt geen rekening met de context binnen de text waarbinnen het concept is gevonden (vervolgstap). 
 
 
 # Datastroom
