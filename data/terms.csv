@@ -233,7 +233,7 @@ KNO,Keel-neus-oor,,enable,False
 KPR,Kniepeesreflex,,enable,False
 KR,koude rilling,,enable,False
 "Kg,",kilogram,,enable,False
-L,Lumbale (1 t/m 5),,enable,False
+L,Lumbale (1 t/m 5),,disable,False
 LAB,laboratorium diagnostiek,,enable,False
 LBTB,Linker bundeltakblok,,enable,False
 LE,longembolie,,enable,False
@@ -246,7 +246,7 @@ LVF,linker ventrikel functie,,enable,False
 LWI,luchtweginfectie,,enable,False
 LWK,Lumbale wervelkolom,,enable,False
 LZ,Langdurige zorg,,enable,False
-Li,of li links,,enable,False
+Li,links,,enable,True
 M,man,,disable,False
 M.,(+plaatsaanduiding) musculus,,disable,False
 MAB,maximale androgeen blokkade,,enable,False
@@ -420,7 +420,7 @@ SVT,Supra ventriculaire tachyardie,,enable,False
 SWT,Shuttle walk test,,enable,False
 SpAaa,"spontane partus, achterhoofdsligging met achterhoofd achter",,enable,False
 SpAav,"spontane partus, achterhoofdsligging met achterhoofd voor",,enable,False
-T1-12,Thoracaal 1-12,,enable,False
+T1-12,Thoracaal 1-12,,disable,False
 TAC,Taxotere Adriamycine Cyclofosfamide kuur (chemotherapie),,enable,False
 TBC,Tuberculose,,enable,False
 TC,telefonisch consult,,enable,False
@@ -530,7 +530,6 @@ kcal,kilocalorie,,enable,False
 l.o.,lichamelijk onderzoek,,enable,False
 latent,verborgen,,enable,False
 ldlp,low density lipoproteine,,enable,False
-li,"links, linker",,enable,True
 mcg,microgram,,enable,False
 mg,milligram,,enable,False
 mictie,urinelozing,,enable,False
