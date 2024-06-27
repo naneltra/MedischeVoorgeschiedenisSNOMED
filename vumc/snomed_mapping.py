@@ -58,7 +58,8 @@ snomed_ecls = {'PulmonaalLijden': [
         '<< 719848005|aandoening door alcohol|'
     ],
     'Huntington': [
-        '<<702376003|ziekte van Huntington-achtig syndroom|'
+        '<<702376003|ziekte van Huntington-achtig syndroom|',
+        '<< 58756001|Huntington-chorea|'
     ]
 }
 

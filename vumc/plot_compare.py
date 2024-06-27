@@ -10,16 +10,16 @@ Hardcoded data for simplicity
 def plot_tiles():
 
     data =[
-            ('PulmonaalLijden',79057,111485),
-            ('CardiovasculairLijden',205388,210754),
-            ('CerebrovasculairLijden',122840,252201),
-            ('DiabetesMellitus',82602,140808),
-            ('Dementie',96929,98930),
-            ('Nierfalen',48859,93306),
-            ('Obesitas',7026,12599),
-            ('Parkinson',14867,23032),
-            ('Korsakov',8578,13449),
-            ('Huntington',740,0)
+            ('PulmonaalLijden',79057,128562),
+            ('CardiovasculairLijden',205388,273723),
+            ('CerebrovasculairLijden',122840,358055),
+            ('DiabetesMellitus',82602,161240),
+            ('Dementie',96929,151080),
+            ('Nierfalen',48859,159410),
+            ('Obesitas',7026,12543),
+            ('Parkinson',14867,22946),
+            ('Korsakov',8578,15243),
+            ('Huntington',740,997)
         ]
 
     # Unpacking the data into separate lists

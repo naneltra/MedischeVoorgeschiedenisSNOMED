@@ -8,6 +8,8 @@ import os
 import typer
 from medcat.cat import CAT
 
+tqdm.pandas(desc="processing vumc dataextract")
+load_dotenv()
 
 app = typer.Typer()
 
@@ -16,8 +18,6 @@ app = typer.Typer()
 # importlib.reload(vumc_mapping)
 # importlib.reload(plot_compare)
 
-tqdm.pandas(desc="processing vumc dataextract")
-load_dotenv()
 
 ##############################################
 ##      LOAD MEDISCHE VOORGESCHIEDENIS
@@ -44,10 +44,11 @@ def load_data():
 ##############################################
 
 
-df = pd.read_csv('./data/output.csv',index_col=0)
+df = pd.read_parquet('./data/output.parquet.gzip')
 df.shape
-df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
+# df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
 df.to_parquet('./data/output.parquet.gzip',compression='gzip')
+
     # df_backup = df.copy()
     # df_backup.head()
     # df = df_backup
@@ -224,16 +225,16 @@ Huntington                     0
 """
 Resultaten zoektermen matlabscript (vertaald naar Python)
 
-PulmonaalLijden            79057
-CardiovasculairLijden     205388
-CerebrovasculairLijden    122840  
-DiabetesMellitus           82602
-Dementie                   96929
-Nierfalen                  48859
-Obesitas                    7026
-Parkinson                  14867
-Korsakov                    8578
-Huntington                   740
+PulmonaalLijden           128562
+CardiovasculairLijden     273723
+CerebrovasculairLijden    358055
+DiabetesMellitus          161240
+Dementie                  151080
+Nierfalen                 159410
+Obesitas                   12543
+Parkinson                  22946
+Korsakov                   15243
+Huntington                     1
 """
 
 plot_compare.plot_tiles()

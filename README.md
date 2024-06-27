@@ -1,7 +1,7 @@
 
 # In het kort
 
-Scripts en mapping om medische voorgeschiedenis te clusteren m.b.v. SNOMED annotaties op de volgende themas:
+In deze repo staan diverse Python scripts om mbv MedCAT medische voorgeschiedenis te annoteren met SNOMED concepten in de volgende categorieen:
 - PulmonaalLijden
 - CardiovasculairLijden
 - CerebrovasculairLijden
@@ -12,6 +12,12 @@ Scripts en mapping om medische voorgeschiedenis te clusteren m.b.v. SNOMED annot
 - Parkinson
 - Korsakov
 - Huntington
+
+Op basis van de mapping met ECL queries worden er veel meer documenten per categorie gevonden.
+
+
+![Plot](/static/plot_comparison.png)
+
 
 # Doel en Scope
 
@@ -25,7 +31,7 @@ Deze analyse beperkt zicht tot het herkennen van concepten en houdt geen rekenin
 1. Zoektermen uit matlabscript vertalen naar SNOMED concepten en toevoegen aan annotatie model indien beschrijving ontbreekt.
 2. Clusters van concepten maken met behulp van ECL queries
 3. Resultaten van ECL queries samenvoegen per thema. Elk thema bevat een grote lijst met SNOMED concepten.
-4. Text preprocessing, veel gebruikte afkortingen vertalen naar woorden.
+4. Text preprocessing, veel gebruikte afkortingen vertalen naar omschrijving. Afkorten niet vertalen als deze al in SNOMED geregeistreerd staan en opgepakt worden door de annotatie tool.
 5. Draai  annotatie tool over alle preprocessed tekst.
 6. Map de concepten op de lijsten gegenereerd bij stap 3.
 
