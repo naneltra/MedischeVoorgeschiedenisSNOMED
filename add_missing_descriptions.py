@@ -8,37 +8,57 @@ from pathlib import Path
 from vumc import vumc_mapping
 from dotenv import load_dotenv
 import os
+from datetime import date
+import pandas as pd
 
 load_dotenv()
 
+def load_model():
+    model_location = os.getenv('MODEL_PATH')
+    return CAT.load_model_pack(model_location)
+    
+def get_all_vumec_terms():
+    all_vumc_terms = []
+    [all_vumc_terms.extend(_) for _ in vumc_mapping1.values()]
+    return all_vumc_terms
 
-model_location = os.getenv('MODEL_PATH')
-mymodel = CAT.load_model_pack(model_location)
+def get_missing_terms(model):
+    missing_terms = []
+    mymodel = load_model()
+    for t in get_all_vumec_terms():
+        if not bool(model.get_entities(t)['entities']):
+            missing_terms.append(t)
+    return missing_terms
+
+def load_terms():
+    abbreviations_df = pd.read_csv('./data/terms.csv',index_col=None)
+    abbreviations_df = abbreviations_df.loc[abbreviations_df['status']=='enable']
+    return [_['term'] for _ in abbreviations_df.to_dict(orient='records')]
+
+def annotate_terms(terms):
+    model = load_model()
+    terms_annotated = []
+    for t in terms:
+        terms_annotated.append((t,model.get_entities(t)['entities']))
+    return terms_annotated
+
+
+annotate_terms(load_terms())
+
 
 
 vumc_mapping1 = vumc_mapping.ArrayTotaal
+mymodel = load_model()
 
-
-all_vumc_terms = []
-[all_vumc_terms.extend(_) for _ in vumc_mapping1.values()]
-all_vumc_terms
-
-
-missing_terms = []
-for t in all_vumc_terms:
-    if not bool(mymodel.get_entities(t)['entities']):
-        missing_terms.append(t)
-        
 # keywords without SNOMED concept
-missing_terms
+missing_terms = get_missing_terms(mymodel)
 
 all_vumc_terms_annotated = []
-for t in all_vumc_terms:
+for t in get_all_vumec_terms():
     if bool(mymodel.get_entities(t)['entities']):
         all_vumc_terms_annotated.append((t,mymodel.get_entities(t)['entities']))
         
 all_vumc_terms_annotated
-
 
 new_descriptions = {
  'CARA': 427896006,
@@ -106,11 +126,14 @@ new_descriptions = {
  'myocard infarct': 394659003
  }
 
-for k,v in new_descriptions.items():
-    cui = str(v)
-    mymodel.add_and_train_concept(cui=cui,name=k)
+def add_and_train_annotations():
+    for k,v in new_descriptions.items():
+        cui = str(v)
+        mymodel.add_and_train_concept(cui=cui,name=k)
     
     
+#test
 mymodel.get_entities('mr AS-infarct')
+mymodel.create_model_pack(f'snomed_2023_trained_neg_{str(date.today())}')
 
-mymodel.create_model_pack('/Users/lennaartraams/git/r-d-projects/gm-r-d/apps/medcat_service/models/snomed_2023_trained_neg_b3c1e19c8ffccf75')
+

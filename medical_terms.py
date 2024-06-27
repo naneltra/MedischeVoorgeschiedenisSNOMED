@@ -24,18 +24,23 @@ def replace_abbreviations_dataframe(df:pd.DataFrame, abbr_list) -> pd.DataFrame:
         
     return df
 
-
-def main():
+def load_terms():
     abbreviations_df = pd.read_csv('./data/terms.csv',index_col=None)
     abbreviations_df = abbreviations_df.loc[abbreviations_df['status']=='enable']
+    return abbreviations_df.to_dict(orient='records')
 
-    abbr_list = abbreviations_df.to_dict(orient='records')
-
+def load_data():
     df_text = pd.read_csv('./data/medische_voorgeschiedenis.csv', index_col='db_id', sep='|')
     df_text = df_text.loc[~df_text['diagnose'].isna()]
     df_text['diagn_proc'] = df_text['diagnose']
+    return df_text
 
-    df_text = replace_abbreviations_dataframe(df_text[:1000], abbr_list)
+
+def main():
+    abbr_list = load_terms()
+    df_text = load_data()
+
+    df_text = replace_abbreviations_dataframe(df_text, abbr_list)
     df_text.to_csv('./data/medische_voorgeschiedenis_processed.csv',index=None)
 
 
