@@ -18,15 +18,15 @@ load_dotenv()
 ##      LOAD MEDISCHE VOORGESCHIEDENIS
 ##############################################
 
-VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis.csv')
+VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis_processed.csv')
 
-def load_voorgeschiedenis(path: Path) -> pd.Dataframe:
+def load_voorgeschiedenis(path: Path):
     path = VOORGESCHIEDENIS_PATH
-    df = pd.read_csv('./data/medische_voorgeschiedenis.csv', delimiter='|')
+    df = pd.read_csv(VOORGESCHIEDENIS_PATH, delimiter='|')
     return df
 
 df = load_voorgeschiedenis(VOORGESCHIEDENIS_PATH)
-
+df.head()
 # calculate mean document length for batch optimization = 43
 df.loc[~df['text'].isna(),'text'].apply(lambda x: len(x)).mean()
 
