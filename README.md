@@ -13,7 +13,7 @@ In deze repo staan diverse Python scripts om mbv MedCAT medische voorgeschiedeni
 - Korsakov
 - Huntington
 
-Op basis van de mapping met ECL queries worden er veel meer documenten per categorie gevonden.
+Op basis van de mapping met ECL queries worden er veel meer documenten per categorie gevonden, al zijn deze nog niet getoetst op false positives.
 
 
 ![Plot](/static/plot_comparison.png)
@@ -22,7 +22,7 @@ Op basis van de mapping met ECL queries worden er veel meer documenten per categ
 # Doel en Scope
 
 Deze repo is een analyse op clustering van vrije tekst (medische voorgeschiedenis) met behulp van SNOMED ontologie.  
-Dit is een alternatief op het clusteren op basis van zoektermen, zoals het MATLAB script. Beide benaderingen worden vergeleken. De verkenning van boomstructuren in SNOMED kan nieuwe inzichten geven en is een toets of de informatie vraag beantwoord kan worden.  
+Dit is een alternatief op het clusteren op basis van zoektermen, zoals het MATLAB script. Beide benaderingen worden vergeleken. De verkenning van boomstructuren in SNOMED kan nieuwe inzichten geven op de gekozen zoektermen uit het Matlab script.  
 
 Deze analyse beperkt zicht tot het herkennen van concepten en houdt geen rekening met de context binnen de text waarbinnen het concept is gevonden (vervolgstap). 
 
