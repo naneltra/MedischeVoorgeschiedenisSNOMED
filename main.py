@@ -5,6 +5,11 @@ from tqdm import tqdm
 from vumc import plot_compare, vumc_mapping, snomed_mapping
 from dotenv import load_dotenv
 import os
+import typer
+from medcat.cat import CAT
+
+
+app = typer.Typer()
 
 # import importlib
 # importlib.reload(snomed_mapping)
@@ -18,63 +23,34 @@ load_dotenv()
 ##      LOAD MEDISCHE VOORGESCHIEDENIS
 ##############################################
 
-VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis_processed.csv')
+def load_data():
+    VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis_processed.csv')
 
-def load_voorgeschiedenis(path: Path):
-    path = VOORGESCHIEDENIS_PATH
-    df = pd.read_csv(VOORGESCHIEDENIS_PATH, delimiter='|')
+    def load_voorgeschiedenis(path: Path):
+        path = VOORGESCHIEDENIS_PATH
+        df = pd.read_csv(VOORGESCHIEDENIS_PATH)
+        return df
+
+    df = load_voorgeschiedenis(VOORGESCHIEDENIS_PATH)
+
+    # df = df.rename(columns={"db_id":"id","diagn_proc":"text"})
+    # df = df.set_index('id')
+    df = df.loc[~df['text'].isna()]
     return df
 
-df = load_voorgeschiedenis(VOORGESCHIEDENIS_PATH)
-df.head()
-# calculate mean document length for batch optimization = 43
-df.loc[~df['text'].isna(),'text'].apply(lambda x: len(x)).mean()
-
-df = df.rename(columns={"db_id":"id","diagnose":"text"})
-df = df.set_index('id')
-df = df.loc[~df['text'].isna()]
-
-
 
 ##############################################
-##      ANNOTATE
+##      GET ANNOTATED DATA
 ##############################################
-from medcat.cat import CAT
 
-def data_iterator(data: pd.DataFrame):
-    for id, row in data[['text']].iterrows():
-        yield (id, str(row['text']))
-
-generator = data_iterator(df)
-
-
-df['word_count'] = df.loc[~df['diagnose'].isna(),'diagnose'].apply(lambda x: len(x.split(' ')))
-
-# 43 * 8 * 200
-batch_size_chars = 68800 
-
-model_location = os.getenv('MODEL_PATH')
-mymodel = CAT.load_model_pack(model_location)
-
-results = mymodel.multiprocessing_batch_char_size(generator,  # Formatted data
-                                              batch_size_chars = batch_size_chars,
-                                              nproc=8)
-
-def get_snomed_results(id: str):
-    if id not in results:
-        return []
-    if 'entities' in results[id]:
-        entities_dict = results[id]['entities']
-        return [(v['pretty_name'],v['cui'],v['meta_anns']['Negation']['value'],v['type_ids'][0]) for k,v in entities_dict.items()]
-    return []
 
 df = pd.read_csv('./data/output.csv',index_col=0)
-
+df.shape
 df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
-
-df_backup = df.copy()
-df_backup.head()
-df = df_backup
+df.to_parquet('./data/output.parquet.gzip',compression='gzip')
+    # df_backup = df.copy()
+    # df_backup.head()
+    # df = df_backup
 
 
 
@@ -85,42 +61,42 @@ df = df_backup
 ##      MAP TO HIGH LEVEL SNOMED CONCEPTS
 ##############################################
 
+def map_to_type(df):
+    df['aandoening']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='AANDOENING',x)))
+    df['bevinding']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='BEVINDING',x)))
+    df['substantie']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='SUBSTANTIE',x)))
+    df['verrichting']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='VERRICHTING',x)))
+    df['persoon']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='PERSOON',x)))
+    df['beroep']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='BEROEP',x)))
+    df['lichaamsstructuur']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='LICHAAMSSTRUCTUUR',x)))
+    df['fysiekobject']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='FYSIEK OBJECT',x)))
+    df['afwijkendemorfologie']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='AFWIJKENDE MORFOLOGIE',x)))
 
-df['aandoening']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='AANDOENING',x)))
-df['bevinding']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='BEVINDING',x)))
-df['substantie']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='SUBSTANTIE',x)))
-df['verrichting']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='VERRICHTING',x)))
-df['persoon']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='PERSOON',x)))
-df['beroep']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='BEROEP',x)))
-df['lichaamsstructuur']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='LICHAAMSSTRUCTUUR',x)))
-df['fysiekobject']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='FYSIEK OBJECT',x)))
-df['afwijkendemorfologie']=df['concepts'].apply(lambda x: any(map(lambda v: v[3]=='AFWIJKENDE MORFOLOGIE',x)))
-
-df.loc[:,'aandoening':'lichaamsstructuur'].sum()
+    df.loc[:,'aandoening':'lichaamsstructuur'].sum()
 
 def get_concepts_by_tui(concept_tuples, tui: str):
     f = filter(lambda x: x[3]==tui, concept_tuples)
     return list(map(lambda x: x[0],f))
 
+def get_concepts_for_tui(df):
+    df['aandoeningen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'AANDOENING'))
+    df['substanties']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'SUBSTANTIE'))
+    df['verrichtingen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'VERRICHTING'))
+    df['lichaamsstructuren']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'LICHAAMSSTRUCTUUR'))
+    df['bevindingen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'BEVINDING'))
+    df['personen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'PERSOON'))
+    df['fysiekeobjecten']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'FYSIEK OBJECT'))
+    df['afwijkendemorfologien']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'AFWIJKENDE MORFOLOGIE'))
 
-df['aandoeningen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'AANDOENING'))
-df['substanties']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'SUBSTANTIE'))
-df['verrichtingen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'VERRICHTING'))
-df['lichaamsstructuren']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'LICHAAMSSTRUCTUUR'))
-df['bevindingen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'BEVINDING'))
-df['personen']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'PERSOON'))
-df['fysiekeobjecten']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'FYSIEK OBJECT'))
-df['afwijkendemorfologien']=df['concepts'].apply(lambda x: get_concepts_by_tui(x,'AFWIJKENDE MORFOLOGIE'))
-
-
-df.explode('aandoeningen')['aandoeningen'].value_counts().head(20)
-df.explode('bevindingen')['bevindingen'].value_counts().head(20)
-df.explode('substanties')['substanties'].value_counts().head(20)
-df.explode('verrichtingen')['verrichtingen'].value_counts().head(20)
-df.explode('personen')['personen'].value_counts().head(20)
-df.explode('lichaamsstructuren')['lichaamsstructuren'].value_counts().head(20)
-df.explode('fysiekeobjecten')['fysiekeobjecten'].value_counts().head(20)
-df.explode('afwijkendemorfologien')['afwijkendemorfologien'].value_counts().head(20)
+def top_20(df):
+    df.explode('aandoeningen')['aandoeningen'].value_counts().head(20)
+    df.explode('bevindingen')['bevindingen'].value_counts().head(20)
+    df.explode('substanties')['substanties'].value_counts().head(20)
+    df.explode('verrichtingen')['verrichtingen'].value_counts().head(20)
+    df.explode('personen')['personen'].value_counts().head(20)
+    df.explode('lichaamsstructuren')['lichaamsstructuren'].value_counts().head(20)
+    df.explode('fysiekeobjecten')['fysiekeobjecten'].value_counts().head(20)
+    df.explode('afwijkendemorfologien')['afwijkendemorfologien'].value_counts().head(20)
 
 
 
@@ -133,12 +109,13 @@ df.explode('afwijkendemorfologien')['afwijkendemorfologien'].value_counts().head
 ##      NORMALISING ABBREVATIONS
 ##############################################
 
-df['text'] = df['text'].str.replace('##','fracturen')
-df['text'] = df['text'].str.replace('#','fractuur')
-df['text'] = df['text'].str.replace('=a','is aangevraagd')
-df['text'] = df['text'].str.lower()
-df['text'] = df['text'].str.strip()
-df['text'] = df['text'].str.replace('[^\w\s]',' ',regex=True)
+def basic_normalising():
+    df['text'] = df['text'].str.replace('##','fracturen')
+    df['text'] = df['text'].str.replace('#','fractuur')
+    df['text'] = df['text'].str.replace('=a','is aangevraagd')
+    df['text'] = df['text'].str.lower()
+    df['text'] = df['text'].str.strip()
+    df['text'] = df['text'].str.replace('[^\w\s]',' ',regex=True)
 
 def count_term(txt, abbr: str, ignore_case = False):
     abbr = re.escape(abbr)
@@ -260,3 +237,15 @@ Huntington                   740
 """
 
 plot_compare.plot_tiles()
+
+
+def main():
+    abbr_list = load_terms()
+    df_text = load_data()
+
+    df_text = replace_abbreviations_dataframe(df_text, abbr_list)
+    df_text.to_csv('./data/medische_voorgeschiedenis_processed.csv',index=None)
+
+
+if __name__ == "__main__":
+    app()
