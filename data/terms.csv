@@ -247,11 +247,14 @@ LWI,luchtweginfectie,,enable,False
 LWK,Lumbale wervelkolom,,enable,False
 LZ,Langdurige zorg,,enable,False
 Li,links,,enable,True
+li-,linker,,enable,True
 M,man,,disable,False
 M.,(+plaatsaanduiding) musculus,,disable,False
 MAB,maximale androgeen blokkade,,enable,False
 MADRS,Montgomery Asberg Depression Rating Scale,,enable,False
 MAL,Motor Activity Log,,enable,False
+HVS,Hyperventilatiesyndroom,,enable,False
+SEH,spoedeisende hulp,,enable,True
 MAP,mean arterial pressure,,enable,False
 MCI,Mild Cognitive Impairment,,enable,False
 MCP,metacarpophalangeaal gewricht,,enable,False
@@ -453,7 +456,7 @@ UK,urinekweek,,enable,False
 UPPP,uvulopalatopharyngoplastiek,,enable,False
 US,Urinesediment,,enable,False
 USER,Utrechtse Schaal voor de Evaluatie van klinische Revalidatie,,enable,False
-UWI,Urineweginfectie,,enable,False
+UWI,Urineweginfectie,,enable,True
 Uvit,Registratienummer van WLangdurige Zorg rolstoelen,,enable,False
 V,vrouw,,false,False
 V+U,vocht en urine,,enable,False
@@ -547,7 +550,8 @@ p.o.,door de mond,per os,enable,False
 p.o.b.,pijn op de borst,,enable,False
 pH,Zuurgraad,,enable,False
 palp.,onderzoek door betasting,palpatie,enable,False
-re,"rechts, rechter",,enable,True
+re,rechts,,enable,True
+re-,rechter,,enable,True
 rm,rechterlijke machtiging,,enable,False
 s.p.,suprapubisch,,enable,False
 sectio (caesarea),keizersnede,,enable,False
@@ -560,23 +564,23 @@ trombo's,bloedplaatjes,trombocyten,enable,False
 urge,aandrang,,enable,False
 vpk,verpleegkundige,,enable,False
 vpl,verpleegkundige,,enable,False
-wv,waarvoor,enable,True,False
+wv,waarvoor,,enable,False
 z.n.,zo nodig,,enable,False
 zh,ziekenhuis,,enable,True
 μ,micro,,enable,False
-MI,mitralisinsufficiëntie,enable,False
-AP,angina pectoris,enable,False
-BF,boezemfibrileren,enable,False
-NRNB,niet reanimeren niet beademen,enable,False
-WR,wel reanimeren,enable,False
-NR,niet reanimeren,enable,False
-MDR,multidisciplinaire richtlijn,enable,False
-LESA,Landelijke Eerstelijns Samenwerkings Afspraak,enable,False
-pt,patient,enable,True
-AED,Automatische Externe Defibrillator,enable,False
-ALS,advanced life support,disable,False
-BLS,basic life support,enable,False
-ZLP,zorgleefplan,enable,True
-CPC,Cerebral Performance Categories,enable,False
-OHCA,reanimatie buiten het ziekenhuis,enable
-PCI,percutane coronaire interventie,enable,False
+MI,mitralisinsufficiëntie,,enable,False
+AP,angina pectoris,,enable,False
+BF,boezemfibrileren,,enable,False
+NRNB,niet reanimeren niet beademen,,enable,False
+WR,wel reanimeren,,enable,False
+NR,niet reanimeren,,enable,False
+MDR,multidisciplinaire richtlijn,,enable,False
+LESA,Landelijke Eerstelijns Samenwerkings Afspraak,,enable,False
+pt,patient,,enable,True
+AED,Automatische Externe Defibrillator,,enable,False
+ALS,advanced life support,,disable,False
+BLS,basic life support,,enable,False
+ZLP,zorgleefplan,,enable,True
+CPC,Cerebral Performance Categories,,enable,False
+OHCA,reanimatie buiten het ziekenhuis,,enable,False
+PCI,percutane coronaire interventie,,enable,False
