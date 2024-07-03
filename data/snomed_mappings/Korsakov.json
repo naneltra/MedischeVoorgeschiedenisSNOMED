@@ -1,0 +1,3038 @@
+[
+    {
+        "id": 297011014,
+        "conceptId": 192811002,
+        "term": "Alcoholic encephalopathy",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 2951733018,
+        "conceptId": 192811002,
+        "term": "Alcohol induced encephalopathy",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 76811000146116,
+        "conceptId": 192811002,
+        "term": "alcoholische encefalopathie",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 345186013,
+        "conceptId": 230353003,
+        "term": "Morel laminar sclerosis",
+        "preferredTerm": "Morel laminar sclerosis"
+    },
+    {
+        "id": 77501000146119,
+        "conceptId": 230353003,
+        "term": "laminaire necrose van cortex cerebri met gliose",
+        "preferredTerm": "Morel laminar sclerosis"
+    },
+    {
+        "id": 294662017,
+        "conceptId": 191471000,
+        "term": "Korsakov's alcoholic psychosis with peripheral neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 2839024016,
+        "conceptId": 191471000,
+        "term": "Korsakov alcoholic psychosis with peripheral neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 102181000146116,
+        "conceptId": 191471000,
+        "term": "alcohol-amnestisch syndroom met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 102191000146119,
+        "conceptId": 191471000,
+        "term": "syndroom van Korsakoff met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 1084681000146113,
+        "conceptId": 191471000,
+        "term": "Korsakov-syndroom door alcohol met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 1264001000146117,
+        "conceptId": 191471000,
+        "term": "amnestisch syndroom door alcohol met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 115434017,
+        "conceptId": 69482004,
+        "term": "Korsakoff's psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 115435016,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakoff syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 115436015,
+        "conceptId": 69482004,
+        "term": "Amnestic syndrome of Wernicke's disease",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501294012,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakov syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501295013,
+        "conceptId": 69482004,
+        "term": "Korsakoff psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501296014,
+        "conceptId": 69482004,
+        "term": "Korsakov alcoholic psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501297017,
+        "conceptId": 69482004,
+        "term": "Korsakov syndrome - alcoholic",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501298010,
+        "conceptId": 69482004,
+        "term": "Korsakov psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501299019,
+        "conceptId": 69482004,
+        "term": "Amnesic syndrome due to alcohol",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501300010,
+        "conceptId": 69482004,
+        "term": "Alcoholic amnestic syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 86481000146117,
+        "conceptId": 69482004,
+        "term": "syndroom van Korsakov",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063001000146114,
+        "conceptId": 69482004,
+        "term": "Korsakov-syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063011000146111,
+        "conceptId": 69482004,
+        "term": "amnestisch syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063021000146118,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakov-syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 295142015,
+        "conceptId": 191813001,
+        "term": "Chronic alcoholism in remission",
+        "preferredTerm": "Chronic alcoholism in remission"
+    },
+    {
+        "id": 6411091000146114,
+        "conceptId": 191813001,
+        "term": "chronisch alcoholisme in remissie",
+        "preferredTerm": "Chronic alcoholism in remission"
+    },
+    {
+        "id": 295253017,
+        "conceptId": 191883007,
+        "term": "Nondependent alcohol abuse, episodic",
+        "preferredTerm": "Nondependent alcohol abuse, episodic"
+    },
+    {
+        "id": 6987151000146112,
+        "conceptId": 191883007,
+        "term": "episodisch alcoholmisbruik zonder afhankelijkheid",
+        "preferredTerm": "Nondependent alcohol abuse, episodic"
+    },
+    {
+        "id": 297011014,
+        "conceptId": 192811002,
+        "term": "Alcoholic encephalopathy",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 2951733018,
+        "conceptId": 192811002,
+        "term": "Alcohol induced encephalopathy",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 76811000146116,
+        "conceptId": 192811002,
+        "term": "alcoholische encefalopathie",
+        "preferredTerm": "Alcoholic encephalopathy"
+    },
+    {
+        "id": 294672019,
+        "conceptId": 191478006,
+        "term": "Alcoholic paranoia",
+        "preferredTerm": "Alcoholic paranoia"
+    },
+    {
+        "id": 7006281000146115,
+        "conceptId": 191478006,
+        "term": "achterdocht door alcohol",
+        "preferredTerm": "Alcoholic paranoia"
+    },
+    {
+        "id": 7025761000146119,
+        "conceptId": 191478006,
+        "term": "parano\u00efdie door alcohol",
+        "preferredTerm": "Alcoholic paranoia"
+    },
+    {
+        "id": 7025771000146113,
+        "conceptId": 191478006,
+        "term": "alcoholische parano\u00efdie",
+        "preferredTerm": "Alcoholic paranoia"
+    },
+    {
+        "id": 294668018,
+        "conceptId": 191475009,
+        "term": "Chronic alcoholic brain syndrome",
+        "preferredTerm": "Chronic alcoholic brain syndrome"
+    },
+    {
+        "id": 1580321000146111,
+        "conceptId": 191475009,
+        "term": "hersensyndroom door chronisch alcoholisme",
+        "preferredTerm": "Chronic alcoholic brain syndrome"
+    },
+    {
+        "id": 2604361000146119,
+        "conceptId": 191475009,
+        "term": "hersensyndroom door chronische alcoholverslaving",
+        "preferredTerm": "Chronic alcoholic brain syndrome"
+    },
+    {
+        "id": 2604401000146110,
+        "conceptId": 191475009,
+        "term": "hersensyndroom door chronische alcoholafhankelijkheid",
+        "preferredTerm": "Chronic alcoholic brain syndrome"
+    },
+    {
+        "id": 345186013,
+        "conceptId": 230353003,
+        "term": "Morel laminar sclerosis",
+        "preferredTerm": "Morel laminar sclerosis"
+    },
+    {
+        "id": 77501000146119,
+        "conceptId": 230353003,
+        "term": "laminaire necrose van cortex cerebri met gliose",
+        "preferredTerm": "Morel laminar sclerosis"
+    },
+    {
+        "id": 345805013,
+        "conceptId": 230800004,
+        "term": "Alcoholic coma",
+        "preferredTerm": "Alcoholic coma"
+    },
+    {
+        "id": 159841000146117,
+        "conceptId": 230800004,
+        "term": "alcoholisch coma",
+        "preferredTerm": "Alcoholic coma"
+    },
+    {
+        "id": 200771000146117,
+        "conceptId": 230800004,
+        "term": "alcoholcoma",
+        "preferredTerm": "Alcoholic coma"
+    },
+    {
+        "id": 401797010,
+        "conceptId": 268645007,
+        "term": "Nondependent alcohol abuse",
+        "preferredTerm": "Nondependent alcohol abuse"
+    },
+    {
+        "id": 2489011000146116,
+        "conceptId": 268645007,
+        "term": "alcoholmisbruik zonder afhankelijkheid",
+        "preferredTerm": "Nondependent alcohol abuse"
+    },
+    {
+        "id": 328740014,
+        "conceptId": 216635003,
+        "term": "Accidental poisoning by denatured alcohol",
+        "preferredTerm": "Accidental poisoning by denatured alcohol"
+    },
+    {
+        "id": 3293813019,
+        "conceptId": 216635003,
+        "term": "Accidental poisoning caused by denatured alcohol",
+        "preferredTerm": "Accidental poisoning by denatured alcohol"
+    },
+    {
+        "id": 11944541000146118,
+        "conceptId": 216635003,
+        "term": "accidentele intoxicatie door gedenatureerde ethylalcohol",
+        "preferredTerm": "Accidental poisoning by denatured alcohol"
+    },
+    {
+        "id": 11944551000146115,
+        "conceptId": 216635003,
+        "term": "onopzettelijke vergiftiging door gedenatureerde alcohol",
+        "preferredTerm": "Accidental poisoning by denatured alcohol"
+    },
+    {
+        "id": 11944561000146117,
+        "conceptId": 216635003,
+        "term": "onopzettelijke intoxicatie door gedenatureerde ethanol",
+        "preferredTerm": "Accidental poisoning by denatured alcohol"
+    },
+    {
+        "id": 328741013,
+        "conceptId": 216636002,
+        "term": "Accidental poisoning by methylated spirit",
+        "preferredTerm": "Accidental poisoning by methylated spirit"
+    },
+    {
+        "id": 3290665015,
+        "conceptId": 216636002,
+        "term": "Accidental poisoning caused by methylated spirit",
+        "preferredTerm": "Accidental poisoning by methylated spirit"
+    },
+    {
+        "id": 11946651000146112,
+        "conceptId": 216636002,
+        "term": "accidentele intoxicatie door brandspiritus",
+        "preferredTerm": "Accidental poisoning by methylated spirit"
+    },
+    {
+        "id": 11946671000146116,
+        "conceptId": 216636002,
+        "term": "onopzettelijke intoxicatie door spiritus",
+        "preferredTerm": "Accidental poisoning by methylated spirit"
+    },
+    {
+        "id": 11973071000146118,
+        "conceptId": 216636002,
+        "term": "onopzettelijke vergiftiging door gedenatureerde alcohol",
+        "preferredTerm": "Accidental poisoning by methylated spirit"
+    },
+    {
+        "id": 356292013,
+        "conceptId": 237738005,
+        "term": "Alcohol-induced pseudo-Cushing's syndrome",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 2839691016,
+        "conceptId": 237738005,
+        "term": "Alcohol-induced pseudo-Cushing syndrome",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 3037101014,
+        "conceptId": 237738005,
+        "term": "Pseudo-Cushing syndrome due to alcohol",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 8678671000146110,
+        "conceptId": 237738005,
+        "term": "pseudosyndroom van Cushing door alcoholgebruik",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 9401081000146116,
+        "conceptId": 237738005,
+        "term": "pseudo-Cushing-syndroom door alcoholgebruik",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 9458261000146117,
+        "conceptId": 237738005,
+        "term": "alcoholge\u00efnduceerd pseudo-Cushing-beeld",
+        "preferredTerm": "Alcohol-induced pseudo-Cushing's syndrome"
+    },
+    {
+        "id": 353587018,
+        "conceptId": 235875008,
+        "term": "Alcoholic hepatitis",
+        "preferredTerm": "Alcoholic hepatitis"
+    },
+    {
+        "id": 353588011,
+        "conceptId": 235875008,
+        "term": "AH - Alcoholic hepatitis",
+        "preferredTerm": "Alcoholic hepatitis"
+    },
+    {
+        "id": 90001000146117,
+        "conceptId": 235875008,
+        "term": "alcoholische hepatitis",
+        "preferredTerm": "Alcoholic hepatitis"
+    },
+    {
+        "id": 356162012,
+        "conceptId": 237641009,
+        "term": "Alcohol-induced hypoglycaemia",
+        "preferredTerm": "Alcohol-induced hypoglycemia"
+    },
+    {
+        "id": 356163019,
+        "conceptId": 237641009,
+        "term": "Alcohol-induced hypoglycemia",
+        "preferredTerm": "Alcohol-induced hypoglycemia"
+    },
+    {
+        "id": 6842561000146115,
+        "conceptId": 237641009,
+        "term": "alcoholge\u00efnduceerde hypoglykemie",
+        "preferredTerm": "Alcohol-induced hypoglycemia"
+    },
+    {
+        "id": 6842571000146114,
+        "conceptId": 237641009,
+        "term": "hypoglykemie door alcohol",
+        "preferredTerm": "Alcohol-induced hypoglycemia"
+    },
+    {
+        "id": 353698013,
+        "conceptId": 235952002,
+        "term": "Alcohol-induced chronic pancreatitis",
+        "preferredTerm": "Alcohol-induced chronic pancreatitis"
+    },
+    {
+        "id": 3078939011,
+        "conceptId": 235952002,
+        "term": "Chronic pancreatitis due to acute alcohol intoxication",
+        "preferredTerm": "Alcohol-induced chronic pancreatitis"
+    },
+    {
+        "id": 90481000146119,
+        "conceptId": 235952002,
+        "term": "chronische pancreatitis door alcohol",
+        "preferredTerm": "Alcohol-induced chronic pancreatitis"
+    },
+    {
+        "id": 328738016,
+        "conceptId": 216633005,
+        "term": "Accidental poisoning by alcoholic beverages",
+        "preferredTerm": "Accidental poisoning by alcoholic beverage"
+    },
+    {
+        "id": 3300761017,
+        "conceptId": 216633005,
+        "term": "Accidental poisoning caused by alcoholic beverage",
+        "preferredTerm": "Accidental poisoning by alcoholic beverage"
+    },
+    {
+        "id": 3300762012,
+        "conceptId": 216633005,
+        "term": "Accidental poisoning by alcoholic beverage",
+        "preferredTerm": "Accidental poisoning by alcoholic beverage"
+    },
+    {
+        "id": 10261051000146112,
+        "conceptId": 216633005,
+        "term": "onopzettelijke intoxicatie door alcoholische drank",
+        "preferredTerm": "Accidental poisoning by alcoholic beverage"
+    },
+    {
+        "id": 10430361000146113,
+        "conceptId": 216633005,
+        "term": "accidentele vergiftiging door alcoholische drank",
+        "preferredTerm": "Accidental poisoning by alcoholic beverage"
+    },
+    {
+        "id": 415240012,
+        "conceptId": 278363000,
+        "term": "Alcoholic macrocytosis",
+        "preferredTerm": "Alcoholic macrocytosis"
+    },
+    {
+        "id": 8384721000146112,
+        "conceptId": 278363000,
+        "term": "alcoholische macrocytose",
+        "preferredTerm": "Alcoholic macrocytosis"
+    },
+    {
+        "id": 451124014,
+        "conceptId": 307757001,
+        "term": "Chronic alcoholic hepatitis",
+        "preferredTerm": "Chronic alcoholic hepatitis"
+    },
+    {
+        "id": 7481841000146113,
+        "conceptId": 307757001,
+        "term": "chronische alcoholische hepatitis",
+        "preferredTerm": "Chronic alcoholic hepatitis"
+    },
+    {
+        "id": 7481851000146111,
+        "conceptId": 307757001,
+        "term": "chronische alcoholische leverontsteking",
+        "preferredTerm": "Chronic alcoholic hepatitis"
+    },
+    {
+        "id": 442200018,
+        "conceptId": 300992002,
+        "term": "Alcohol-induced cerebellar ataxia",
+        "preferredTerm": "Alcohol-induced cerebellar ataxia"
+    },
+    {
+        "id": 9360911000146112,
+        "conceptId": 300992002,
+        "term": "alcoholge\u00efnduceerde cerebellaire ataxie",
+        "preferredTerm": "Alcohol-induced cerebellar ataxia"
+    },
+    {
+        "id": 9360931000146117,
+        "conceptId": 300992002,
+        "term": "cerebellaire ataxie door alcohol",
+        "preferredTerm": "Alcohol-induced cerebellar ataxia"
+    },
+    {
+        "id": 294662017,
+        "conceptId": 191471000,
+        "term": "Korsakov's alcoholic psychosis with peripheral neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 2839024016,
+        "conceptId": 191471000,
+        "term": "Korsakov alcoholic psychosis with peripheral neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 102181000146116,
+        "conceptId": 191471000,
+        "term": "alcohol-amnestisch syndroom met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 102191000146119,
+        "conceptId": 191471000,
+        "term": "syndroom van Korsakoff met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 1084681000146113,
+        "conceptId": 191471000,
+        "term": "Korsakov-syndroom door alcohol met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 1264001000146117,
+        "conceptId": 191471000,
+        "term": "amnestisch syndroom door alcohol met perifere neuritis",
+        "preferredTerm": "Korsakov's alcoholic psychosis with peripheral neuritis"
+    },
+    {
+        "id": 295141010,
+        "conceptId": 191812006,
+        "term": "Episodic chronic alcoholism",
+        "preferredTerm": "Episodic chronic alcoholism"
+    },
+    {
+        "id": 6514951000146110,
+        "conceptId": 191812006,
+        "term": "episodisch chronisch alcoholisme",
+        "preferredTerm": "Episodic chronic alcoholism"
+    },
+    {
+        "id": 295139014,
+        "conceptId": 191811004,
+        "term": "Continuous chronic alcoholism",
+        "preferredTerm": "Continuous chronic alcoholism"
+    },
+    {
+        "id": 6528611000146115,
+        "conceptId": 191811004,
+        "term": "doorlopend chronisch alcoholisme",
+        "preferredTerm": "Continuous chronic alcoholism"
+    },
+    {
+        "id": 295252010,
+        "conceptId": 191882002,
+        "term": "Nondependent alcohol abuse, continuous",
+        "preferredTerm": "Nondependent alcohol abuse, continuous"
+    },
+    {
+        "id": 6997181000146115,
+        "conceptId": 191882002,
+        "term": "continu alcoholmisbruik zonder afhankelijkheid",
+        "preferredTerm": "Nondependent alcohol abuse, continuous"
+    },
+    {
+        "id": 7848691000146113,
+        "conceptId": 191882002,
+        "term": "doorlopend alcoholmisbruik zonder afhankelijkheid",
+        "preferredTerm": "Nondependent alcohol abuse, continuous"
+    },
+    {
+        "id": 295254011,
+        "conceptId": 191884001,
+        "term": "Nondependent alcohol abuse in remission",
+        "preferredTerm": "Nondependent alcohol abuse in remission"
+    },
+    {
+        "id": 7182711000146110,
+        "conceptId": 191884001,
+        "term": "alcoholmisbruik zonder afhankelijkheid in remissie",
+        "preferredTerm": "Nondependent alcohol abuse in remission"
+    },
+    {
+        "id": 315571015,
+        "conceptId": 205788004,
+        "term": "Fetal alcohol syndrome",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 315572010,
+        "conceptId": 205788004,
+        "term": "FAS - Fetal alcohol syndrome",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 3010279011,
+        "conceptId": 205788004,
+        "term": "Foetal alcohol syndrome",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 3011881012,
+        "conceptId": 205788004,
+        "term": "FAS - Foetal alcohol syndrome",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 93611000146118,
+        "conceptId": 205788004,
+        "term": "foetaal alcoholsyndroom",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 1758131000146115,
+        "conceptId": 205788004,
+        "term": "FAS",
+        "preferredTerm": "Fetal alcohol syndrome"
+    },
+    {
+        "id": 426682013,
+        "conceptId": 287166006,
+        "term": "Accidental poisoning with ethyl alcohol",
+        "preferredTerm": "Accidental poisoning with ethyl alcohol"
+    },
+    {
+        "id": 5146860018,
+        "conceptId": 287166006,
+        "term": "Accidental poisoning by ethanol",
+        "preferredTerm": "Accidental poisoning with ethyl alcohol"
+    },
+    {
+        "id": 11948261000146114,
+        "conceptId": 287166006,
+        "term": "accidentele intoxicatie door ethylalcohol",
+        "preferredTerm": "Accidental poisoning with ethyl alcohol"
+    },
+    {
+        "id": 11948271000146115,
+        "conceptId": 287166006,
+        "term": "onopzettelijke intoxicatie door ethanol",
+        "preferredTerm": "Accidental poisoning with ethyl alcohol"
+    },
+    {
+        "id": 11948281000146118,
+        "conceptId": 287166006,
+        "term": "onopzettelijke vergiftiging door alcohol",
+        "preferredTerm": "Accidental poisoning with ethyl alcohol"
+    },
+    {
+        "id": 423307016,
+        "conceptId": 284591009,
+        "term": "Persistent alcohol abuse",
+        "preferredTerm": "Persistent alcohol abuse"
+    },
+    {
+        "id": 423308014,
+        "conceptId": 284591009,
+        "term": "Chronic alcohol abuse",
+        "preferredTerm": "Persistent alcohol abuse"
+    },
+    {
+        "id": 1581001000146112,
+        "conceptId": 284591009,
+        "term": "chronisch alcoholmisbruik",
+        "preferredTerm": "Persistent alcohol abuse"
+    },
+    {
+        "id": 2602301000146110,
+        "conceptId": 284591009,
+        "term": "chronisch alcoholabusus",
+        "preferredTerm": "Persistent alcohol abuse"
+    },
+    {
+        "id": 433041011,
+        "conceptId": 292881006,
+        "term": "Industrial methylated spirit adverse reaction",
+        "preferredTerm": "Industrial methylated spirit adverse reaction"
+    },
+    {
+        "id": 12076061000146111,
+        "conceptId": 292881006,
+        "term": "ongewenste reactie op industri\u00eble spiritus",
+        "preferredTerm": "Industrial methylated spirit adverse reaction"
+    },
+    {
+        "id": 12077351000146114,
+        "conceptId": 292881006,
+        "term": "'adverse reaction' op industri\u00eble gedenatureerde alcohol",
+        "preferredTerm": "Industrial methylated spirit adverse reaction"
+    },
+    {
+        "id": 12080441000146113,
+        "conceptId": 292881006,
+        "term": "ongewenste reactie op industri\u00eble brandspiritus",
+        "preferredTerm": "Industrial methylated spirit adverse reaction"
+    },
+    {
+        "id": 452014017,
+        "conceptId": 308692003,
+        "term": "Alcohol-induced flushing",
+        "preferredTerm": "Alcohol-induced flushing"
+    },
+    {
+        "id": 452015016,
+        "conceptId": 308692003,
+        "term": "Alcohol-induced flushes",
+        "preferredTerm": "Alcohol-induced flushing"
+    },
+    {
+        "id": 9637541000146115,
+        "conceptId": 308692003,
+        "term": "'flushing' door alcoholgebruik",
+        "preferredTerm": "Alcohol-induced flushing"
+    },
+    {
+        "id": 9637551000146117,
+        "conceptId": 308692003,
+        "term": "alcoholge\u00efnduceerde 'flushing'",
+        "preferredTerm": "Alcohol-induced flushing"
+    },
+    {
+        "id": 458914014,
+        "conceptId": 314539001,
+        "term": "Alcohol related optic neuropathy",
+        "preferredTerm": "Alcohol related optic neuropathy"
+    },
+    {
+        "id": 9995921000146119,
+        "conceptId": 314539001,
+        "term": "alcoholgerelateerde opticusneuropathie",
+        "preferredTerm": "Alcohol related optic neuropathy"
+    },
+    {
+        "id": 10518931000146118,
+        "conceptId": 314539001,
+        "term": "opticusneuropathie bij alcoholgebruik",
+        "preferredTerm": "Alcohol related optic neuropathy"
+    },
+    {
+        "id": 351121019,
+        "conceptId": 234366009,
+        "term": "Alcohol-related sideroblastic anaemia",
+        "preferredTerm": "Alcohol-related sideroblastic anemia"
+    },
+    {
+        "id": 351122014,
+        "conceptId": 234366009,
+        "term": "Alcohol-related sideroblastic anemia",
+        "preferredTerm": "Alcohol-related sideroblastic anemia"
+    },
+    {
+        "id": 8384681000146118,
+        "conceptId": 234366009,
+        "term": "alcoholgerelateerde sideroblastische anemie",
+        "preferredTerm": "Alcohol-related sideroblastic anemia"
+    },
+    {
+        "id": 8384701000146116,
+        "conceptId": 234366009,
+        "term": "alcoholgerelateerde sideroblastaire anemie",
+        "preferredTerm": "Alcohol-related sideroblastic anemia"
+    },
+    {
+        "id": 353687012,
+        "conceptId": 235942001,
+        "term": "Alcohol-induced acute pancreatitis",
+        "preferredTerm": "Alcohol-induced acute pancreatitis"
+    },
+    {
+        "id": 501641000146118,
+        "conceptId": 235942001,
+        "term": "acute pancreatitis door alcohol",
+        "preferredTerm": "Alcohol-induced acute pancreatitis"
+    },
+    {
+        "id": 501661000146117,
+        "conceptId": 235942001,
+        "term": "alcoholge\u00efnduceerde acute pancreatitis",
+        "preferredTerm": "Alcohol-induced acute pancreatitis"
+    },
+    {
+        "id": 559241000146114,
+        "conceptId": 235942001,
+        "term": "acute alvleesklierontsteking door alcohol",
+        "preferredTerm": "Alcohol-induced acute pancreatitis"
+    },
+    {
+        "id": 566231000146119,
+        "conceptId": 235942001,
+        "term": "acute alcoholische pancreatitis",
+        "preferredTerm": "Alcohol-induced acute pancreatitis"
+    },
+    {
+        "id": 346934011,
+        "conceptId": 231467000,
+        "term": "Absinthe addiction",
+        "preferredTerm": "Absinthe addiction"
+    },
+    {
+        "id": 6408341000146114,
+        "conceptId": 231467000,
+        "term": "verslaving aan absint",
+        "preferredTerm": "Absinthe addiction"
+    },
+    {
+        "id": 6408361000146110,
+        "conceptId": 231467000,
+        "term": "absintverslaving",
+        "preferredTerm": "Absinthe addiction"
+    },
+    {
+        "id": 351066013,
+        "conceptId": 234341005,
+        "term": "Alcohol-related macrocytosis",
+        "preferredTerm": "Alcohol-related macrocytosis"
+    },
+    {
+        "id": 10883101000146118,
+        "conceptId": 234341005,
+        "term": "macrocytose door alcohol",
+        "preferredTerm": "Alcohol-related macrocytosis"
+    },
+    {
+        "id": 353594015,
+        "conceptId": 235880004,
+        "term": "Alcoholic fibrosis and sclerosis of liver",
+        "preferredTerm": "Alcoholic fibrosis and sclerosis of liver"
+    },
+    {
+        "id": 7481381000146113,
+        "conceptId": 235880004,
+        "term": "alcoholische fibrose en sclerose van lever",
+        "preferredTerm": "Alcoholic fibrosis and sclerosis of liver"
+    },
+    {
+        "id": 353595019,
+        "conceptId": 235881000,
+        "term": "Alcoholic hepatic failure",
+        "preferredTerm": "Alcoholic hepatic failure"
+    },
+    {
+        "id": 691931000146114,
+        "conceptId": 235881000,
+        "term": "alcoholische leverinsuffici\u00ebntie",
+        "preferredTerm": "Alcoholic hepatic failure"
+    },
+    {
+        "id": 2983110014,
+        "conceptId": 699208000,
+        "term": "Thrombocytopenia due to alcohol",
+        "preferredTerm": "Thrombocytopenia due to alcohol"
+    },
+    {
+        "id": 2988862012,
+        "conceptId": 699208000,
+        "term": "Thrombocytopaenia due to alcohol",
+        "preferredTerm": "Thrombocytopenia due to alcohol"
+    },
+    {
+        "id": 3293460019,
+        "conceptId": 699208000,
+        "term": "Thrombocytopaenia caused by alcohol",
+        "preferredTerm": "Thrombocytopenia due to alcohol"
+    },
+    {
+        "id": 3296694019,
+        "conceptId": 699208000,
+        "term": "Thrombocytopenia caused by alcohol",
+        "preferredTerm": "Thrombocytopenia due to alcohol"
+    },
+    {
+        "id": 676261000146111,
+        "conceptId": 699208000,
+        "term": "trombocytopenie door alcohol",
+        "preferredTerm": "Thrombocytopenia due to alcohol"
+    },
+    {
+        "id": 478024019,
+        "conceptId": 361268000,
+        "term": "Alcohol-induced epilepsy",
+        "preferredTerm": "Alcohol-induced epilepsy"
+    },
+    {
+        "id": 673281000146112,
+        "conceptId": 361268000,
+        "term": "epilepsie door alcohol",
+        "preferredTerm": "Alcohol-induced epilepsy"
+    },
+    {
+        "id": 478048011,
+        "conceptId": 361273006,
+        "term": "Alcoholic cerebellar degeneration",
+        "preferredTerm": "Alcoholic cerebellar degeneration"
+    },
+    {
+        "id": 1490764012,
+        "conceptId": 361273006,
+        "term": "Alcoholic cerebellar degeneration syndrome",
+        "preferredTerm": "Alcoholic cerebellar degeneration"
+    },
+    {
+        "id": 103401000146112,
+        "conceptId": 361273006,
+        "term": "cerebellaire degeneratie door alcohol",
+        "preferredTerm": "Alcoholic cerebellar degeneration"
+    },
+    {
+        "id": 478046010,
+        "conceptId": 361272001,
+        "term": "Cerebellar ataxia due to alcoholism",
+        "preferredTerm": "Cerebellar ataxia due to alcoholism"
+    },
+    {
+        "id": 103381000146112,
+        "conceptId": 361272001,
+        "term": "cerebellaire ataxie door alcoholisme",
+        "preferredTerm": "Cerebellar ataxia due to alcoholism"
+    },
+    {
+        "id": 3288362011,
+        "conceptId": 713181003,
+        "term": "Chronic alcoholic liver disease",
+        "preferredTerm": "Chronic alcoholic liver disease"
+    },
+    {
+        "id": 7481871000146115,
+        "conceptId": 713181003,
+        "term": "chronische alcoholische leverziekte",
+        "preferredTerm": "Chronic alcoholic liver disease"
+    },
+    {
+        "id": 3318150011,
+        "conceptId": 719848005,
+        "term": "Disorder caused by alcohol",
+        "preferredTerm": "Disorder caused by alcohol"
+    },
+    {
+        "id": 3318151010,
+        "conceptId": 719848005,
+        "term": "Alcohol induced disorder",
+        "preferredTerm": "Disorder caused by alcohol"
+    },
+    {
+        "id": 7629781000146117,
+        "conceptId": 719848005,
+        "term": "aandoening door alcohol",
+        "preferredTerm": "Disorder caused by alcohol"
+    },
+    {
+        "id": 3290336015,
+        "conceptId": 713583005,
+        "term": "Mild alcohol dependence",
+        "preferredTerm": "Mild alcohol dependence"
+    },
+    {
+        "id": 6989861000146111,
+        "conceptId": 713583005,
+        "term": "lichte afhankelijkheid van alcohol",
+        "preferredTerm": "Mild alcohol dependence"
+    },
+    {
+        "id": 6989871000146117,
+        "conceptId": 713583005,
+        "term": "lichte alcoholafhankelijkheid",
+        "preferredTerm": "Mild alcohol dependence"
+    },
+    {
+        "id": 3297813018,
+        "conceptId": 713862009,
+        "term": "Severe alcohol dependence",
+        "preferredTerm": "Severe alcohol dependence"
+    },
+    {
+        "id": 6427641000146114,
+        "conceptId": 713862009,
+        "term": "ernstige afhankelijkheid van alcohol",
+        "preferredTerm": "Severe alcohol dependence"
+    },
+    {
+        "id": 6864181000146117,
+        "conceptId": 713862009,
+        "term": "ernstige alcoholafhankelijkheid",
+        "preferredTerm": "Severe alcohol dependence"
+    },
+    {
+        "id": 3300567016,
+        "conceptId": 714829008,
+        "term": "Moderate alcohol dependence",
+        "preferredTerm": "Moderate alcohol dependence"
+    },
+    {
+        "id": 6427571000146117,
+        "conceptId": 714829008,
+        "term": "matige afhankelijkheid van alcohol",
+        "preferredTerm": "Moderate alcohol dependence"
+    },
+    {
+        "id": 6863501000146118,
+        "conceptId": 714829008,
+        "term": "matige alcoholafhankelijkheid",
+        "preferredTerm": "Moderate alcohol dependence"
+    },
+    {
+        "id": 2576981019,
+        "conceptId": 420054005,
+        "term": "Alcoholic cirrhosis",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 2912539019,
+        "conceptId": 420054005,
+        "term": "Alcoholic liver cirrhosis",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 2920441014,
+        "conceptId": 420054005,
+        "term": "Alcoholic cirrhosis of liver",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 90011000146115,
+        "conceptId": 420054005,
+        "term": "alcoholische levercirrose",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 90021000146113,
+        "conceptId": 420054005,
+        "term": "cirrose van lever door alchohol",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 90031000146110,
+        "conceptId": 420054005,
+        "term": "levercirrose door alcohol",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 8663001000146114,
+        "conceptId": 420054005,
+        "term": "cirrose van lever door alcohol",
+        "preferredTerm": "Alcoholic cirrhosis"
+    },
+    {
+        "id": 2965739010,
+        "conceptId": 609437000,
+        "term": "Fetal Alcohol Spectrum Disorder",
+        "preferredTerm": "Fetal Alcohol Spectrum Disorder"
+    },
+    {
+        "id": 2965959019,
+        "conceptId": 609437000,
+        "term": "Foetal Alcohol Spectrum Disorder",
+        "preferredTerm": "Fetal Alcohol Spectrum Disorder"
+    },
+    {
+        "id": 6637491000146119,
+        "conceptId": 609437000,
+        "term": "foetale alcoholspectrumstoornis",
+        "preferredTerm": "Fetal Alcohol Spectrum Disorder"
+    },
+    {
+        "id": 6637521000146116,
+        "conceptId": 609437000,
+        "term": "FASD",
+        "preferredTerm": "Fetal Alcohol Spectrum Disorder"
+    },
+    {
+        "id": 8277431000146112,
+        "conceptId": 609437000,
+        "term": "fetal alcohol spectrum disorder",
+        "preferredTerm": "Fetal Alcohol Spectrum Disorder"
+    },
+    {
+        "id": 2987871018,
+        "conceptId": 698321001,
+        "term": "Neonatal effect of alcohol transmitted via breast milk",
+        "preferredTerm": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+    },
+    {
+        "id": 5171689011,
+        "conceptId": 698321001,
+        "term": "Neonatal disorder caused by maternal alcohol transmitted via breast milk",
+        "preferredTerm": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+    },
+    {
+        "id": 9548311000146119,
+        "conceptId": 698321001,
+        "term": "gevolg voor neonaat van alcohol overgedragen via moedermelk",
+        "preferredTerm": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+    },
+    {
+        "id": 9548331000146114,
+        "conceptId": 698321001,
+        "term": "gevolg voor pasgeborene van alcohol overgedragen via borstvoeding",
+        "preferredTerm": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+    },
+    {
+        "id": 9548721000146113,
+        "conceptId": 698321001,
+        "term": "neonataal effect van alcohol overgedragen via moedermelk",
+        "preferredTerm": "Neonatal disorder caused by maternal alcohol transmitted via breast milk"
+    },
+    {
+        "id": 3289055018,
+        "conceptId": 713370005,
+        "term": "Acute on chronic alcoholic liver disease",
+        "preferredTerm": "Acute on chronic alcoholic liver disease"
+    },
+    {
+        "id": 7794321000146115,
+        "conceptId": 713370005,
+        "term": "acuut-op-chronische alcoholische leverziekte",
+        "preferredTerm": "Acute on chronic alcoholic liver disease"
+    },
+    {
+        "id": 7798101000146118,
+        "conceptId": 713370005,
+        "term": "'acute on chronic' alcoholische leverziekte",
+        "preferredTerm": "Acute on chronic alcoholic liver disease"
+    },
+    {
+        "id": 11430321000146112,
+        "conceptId": 713370005,
+        "term": "acute-op-chronische alcoholische leverziekte",
+        "preferredTerm": "Acute on chronic alcoholic liver disease"
+    },
+    {
+        "id": 2870612012,
+        "conceptId": 445507008,
+        "term": "Alcohol-induced pancreatitis",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 2871112016,
+        "conceptId": 445507008,
+        "term": "Inflammation of pancreas due to alcohol",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 2951751017,
+        "conceptId": 445507008,
+        "term": "Alcoholic pancreatitis",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 3291507014,
+        "conceptId": 445507008,
+        "term": "Inflammation of pancreas caused by alcohol",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 5066411000146110,
+        "conceptId": 445507008,
+        "term": "ontsteking van pancreas veroorzaakt door alcohol",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 5066421000146117,
+        "conceptId": 445507008,
+        "term": "ontsteking van alvleesklier door alcohol",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 6252091000146112,
+        "conceptId": 445507008,
+        "term": "alcoholische pancreatitis",
+        "preferredTerm": "Alcohol-induced pancreatitis"
+    },
+    {
+        "id": 3334614018,
+        "conceptId": 723103002,
+        "term": "Gastric ulcer caused by alcohol",
+        "preferredTerm": "Gastric ulcer caused by alcohol"
+    },
+    {
+        "id": 3334615017,
+        "conceptId": 723103002,
+        "term": "Alcohol induced gastric ulcer",
+        "preferredTerm": "Gastric ulcer caused by alcohol"
+    },
+    {
+        "id": 7478481000146115,
+        "conceptId": 723103002,
+        "term": "ulcus ventriculi door alcohol",
+        "preferredTerm": "Gastric ulcer caused by alcohol"
+    },
+    {
+        "id": 7478501000146111,
+        "conceptId": 723103002,
+        "term": "maagulcus door alcohol",
+        "preferredTerm": "Gastric ulcer caused by alcohol"
+    },
+    {
+        "id": 7478511000146113,
+        "conceptId": 723103002,
+        "term": "maagzweer door alcohol",
+        "preferredTerm": "Gastric ulcer caused by alcohol"
+    },
+    {
+        "id": 22361000146111,
+        "conceptId": 6801000146107,
+        "term": "Decompensated alcoholic cirrhosis",
+        "preferredTerm": "Decompensated alcoholic cirrhosis"
+    },
+    {
+        "id": 708481000146115,
+        "conceptId": 6801000146107,
+        "term": "alcoholische levercirrose gedecompenseerd",
+        "preferredTerm": "Decompensated alcoholic cirrhosis"
+    },
+    {
+        "id": 11058151000146110,
+        "conceptId": 6801000146107,
+        "term": "gedecompenseerde alcoholische levercirrose",
+        "preferredTerm": "Decompensated alcoholic cirrhosis"
+    },
+    {
+        "id": 644731000146115,
+        "conceptId": 39241000146109,
+        "term": "sleep disorder due to alcohol abuse",
+        "preferredTerm": "Sleep disorder due to alcohol abuse"
+    },
+    {
+        "id": 10656831000146114,
+        "conceptId": 39241000146109,
+        "term": "slaapstoornis door alcoholmisbruik",
+        "preferredTerm": "Sleep disorder due to alcohol abuse"
+    },
+    {
+        "id": 10661481000146112,
+        "conceptId": 39241000146109,
+        "term": "slaapstoornis door alcoholabusus",
+        "preferredTerm": "Sleep disorder due to alcohol abuse"
+    },
+    {
+        "id": 11027571000146110,
+        "conceptId": 39241000146109,
+        "term": "Sleep disorder due to alcohol abuse",
+        "preferredTerm": "Sleep disorder due to alcohol abuse"
+    },
+    {
+        "id": 644751000146114,
+        "conceptId": 39251000146107,
+        "term": "sleep disorder due to alcohol dependence",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 10657021000146119,
+        "conceptId": 39251000146107,
+        "term": "slaapstoornis door alcoholafhankelijkheid",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 10657061000146114,
+        "conceptId": 39251000146107,
+        "term": "slaapstoornis door alcoholverslaving",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 10657071000146115,
+        "conceptId": 39251000146107,
+        "term": "slaapstoornis door chronisch alcoholisme",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 10661491000146114,
+        "conceptId": 39251000146107,
+        "term": "alcoholge\u00efnduceerde slaapstoornis bij alcoholafhankelijkheid",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 13440291000146113,
+        "conceptId": 39251000146107,
+        "term": "Sleep disorder due to alcohol dependence",
+        "preferredTerm": "Sleep disorder due to alcohol dependence"
+    },
+    {
+        "id": 137541000146114,
+        "conceptId": 18801000146106,
+        "term": "Compensated alcoholic liver cirrhosis",
+        "preferredTerm": "Compensated alcoholic liver cirrhosis"
+    },
+    {
+        "id": 704581000146111,
+        "conceptId": 18801000146106,
+        "term": "alcoholische levercirrose gecompenseerd",
+        "preferredTerm": "Compensated alcoholic liver cirrhosis"
+    },
+    {
+        "id": 11058131000146116,
+        "conceptId": 18801000146106,
+        "term": "gecompenseerde alcoholische levercirrose",
+        "preferredTerm": "Compensated alcoholic liver cirrhosis"
+    },
+    {
+        "id": 49621000146115,
+        "conceptId": 13761000146108,
+        "term": "Alcohol abuse during pregnancy",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 49641000146114,
+        "conceptId": 13761000146108,
+        "term": "alcoholabusus tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 4185131000146119,
+        "conceptId": 13761000146108,
+        "term": "misbruik van alcohol tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 4185151000146113,
+        "conceptId": 13761000146108,
+        "term": "alcoholmisbruik tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 13511801000146111,
+        "conceptId": 13761000146108,
+        "term": "pre-existent alcoholmisbruik tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 13511831000146118,
+        "conceptId": 13761000146108,
+        "term": "Pre-existing alcohol abuse in pregnancy",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 13511841000146114,
+        "conceptId": 13761000146108,
+        "term": "pre-existente alcoholabusus tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 13511851000146112,
+        "conceptId": 13761000146108,
+        "term": "pre-existent misbruik van alcohol tijdens zwangerschap",
+        "preferredTerm": "Pre-existing alcohol abuse in pregnancy"
+    },
+    {
+        "id": 744071000146111,
+        "conceptId": 47511000146102,
+        "term": "Alcohol intoxication due to drinking binge",
+        "preferredTerm": "Alcohol intoxication due to drinking binge"
+    },
+    {
+        "id": 8947631000146114,
+        "conceptId": 47511000146102,
+        "term": "alcoholintoxicatie door bingedrinken",
+        "preferredTerm": "Alcohol intoxication due to drinking binge"
+    },
+    {
+        "id": 8947651000146115,
+        "conceptId": 47511000146102,
+        "term": "alcoholvergiftiging door comazuipen",
+        "preferredTerm": "Alcohol intoxication due to drinking binge"
+    },
+    {
+        "id": 9494321000146116,
+        "conceptId": 122141000146103,
+        "term": "Degeneration of nervous system caused by alcohol",
+        "preferredTerm": "Degeneration of nervous system caused by alcohol"
+    },
+    {
+        "id": 10594711000146118,
+        "conceptId": 122141000146103,
+        "term": "degeneratie van zenuwstelsel door alcoholgebruik",
+        "preferredTerm": "Degeneration of nervous system caused by alcohol"
+    },
+    {
+        "id": 3289369011,
+        "conceptId": 97571000119109,
+        "term": "Thrombocytopaenia co-occurrent and due to alcoholism",
+        "preferredTerm": "Thrombocytopenia co-occurrent and due to alcoholism"
+    },
+    {
+        "id": 3289412013,
+        "conceptId": 97571000119109,
+        "term": "Thrombocytopenia co-occurrent and due to alcoholism",
+        "preferredTerm": "Thrombocytopenia co-occurrent and due to alcoholism"
+    },
+    {
+        "id": 670181000146111,
+        "conceptId": 97571000119109,
+        "term": "trombocytopenie gelijktijdig met en door alcoholisme",
+        "preferredTerm": "Thrombocytopenia co-occurrent and due to alcoholism"
+    },
+    {
+        "id": 3325822012,
+        "conceptId": 721710005,
+        "term": "Fibrosis of liver caused by alcohol",
+        "preferredTerm": "Fibrosis of liver caused by alcohol"
+    },
+    {
+        "id": 3325823019,
+        "conceptId": 721710005,
+        "term": "Alcoholic fibrosis of liver",
+        "preferredTerm": "Fibrosis of liver caused by alcohol"
+    },
+    {
+        "id": 7482691000146114,
+        "conceptId": 721710005,
+        "term": "leverfibrose door alcohol",
+        "preferredTerm": "Fibrosis of liver caused by alcohol"
+    },
+    {
+        "id": 3427868010,
+        "conceptId": 723927004,
+        "term": "Psychotic disorder caused by alcohol with schizophreniform symptoms",
+        "preferredTerm": "Psychotic disorder caused by alcohol with schizophreniform symptoms"
+    },
+    {
+        "id": 3427869019,
+        "conceptId": 723927004,
+        "term": "Alcohol-induced psychotic disorder with schizophreniform symptoms",
+        "preferredTerm": "Psychotic disorder caused by alcohol with schizophreniform symptoms"
+    },
+    {
+        "id": 7046951000146111,
+        "conceptId": 723927004,
+        "term": "psychotische stoornis met schizofreniforme symptomen door alcohol",
+        "preferredTerm": "Psychotic disorder caused by alcohol with schizophreniform symptoms"
+    },
+    {
+        "id": 4564062016,
+        "conceptId": 1153338005,
+        "term": "Alcohol induced osteonecrosis",
+        "preferredTerm": "Osteonecrosis caused by alcohol"
+    },
+    {
+        "id": 4564064015,
+        "conceptId": 1153338005,
+        "term": "Osteonecrosis caused by alcohol",
+        "preferredTerm": "Osteonecrosis caused by alcohol"
+    },
+    {
+        "id": 12939961000146113,
+        "conceptId": 1153338005,
+        "term": "osteonecrose door alcohol",
+        "preferredTerm": "Osteonecrosis caused by alcohol"
+    },
+    {
+        "id": 12939981000146117,
+        "conceptId": 1153338005,
+        "term": "botnecrose door alcohol",
+        "preferredTerm": "Osteonecrosis caused by alcohol"
+    },
+    {
+        "id": 12974751000146114,
+        "conceptId": 1153338005,
+        "term": "alcoholge\u00efnduceerde osteonecrose",
+        "preferredTerm": "Osteonecrosis caused by alcohol"
+    },
+    {
+        "id": 4697817018,
+        "conceptId": 1197724009,
+        "term": "Duodenal ulcer caused by alcohol",
+        "preferredTerm": "Duodenal ulcer caused by alcohol"
+    },
+    {
+        "id": 4697819015,
+        "conceptId": 1197724009,
+        "term": "Alcohol-induced duodenal ulcer",
+        "preferredTerm": "Duodenal ulcer caused by alcohol"
+    },
+    {
+        "id": 13502631000146111,
+        "conceptId": 1197724009,
+        "term": "zweer van duodenum door alcohol",
+        "preferredTerm": "Duodenal ulcer caused by alcohol"
+    },
+    {
+        "id": 13502641000146115,
+        "conceptId": 1197724009,
+        "term": "ulcus duodeni door alcohol",
+        "preferredTerm": "Duodenal ulcer caused by alcohol"
+    },
+    {
+        "id": 13502651000146117,
+        "conceptId": 1197724009,
+        "term": "zweer van twaalfvingerige darm door alcohol",
+        "preferredTerm": "Duodenal ulcer caused by alcohol"
+    },
+    {
+        "id": 5083972018,
+        "conceptId": 1234779007,
+        "term": "Mood disorder caused by ethanol",
+        "preferredTerm": "Mood disorder caused by ethanol"
+    },
+    {
+        "id": 5083973011,
+        "conceptId": 1234779007,
+        "term": "Alcohol-induced mood disorder",
+        "preferredTerm": "Mood disorder caused by ethanol"
+    },
+    {
+        "id": 5083974017,
+        "conceptId": 1234779007,
+        "term": "Ethanol-induced mood disorder",
+        "preferredTerm": "Mood disorder caused by ethanol"
+    },
+    {
+        "id": 13916301000146115,
+        "conceptId": 1234779007,
+        "term": "stemmingsstoornis door ethanol",
+        "preferredTerm": "Mood disorder caused by ethanol"
+    },
+    {
+        "id": 13916311000146118,
+        "conceptId": 1234779007,
+        "term": "stemmingsstoornis door alcohol",
+        "preferredTerm": "Mood disorder caused by ethanol"
+    },
+    {
+        "id": 5083989014,
+        "conceptId": 1234783007,
+        "term": "Organic mental disorder caused by ethanol",
+        "preferredTerm": "Organic mental disorder caused by ethanol"
+    },
+    {
+        "id": 5083990017,
+        "conceptId": 1234783007,
+        "term": "Ethanol-induced organic mental disorder",
+        "preferredTerm": "Organic mental disorder caused by ethanol"
+    },
+    {
+        "id": 5083991018,
+        "conceptId": 1234783007,
+        "term": "Alcohol-induced organic mental disorder",
+        "preferredTerm": "Organic mental disorder caused by ethanol"
+    },
+    {
+        "id": 13917931000146114,
+        "conceptId": 1234783007,
+        "term": "organische psychische stoornis door alcohol",
+        "preferredTerm": "Organic mental disorder caused by ethanol"
+    },
+    {
+        "id": 13917941000146118,
+        "conceptId": 1234783007,
+        "term": "organische psychische stoornis door ethanol",
+        "preferredTerm": "Organic mental disorder caused by ethanol"
+    },
+    {
+        "id": 5083956014,
+        "conceptId": 1234774002,
+        "term": "Cognitive impairment caused by alcohol",
+        "preferredTerm": "Cognitive impairment caused by ethanol"
+    },
+    {
+        "id": 5083958010,
+        "conceptId": 1234774002,
+        "term": "Cognitive impairment caused by ethanol",
+        "preferredTerm": "Cognitive impairment caused by ethanol"
+    },
+    {
+        "id": 13917051000146119,
+        "conceptId": 1234774002,
+        "term": "alcoholische cognitieve functiestoornis",
+        "preferredTerm": "Cognitive impairment caused by ethanol"
+    },
+    {
+        "id": 13917061000146116,
+        "conceptId": 1234774002,
+        "term": "cognitieve functiestoornis door ethanol",
+        "preferredTerm": "Cognitive impairment caused by ethanol"
+    },
+    {
+        "id": 5083952011,
+        "conceptId": 1234772003,
+        "term": "Ethanol-related neurological disorder",
+        "preferredTerm": "Neurological disorder caused by ethanol"
+    },
+    {
+        "id": 5083953018,
+        "conceptId": 1234772003,
+        "term": "Neurological disorder caused by ethanol",
+        "preferredTerm": "Neurological disorder caused by ethanol"
+    },
+    {
+        "id": 5083981012,
+        "conceptId": 1234772003,
+        "term": "Alcohol-related neurological disorder",
+        "preferredTerm": "Neurological disorder caused by ethanol"
+    },
+    {
+        "id": 13918301000146116,
+        "conceptId": 1234772003,
+        "term": "aandoening van zenuwstelsel door ethanol",
+        "preferredTerm": "Neurological disorder caused by ethanol"
+    },
+    {
+        "id": 13918321000146112,
+        "conceptId": 1234772003,
+        "term": "neurologische aandoening door alcohol",
+        "preferredTerm": "Neurological disorder caused by ethanol"
+    },
+    {
+        "id": 5083962016,
+        "conceptId": 1234776000,
+        "term": "Alcohol-induced sleep disorder",
+        "preferredTerm": "Sleep disorder caused by ethanol"
+    },
+    {
+        "id": 5083964015,
+        "conceptId": 1234776000,
+        "term": "Sleep disorder caused by ethanol",
+        "preferredTerm": "Sleep disorder caused by ethanol"
+    },
+    {
+        "id": 5083965019,
+        "conceptId": 1234776000,
+        "term": "Ethanol-induced sleep disorder",
+        "preferredTerm": "Sleep disorder caused by ethanol"
+    },
+    {
+        "id": 13918031000146112,
+        "conceptId": 1234776000,
+        "term": "slaapstoornis door ethanol",
+        "preferredTerm": "Sleep disorder caused by ethanol"
+    },
+    {
+        "id": 13918041000146116,
+        "conceptId": 1234776000,
+        "term": "slaapstoornis door alcohol",
+        "preferredTerm": "Sleep disorder caused by ethanol"
+    },
+    {
+        "id": 5083935012,
+        "conceptId": 1234767007,
+        "term": "Alcoholic duodenitis",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 5083947018,
+        "conceptId": 1234767007,
+        "term": "Duodenitis caused by ethanol",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 13915211000146115,
+        "conceptId": 1234767007,
+        "term": "duodenitis door alcohol",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 13915221000146113,
+        "conceptId": 1234767007,
+        "term": "ontsteking van twaalfvingerige darm door alcohol",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 13915231000146110,
+        "conceptId": 1234767007,
+        "term": "duodenitis door ethanol",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 13915251000146116,
+        "conceptId": 1234767007,
+        "term": "alcoholische duodenitis",
+        "preferredTerm": "Duodenitis caused by ethanol"
+    },
+    {
+        "id": 5075972012,
+        "conceptId": 1231846001,
+        "term": "Ethanol-induced psychosis",
+        "preferredTerm": "Psychosis caused by ethanol"
+    },
+    {
+        "id": 5075973019,
+        "conceptId": 1231846001,
+        "term": "Psychosis caused by ethanol",
+        "preferredTerm": "Psychosis caused by ethanol"
+    },
+    {
+        "id": 5075978011,
+        "conceptId": 1231846001,
+        "term": "Alcohol-induced psychosis",
+        "preferredTerm": "Psychosis caused by ethanol"
+    },
+    {
+        "id": 13918381000146113,
+        "conceptId": 1231846001,
+        "term": "psychose door ethanol",
+        "preferredTerm": "Psychosis caused by ethanol"
+    },
+    {
+        "id": 13918391000146110,
+        "conceptId": 1231846001,
+        "term": "psychose door alcohol",
+        "preferredTerm": "Psychosis caused by ethanol"
+    },
+    {
+        "id": 5083871014,
+        "conceptId": 1234750000,
+        "term": "Alcoholic cardiomyopathy",
+        "preferredTerm": "Alcoholic cardiomyopathy"
+    },
+    {
+        "id": 5083872019,
+        "conceptId": 1234750000,
+        "term": "Dilated cardiomyopathy caused by ethanol",
+        "preferredTerm": "Alcoholic cardiomyopathy"
+    },
+    {
+        "id": 5083873012,
+        "conceptId": 1234750000,
+        "term": "Dilated cardiomyopathy caused by alcohol",
+        "preferredTerm": "Alcoholic cardiomyopathy"
+    },
+    {
+        "id": 13917821000146115,
+        "conceptId": 1234750000,
+        "term": "alcoholische cardiomyopathie",
+        "preferredTerm": "Alcoholic cardiomyopathy"
+    },
+    {
+        "id": 13917831000146118,
+        "conceptId": 1234750000,
+        "term": "dilaterende cardiomyopathie door ethanol",
+        "preferredTerm": "Alcoholic cardiomyopathy"
+    },
+    {
+        "id": 5083975016,
+        "conceptId": 1234780005,
+        "term": "Mood disorder with mixed manic and depressive symptoms caused by ethanol",
+        "preferredTerm": "Mood disorder with mixed manic and depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 5083976015,
+        "conceptId": 1234780005,
+        "term": "Alcohol-induced mood disorder with mixed manic and depressive symptoms",
+        "preferredTerm": "Mood disorder with mixed manic and depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 5083987011,
+        "conceptId": 1234780005,
+        "term": "Ethanol-induced mood disorder with mixed manic and depressive symptoms",
+        "preferredTerm": "Mood disorder with mixed manic and depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 13917571000146118,
+        "conceptId": 1234780005,
+        "term": "stemmingsstoornis met gemengde manische en depressieve symptomen door alcohol",
+        "preferredTerm": "Mood disorder with mixed manic and depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 13917591000146119,
+        "conceptId": 1234780005,
+        "term": "stemmingsstoornis met gemengde manische en depressieve symptomen door ethanol",
+        "preferredTerm": "Mood disorder with mixed manic and depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 5083968017,
+        "conceptId": 1234778004,
+        "term": "Steatohepatitis caused by ethanol",
+        "preferredTerm": "Alcoholic steatohepatitis"
+    },
+    {
+        "id": 5083969013,
+        "conceptId": 1234778004,
+        "term": "Alcoholic steatohepatitis",
+        "preferredTerm": "Alcoholic steatohepatitis"
+    },
+    {
+        "id": 13914741000146113,
+        "conceptId": 1234778004,
+        "term": "steatohepatitis door ethanol",
+        "preferredTerm": "Alcoholic steatohepatitis"
+    },
+    {
+        "id": 13914751000146111,
+        "conceptId": 1234778004,
+        "term": "ASH",
+        "preferredTerm": "Alcoholic steatohepatitis"
+    },
+    {
+        "id": 13914771000146115,
+        "conceptId": 1234778004,
+        "term": "alcoholische steatohepatitis",
+        "preferredTerm": "Alcoholic steatohepatitis"
+    },
+    {
+        "id": 5146838016,
+        "conceptId": 1255408003,
+        "term": "Adverse reaction to ethanol",
+        "preferredTerm": "Adverse reaction to ethanol"
+    },
+    {
+        "id": 5146840014,
+        "conceptId": 1255408003,
+        "term": "Adverse reaction caused by ethanol",
+        "preferredTerm": "Adverse reaction to ethanol"
+    },
+    {
+        "id": 14007071000146117,
+        "conceptId": 1255408003,
+        "term": "bijwerking van alcohol",
+        "preferredTerm": "Adverse reaction to ethanol"
+    },
+    {
+        "id": 14007081000146115,
+        "conceptId": 1255408003,
+        "term": "ongewenste reactie op ethanol",
+        "preferredTerm": "Adverse reaction to ethanol"
+    },
+    {
+        "id": 14007091000146118,
+        "conceptId": 1255408003,
+        "term": "'adverse reaction' op alcohol",
+        "preferredTerm": "Adverse reaction to ethanol"
+    },
+    {
+        "id": 4555326016,
+        "conceptId": 1149333003,
+        "term": "Acute alcohol intoxication",
+        "preferredTerm": "Acute alcohol intoxication"
+    },
+    {
+        "id": 12955631000146113,
+        "conceptId": 1149333003,
+        "term": "acute intoxicatie door alcohol",
+        "preferredTerm": "Acute alcohol intoxication"
+    },
+    {
+        "id": 13017561000146115,
+        "conceptId": 1149333003,
+        "term": "acute alcoholintoxicatie",
+        "preferredTerm": "Acute alcohol intoxication"
+    },
+    {
+        "id": 13039851000146115,
+        "conceptId": 1149333003,
+        "term": "acute vergiftiging door ethanol",
+        "preferredTerm": "Acute alcohol intoxication"
+    },
+    {
+        "id": 5083979010,
+        "conceptId": 1234781009,
+        "term": "Alcohol-induced mood disorder with manic symptoms",
+        "preferredTerm": "Mood disorder with manic symptoms caused by ethanol"
+    },
+    {
+        "id": 5083980013,
+        "conceptId": 1234781009,
+        "term": "Mood disorder with manic symptoms caused by ethanol",
+        "preferredTerm": "Mood disorder with manic symptoms caused by ethanol"
+    },
+    {
+        "id": 5083986019,
+        "conceptId": 1234781009,
+        "term": "Ethanol-induced mood disorder with manic symptoms",
+        "preferredTerm": "Mood disorder with manic symptoms caused by ethanol"
+    },
+    {
+        "id": 13916791000146110,
+        "conceptId": 1234781009,
+        "term": "stemmingsstoornis met manische symptomen door ethanol",
+        "preferredTerm": "Mood disorder with manic symptoms caused by ethanol"
+    },
+    {
+        "id": 13916801000146114,
+        "conceptId": 1234781009,
+        "term": "stemmingsstoornis met manische symptomen door alcohol",
+        "preferredTerm": "Mood disorder with manic symptoms caused by ethanol"
+    },
+    {
+        "id": 5146841013,
+        "conceptId": 1255409006,
+        "term": "Adverse reaction caused by alcoholic beverage",
+        "preferredTerm": "Adverse reaction to alcoholic beverage"
+    },
+    {
+        "id": 5146843011,
+        "conceptId": 1255409006,
+        "term": "Adverse reaction to alcoholic beverage",
+        "preferredTerm": "Adverse reaction to alcoholic beverage"
+    },
+    {
+        "id": 14008851000146116,
+        "conceptId": 1255409006,
+        "term": "'adverse reaction' op alcoholische drank",
+        "preferredTerm": "Adverse reaction to alcoholic beverage"
+    },
+    {
+        "id": 14008861000146118,
+        "conceptId": 1255409006,
+        "term": "ongewenste reactie op alcoholische drank",
+        "preferredTerm": "Adverse reaction to alcoholic beverage"
+    },
+    {
+        "id": 14008871000146112,
+        "conceptId": 1255409006,
+        "term": "bijwerking van alcoholische drank",
+        "preferredTerm": "Adverse reaction to alcoholic beverage"
+    },
+    {
+        "id": 5171560018,
+        "conceptId": 1264172003,
+        "term": "Fetal disorder caused by maternal alcohol addiction transmitted via placenta",
+        "preferredTerm": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta"
+    },
+    {
+        "id": 5171563016,
+        "conceptId": 1264172003,
+        "term": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta",
+        "preferredTerm": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta"
+    },
+    {
+        "id": 14428571000146114,
+        "conceptId": 1264172003,
+        "term": "aandoening bij foetus door maternale alcoholverslaving overgedragen via placenta",
+        "preferredTerm": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta"
+    },
+    {
+        "id": 14428581000146111,
+        "conceptId": 1264172003,
+        "term": "foetale aandoening door alcoholafhankelijkheid van moeder overgedragen via placenta",
+        "preferredTerm": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta"
+    },
+    {
+        "id": 14428591000146113,
+        "conceptId": 1264172003,
+        "term": "foetale afwijking door alcoholisme van moeder overgedragen via placenta",
+        "preferredTerm": "Fetal disorder caused by maternal alcohol dependence transmitted via placenta"
+    },
+    {
+        "id": 5083982017,
+        "conceptId": 1234782002,
+        "term": "Ethanol-induced mood disorder with depressive symptoms",
+        "preferredTerm": "Mood disorder with depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 5083983010,
+        "conceptId": 1234782002,
+        "term": "Mood disorder with depressive symptoms caused by ethanol",
+        "preferredTerm": "Mood disorder with depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 5083985015,
+        "conceptId": 1234782002,
+        "term": "Alcohol-induced mood disorder with depressive symptoms",
+        "preferredTerm": "Mood disorder with depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 13918521000146116,
+        "conceptId": 1234782002,
+        "term": "stemmingsstoornis met depressieve symptomen door ethanol",
+        "preferredTerm": "Mood disorder with depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 13918531000146119,
+        "conceptId": 1234782002,
+        "term": "stemmingsstoornis met depressieve symptomen door alcohol",
+        "preferredTerm": "Mood disorder with depressive symptoms caused by ethanol"
+    },
+    {
+        "id": 3896617018,
+        "conceptId": 838376007,
+        "term": "Chronic myopathy caused by alcohol",
+        "preferredTerm": "Chronic myopathy caused by alcohol"
+    },
+    {
+        "id": 3896618011,
+        "conceptId": 838376007,
+        "term": "Chronic alcoholic myopathy",
+        "preferredTerm": "Chronic myopathy caused by alcohol"
+    },
+    {
+        "id": 10948741000146110,
+        "conceptId": 838376007,
+        "term": "chronische myopathie door alcohol",
+        "preferredTerm": "Chronic myopathy caused by alcohol"
+    },
+    {
+        "id": 11058111000146111,
+        "conceptId": 838376007,
+        "term": "chronische alcoholmyopathie",
+        "preferredTerm": "Chronic myopathy caused by alcohol"
+    },
+    {
+        "id": 11061651000146118,
+        "conceptId": 838376007,
+        "term": "chronische alcoholische myopathie",
+        "preferredTerm": "Chronic myopathy caused by alcohol"
+    },
+    {
+        "id": 3896638012,
+        "conceptId": 838386008,
+        "term": "Acute alcoholic myopathy",
+        "preferredTerm": "Acute alcoholic myopathy"
+    },
+    {
+        "id": 10947471000146110,
+        "conceptId": 838386008,
+        "term": "acute alcoholische myopathie",
+        "preferredTerm": "Acute alcoholic myopathy"
+    },
+    {
+        "id": 11044591000146116,
+        "conceptId": 838386008,
+        "term": "acute alcoholmyopathie",
+        "preferredTerm": "Acute alcoholic myopathy"
+    },
+    {
+        "id": 11061641000146116,
+        "conceptId": 838386008,
+        "term": "acute myopathie door alcohol",
+        "preferredTerm": "Acute alcoholic myopathy"
+    },
+    {
+        "id": 3290021010,
+        "conceptId": 133301000119102,
+        "term": "Degenerative brain disorder caused by alcohol",
+        "preferredTerm": "Degenerative brain disorder caused by alcohol"
+    },
+    {
+        "id": 3290091018,
+        "conceptId": 133301000119102,
+        "term": "Degenerative brain disorder due to alcohol",
+        "preferredTerm": "Degenerative brain disorder caused by alcohol"
+    },
+    {
+        "id": 674451000146117,
+        "conceptId": 133301000119102,
+        "term": "degeneratieve hersenaandoening door alcohol",
+        "preferredTerm": "Degenerative brain disorder caused by alcohol"
+    },
+    {
+        "id": 674471000146113,
+        "conceptId": 133301000119102,
+        "term": "degeneratieve aandoening van hersenen door alcohol",
+        "preferredTerm": "Degenerative brain disorder caused by alcohol"
+    },
+    {
+        "id": 3289963019,
+        "conceptId": 135331000119105,
+        "term": "Circadian rhythm sleep disorder caused by alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 4570728015,
+        "conceptId": 135331000119105,
+        "term": "Disorder of sleep-wake cycle caused by alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 10263681000146112,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circardiane slaap-waakcyclus door alcoholconsumptie",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 10432971000146119,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circardiaan ritme door alcoholgebruik",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 10639201000146110,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circardiane slaap-waakritme door alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 10639211000146112,
+        "conceptId": 135331000119105,
+        "term": "stoornis van slaap-waakcyclus door alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 10639221000146119,
+        "conceptId": 135331000119105,
+        "term": "stoornis van slaap-waakritme door alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 13129301000146117,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circadiaan ritme door alcoholgebruik",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 13144151000146116,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circadiane slaap-waakritme door alcohol",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 13144161000146118,
+        "conceptId": 135331000119105,
+        "term": "stoornis van circadiane slaap-waakcyclus door alcoholconsumptie",
+        "preferredTerm": "Circadian rhythm sleep disorder caused by alcohol"
+    },
+    {
+        "id": 136091019,
+        "conceptId": 82047000,
+        "term": "Diarrhea due to alcohol intake",
+        "preferredTerm": "Diarrhea due to alcohol intake"
+    },
+    {
+        "id": 136092014,
+        "conceptId": 82047000,
+        "term": "Diarrhoea due to alcohol intake",
+        "preferredTerm": "Diarrhea due to alcohol intake"
+    },
+    {
+        "id": 3294615019,
+        "conceptId": 82047000,
+        "term": "Diarrhea caused by alcohol intake",
+        "preferredTerm": "Diarrhea due to alcohol intake"
+    },
+    {
+        "id": 3295289018,
+        "conceptId": 82047000,
+        "term": "Diarrhoea caused by alcohol intake",
+        "preferredTerm": "Diarrhea due to alcohol intake"
+    },
+    {
+        "id": 197111000146114,
+        "conceptId": 82047000,
+        "term": "diarree door alcoholgebruik",
+        "preferredTerm": "Diarrhea due to alcohol intake"
+    },
+    {
+        "id": 110628016,
+        "conceptId": 66590003,
+        "term": "Alcohol dependence",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 110629012,
+        "conceptId": 66590003,
+        "term": "Chronic alcoholism",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 500478011,
+        "conceptId": 66590003,
+        "term": "Alcohol dependence syndrome",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 86461000146113,
+        "conceptId": 66590003,
+        "term": "alcohol-afhankelijkheidssyndroom",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 86471000146119,
+        "conceptId": 66590003,
+        "term": "alcoholverslaving",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 1084661000146117,
+        "conceptId": 66590003,
+        "term": "alcoholafhankelijkheidssyndroom",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 1084671000146111,
+        "conceptId": 66590003,
+        "term": "chronisch alcoholisme",
+        "preferredTerm": "Alcohol dependence"
+    },
+    {
+        "id": 121405015,
+        "conceptId": 73097000,
+        "term": "Alcohol amnestic disorder",
+        "preferredTerm": "Alcohol amnestic disorder"
+    },
+    {
+        "id": 121406019,
+        "conceptId": 73097000,
+        "term": "Alcohol-induced persisting amnestic disorder",
+        "preferredTerm": "Alcohol amnestic disorder"
+    },
+    {
+        "id": 6717631000146117,
+        "conceptId": 73097000,
+        "term": "amnestische stoornis door alcohol",
+        "preferredTerm": "Alcohol amnestic disorder"
+    },
+    {
+        "id": 137325017,
+        "conceptId": 82782008,
+        "term": "Toxic effect of ethyl alcohol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 137326016,
+        "conceptId": 82782008,
+        "term": "Toxic effect of grain alcohol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 137327013,
+        "conceptId": 82782008,
+        "term": "Toxic effect of ethanol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 137328015,
+        "conceptId": 82782008,
+        "term": "Ethyl alcohol poisoning",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 137329011,
+        "conceptId": 82782008,
+        "term": "Ethanol poisoning",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 1234741018,
+        "conceptId": 82782008,
+        "term": "Alcohol poisoning",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 1234742013,
+        "conceptId": 82782008,
+        "term": "Ethanol causing toxic effect",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 12060621000146119,
+        "conceptId": 82782008,
+        "term": "toxisch effect van ethanol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 12060631000146117,
+        "conceptId": 82782008,
+        "term": "toxiciteit door alcohol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 12060641000146113,
+        "conceptId": 82782008,
+        "term": "toxisch effect van ethylalcohol",
+        "preferredTerm": "Toxic effect of ethyl alcohol"
+    },
+    {
+        "id": 145580010,
+        "conceptId": 87810006,
+        "term": "Megaloblastic anemia due to alcoholism",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 507760015,
+        "conceptId": 87810006,
+        "term": "Megaloblastic anaemia due to alcoholism",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 3294127015,
+        "conceptId": 87810006,
+        "term": "Megaloblastic anaemia caused by alcoholism",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 3295817016,
+        "conceptId": 87810006,
+        "term": "Megaloblastic anemia caused by alcoholism",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 8393891000146118,
+        "conceptId": 87810006,
+        "term": "megaloblastaire anemie door alcoholisme",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 9655261000146114,
+        "conceptId": 87810006,
+        "term": "megaloblastaire bloedarmoede door alcoholverslaving",
+        "preferredTerm": "Megaloblastic anemia due to alcoholism"
+    },
+    {
+        "id": 148402019,
+        "conceptId": 89507002,
+        "term": "Toxic effect of denatured alcohol",
+        "preferredTerm": "Toxic effect of denatured alcohol"
+    },
+    {
+        "id": 1235465011,
+        "conceptId": 89507002,
+        "term": "Denatured alcohol causing toxic effect",
+        "preferredTerm": "Toxic effect of denatured alcohol"
+    },
+    {
+        "id": 12060491000146118,
+        "conceptId": 89507002,
+        "term": "toxisch effect van gedenatureerde ethanol",
+        "preferredTerm": "Toxic effect of denatured alcohol"
+    },
+    {
+        "id": 12060501000146111,
+        "conceptId": 89507002,
+        "term": "toxiciteit door gedenatureerde alcohol",
+        "preferredTerm": "Toxic effect of denatured alcohol"
+    },
+    {
+        "id": 12060521000146115,
+        "conceptId": 89507002,
+        "term": "toxisch effect van gedenatureerde ethylalcohol",
+        "preferredTerm": "Toxic effect of denatured alcohol"
+    },
+    {
+        "id": 83834016,
+        "conceptId": 50325005,
+        "term": "Alcoholic fatty liver",
+        "preferredTerm": "Alcoholic fatty liver"
+    },
+    {
+        "id": 3027285017,
+        "conceptId": 50325005,
+        "term": "Alcoholic fatty liver disease",
+        "preferredTerm": "Alcoholic fatty liver"
+    },
+    {
+        "id": 89991000146116,
+        "conceptId": 50325005,
+        "term": "alcoholische leververvetting",
+        "preferredTerm": "Alcoholic fatty liver"
+    },
+    {
+        "id": 25750014,
+        "conceptId": 15167005,
+        "term": "Alcohol abuse",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 477198011,
+        "conceptId": 15167005,
+        "term": "Ethanol abuse",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 477199015,
+        "conceptId": 15167005,
+        "term": "AA - Alcohol abuse",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 44251000146111,
+        "conceptId": 15167005,
+        "term": "misbruik van alcohol",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 96691000146117,
+        "conceptId": 15167005,
+        "term": "alcoholmisbruik",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 120001000146117,
+        "conceptId": 15167005,
+        "term": "alcoholabusus",
+        "preferredTerm": "Alcohol abuse"
+    },
+    {
+        "id": 31451012,
+        "conceptId": 18653004,
+        "term": "Alcohol intoxication delirium",
+        "preferredTerm": "Alcohol intoxication delirium"
+    },
+    {
+        "id": 1501011000146110,
+        "conceptId": 18653004,
+        "term": "delirium bij alcoholintoxicatie",
+        "preferredTerm": "Alcohol intoxication delirium"
+    },
+    {
+        "id": 2463321000146112,
+        "conceptId": 18653004,
+        "term": "delier bij alcoholintoxicatie",
+        "preferredTerm": "Alcohol intoxication delirium"
+    },
+    {
+        "id": 32551012,
+        "conceptId": 19303008,
+        "term": "Alcohol myopathy",
+        "preferredTerm": "Alcohol myopathy"
+    },
+    {
+        "id": 32552017,
+        "conceptId": 19303008,
+        "term": "Alcoholic myopathic syndrome",
+        "preferredTerm": "Alcohol myopathy"
+    },
+    {
+        "id": 32553010,
+        "conceptId": 19303008,
+        "term": "Alcoholic myositis",
+        "preferredTerm": "Alcohol myopathy"
+    },
+    {
+        "id": 27201000146116,
+        "conceptId": 19303008,
+        "term": "myopathie bij alcohol",
+        "preferredTerm": "Alcohol myopathy"
+    },
+    {
+        "id": 27211000146119,
+        "conceptId": 19303008,
+        "term": "alcoholmyopathie",
+        "preferredTerm": "Alcohol myopathy"
+    },
+    {
+        "id": 35313017,
+        "conceptId": 21007002,
+        "term": "Wernicke's disease",
+        "preferredTerm": "Wernicke's disease"
+    },
+    {
+        "id": 35314011,
+        "conceptId": 21007002,
+        "term": "Wernicke's encephalopathy",
+        "preferredTerm": "Wernicke's disease"
+    },
+    {
+        "id": 2839693018,
+        "conceptId": 21007002,
+        "term": "Wernicke disease",
+        "preferredTerm": "Wernicke's disease"
+    },
+    {
+        "id": 85671000146112,
+        "conceptId": 21007002,
+        "term": "Wernicke-encefalopathie",
+        "preferredTerm": "Wernicke's disease"
+    },
+    {
+        "id": 17389017,
+        "conceptId": 9953008,
+        "term": "Acute alcoholic liver disease",
+        "preferredTerm": "Acute alcoholic liver disease"
+    },
+    {
+        "id": 17390014,
+        "conceptId": 9953008,
+        "term": "Acute alcoholic hepatitis",
+        "preferredTerm": "Acute alcoholic liver disease"
+    },
+    {
+        "id": 1474291000146113,
+        "conceptId": 9953008,
+        "term": "acute alcoholische leverziekte",
+        "preferredTerm": "Acute alcoholic liver disease"
+    },
+    {
+        "id": 2861921000146117,
+        "conceptId": 9953008,
+        "term": "acute alcoholische hepatitis",
+        "preferredTerm": "Acute alcoholic liver disease"
+    },
+    {
+        "id": 43081018,
+        "conceptId": 25702006,
+        "term": "Alcohol intoxication",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 43082013,
+        "conceptId": 25702006,
+        "term": "Acute alcoholism",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 43083015,
+        "conceptId": 25702006,
+        "term": "Drunkenness",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 483024013,
+        "conceptId": 25702006,
+        "term": "Acute alcohol intoxication",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 483025014,
+        "conceptId": 25702006,
+        "term": "Drunk",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 1501371000146116,
+        "conceptId": 25702006,
+        "term": "alcoholintoxicatie",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 4429581000146119,
+        "conceptId": 25702006,
+        "term": "alcoholvergiftiging",
+        "preferredTerm": "Alcohol intoxication"
+    },
+    {
+        "id": 58300018,
+        "conceptId": 34938008,
+        "term": "Alcohol-induced anxiety disorder",
+        "preferredTerm": "Anxiety disorder caused by alcohol"
+    },
+    {
+        "id": 2951813012,
+        "conceptId": 34938008,
+        "term": "Alcohol induced anxiety disorder",
+        "preferredTerm": "Anxiety disorder caused by alcohol"
+    },
+    {
+        "id": 4672782013,
+        "conceptId": 34938008,
+        "term": "Anxiety disorder caused by alcohol",
+        "preferredTerm": "Anxiety disorder caused by alcohol"
+    },
+    {
+        "id": 1578971000146117,
+        "conceptId": 34938008,
+        "term": "alcoholge\u00efnduceerde angststoornis",
+        "preferredTerm": "Anxiety disorder caused by alcohol"
+    },
+    {
+        "id": 2535061000146119,
+        "conceptId": 34938008,
+        "term": "angststoornis door alcohol",
+        "preferredTerm": "Anxiety disorder caused by alcohol"
+    },
+    {
+        "id": 101606018,
+        "conceptId": 61144001,
+        "term": "Alcohol-induced psychotic disorder with delusions",
+        "preferredTerm": "Alcohol-induced psychotic disorder with delusions"
+    },
+    {
+        "id": 2951840012,
+        "conceptId": 61144001,
+        "term": "Alcohol induced psychosis with delusions",
+        "preferredTerm": "Alcohol-induced psychotic disorder with delusions"
+    },
+    {
+        "id": 6992841000146115,
+        "conceptId": 61144001,
+        "term": "psychotische stoornis met wanen door alcohol",
+        "preferredTerm": "Alcohol-induced psychotic disorder with delusions"
+    },
+    {
+        "id": 7025621000146116,
+        "conceptId": 61144001,
+        "term": "alcoholge\u00efnduceerde psychotische stoornis met wanen",
+        "preferredTerm": "Alcohol-induced psychotic disorder with delusions"
+    },
+    {
+        "id": 115434017,
+        "conceptId": 69482004,
+        "term": "Korsakoff's psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 115435016,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakoff syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 115436015,
+        "conceptId": 69482004,
+        "term": "Amnestic syndrome of Wernicke's disease",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501294012,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakov syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501295013,
+        "conceptId": 69482004,
+        "term": "Korsakoff psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501296014,
+        "conceptId": 69482004,
+        "term": "Korsakov alcoholic psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501297017,
+        "conceptId": 69482004,
+        "term": "Korsakov syndrome - alcoholic",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501298010,
+        "conceptId": 69482004,
+        "term": "Korsakov psychosis",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501299019,
+        "conceptId": 69482004,
+        "term": "Amnesic syndrome due to alcohol",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 501300010,
+        "conceptId": 69482004,
+        "term": "Alcoholic amnestic syndrome",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 86481000146117,
+        "conceptId": 69482004,
+        "term": "syndroom van Korsakov",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063001000146114,
+        "conceptId": 69482004,
+        "term": "Korsakov-syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063011000146111,
+        "conceptId": 69482004,
+        "term": "amnestisch syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 2063021000146118,
+        "conceptId": 69482004,
+        "term": "Wernicke-Korsakov-syndroom",
+        "preferredTerm": "Korsakoff's psychosis"
+    },
+    {
+        "id": 14103017,
+        "conceptId": 7916009,
+        "term": "Alcoholic polyneuropathy",
+        "preferredTerm": "Alcoholic polyneuropathy"
+    },
+    {
+        "id": 14104011,
+        "conceptId": 7916009,
+        "term": "Alcohol-induced polyneuropathy",
+        "preferredTerm": "Alcoholic polyneuropathy"
+    },
+    {
+        "id": 1234320010,
+        "conceptId": 7916009,
+        "term": "Alcoholic peripheral neuropathy",
+        "preferredTerm": "Alcoholic polyneuropathy"
+    },
+    {
+        "id": 11481000146113,
+        "conceptId": 7916009,
+        "term": "alcoholische polyneuropathie",
+        "preferredTerm": "Alcoholic polyneuropathy"
+    },
+    {
+        "id": 12634015,
+        "conceptId": 7052005,
+        "term": "Alcohol hallucinosis",
+        "preferredTerm": "Alcohol hallucinosis"
+    },
+    {
+        "id": 12635019,
+        "conceptId": 7052005,
+        "term": "Alcohol-induced psychotic disorder with hallucinations",
+        "preferredTerm": "Alcohol hallucinosis"
+    },
+    {
+        "id": 1233279015,
+        "conceptId": 7052005,
+        "term": "Alcoholic hallucinosis",
+        "preferredTerm": "Alcohol hallucinosis"
+    },
+    {
+        "id": 2951803016,
+        "conceptId": 7052005,
+        "term": "Alcohol induced hallucinosis",
+        "preferredTerm": "Alcohol hallucinosis"
+    },
+    {
+        "id": 1578261000146119,
+        "conceptId": 7052005,
+        "term": "alcoholhallucinose",
+        "preferredTerm": "Alcohol hallucinosis"
+    },
+    {
+        "id": 12878014,
+        "conceptId": 7200002,
+        "term": "Alcoholism",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 12879018,
+        "conceptId": 7200002,
+        "term": "Alcoholism, NOS",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 502016018,
+        "conceptId": 7200002,
+        "term": "Dipsomania",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 502017010,
+        "conceptId": 7200002,
+        "term": "Alcohol problem drinking",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 1578281000146110,
+        "conceptId": 7200002,
+        "term": "alcoholisme",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 2601901000146115,
+        "conceptId": 7200002,
+        "term": "alcoholverslaving",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 2601911000146118,
+        "conceptId": 7200002,
+        "term": "alcoholafhankelijkheid",
+        "preferredTerm": "Alcoholism"
+    },
+    {
+        "id": 1557018,
+        "conceptId": 281004,
+        "term": "Dementia associated with alcoholism",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 1558011,
+        "conceptId": 281004,
+        "term": "Alcohol-induced persisting dementia",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 1225776018,
+        "conceptId": 281004,
+        "term": "Alcoholic dementia",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 1578081000146116,
+        "conceptId": 281004,
+        "term": "dementie geassocieerd met alcoholisme",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 2683321000146112,
+        "conceptId": 281004,
+        "term": "dementie geassocieerd met alcoholverslaving",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 2683331000146114,
+        "conceptId": 281004,
+        "term": "dementie geassocieerd met alcoholafhankelijkheid",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 2750151000146113,
+        "conceptId": 281004,
+        "term": "alcoholdementie",
+        "preferredTerm": "Dementia associated with alcoholism"
+    },
+    {
+        "id": 4525015,
+        "conceptId": 2043009,
+        "term": "Alcoholic gastritis",
+        "preferredTerm": "Alcoholic gastritis"
+    },
+    {
+        "id": 89461000146118,
+        "conceptId": 2043009,
+        "term": "alcoholische gastritis",
+        "preferredTerm": "Alcoholic gastritis"
+    },
+    {
+        "id": 73449014,
+        "conceptId": 44047000,
+        "term": "Zieve's syndrome",
+        "preferredTerm": "Zieve's syndrome"
+    },
+    {
+        "id": 2840068011,
+        "conceptId": 44047000,
+        "term": "Zieve syndrome",
+        "preferredTerm": "Zieve's syndrome"
+    },
+    {
+        "id": 1474551000146115,
+        "conceptId": 44047000,
+        "term": "syndroom van Zieve",
+        "preferredTerm": "Zieve's syndrome"
+    },
+    {
+        "id": 2950561000146114,
+        "conceptId": 44047000,
+        "term": "zievesyndroom",
+        "preferredTerm": "Zieve's syndrome"
+    },
+    {
+        "id": 2950571000146115,
+        "conceptId": 44047000,
+        "term": "Zieve-syndroom",
+        "preferredTerm": "Zieve's syndrome"
+    },
+    {
+        "id": 68906017,
+        "conceptId": 41309000,
+        "term": "Alcoholic liver damage",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 68907014,
+        "conceptId": 41309000,
+        "term": "Alcoholic liver damage, NOS",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 68908016,
+        "conceptId": 41309000,
+        "term": "Alcoholic liver disease, NOS",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 68909012,
+        "conceptId": 41309000,
+        "term": "Alcoholic liver disease",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 492959019,
+        "conceptId": 41309000,
+        "term": "ALD - Alcoholic liver disease",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 348461000146118,
+        "conceptId": 41309000,
+        "term": "alcoholische leverziekte",
+        "preferredTerm": "Alcoholic liver damage"
+    },
+    {
+        "id": 3289991010,
+        "conceptId": 135311000119100,
+        "term": "Insomnia caused by alcohol",
+        "preferredTerm": "Insomnia caused by alcohol"
+    },
+    {
+        "id": 3290112011,
+        "conceptId": 135311000119100,
+        "term": "Insomnia due to alcohol",
+        "preferredTerm": "Insomnia caused by alcohol"
+    },
+    {
+        "id": 10264441000146117,
+        "conceptId": 135311000119100,
+        "term": "insomnia door alcohol",
+        "preferredTerm": "Insomnia caused by alcohol"
+    },
+    {
+        "id": 10264451000146119,
+        "conceptId": 135311000119100,
+        "term": "insomnie door alcohol",
+        "preferredTerm": "Insomnia caused by alcohol"
+    },
+    {
+        "id": 10264461000146116,
+        "conceptId": 135311000119100,
+        "term": "slapeloosheid door alcohol",
+        "preferredTerm": "Insomnia caused by alcohol"
+    },
+    {
+        "id": 3289992015,
+        "conceptId": 135321000119107,
+        "term": "Hypersomnia due to alcohol",
+        "preferredTerm": "Hypersomnia caused by alcohol"
+    },
+    {
+        "id": 3290034011,
+        "conceptId": 135321000119107,
+        "term": "Hypersomnia caused by alcohol",
+        "preferredTerm": "Hypersomnia caused by alcohol"
+    },
+    {
+        "id": 10264411000146118,
+        "conceptId": 135321000119107,
+        "term": "hypersomnia door alcohol",
+        "preferredTerm": "Hypersomnia caused by alcohol"
+    },
+    {
+        "id": 10264431000146113,
+        "conceptId": 135321000119107,
+        "term": "hypersomnie door alcohol",
+        "preferredTerm": "Hypersomnia caused by alcohol"
+    },
+    {
+        "id": 3316455019,
+        "conceptId": 288031000119105,
+        "term": "Alcohol induced disorder co-occurrent and due to alcohol dependence",
+        "preferredTerm": "Alcohol induced disorder co-occurrent and due to alcohol dependence"
+    },
+    {
+        "id": 3316456018,
+        "conceptId": 288031000119105,
+        "term": "Alcohol dependence with alcohol induced disorder",
+        "preferredTerm": "Alcohol induced disorder co-occurrent and due to alcohol dependence"
+    },
+    {
+        "id": 6846401000146117,
+        "conceptId": 288031000119105,
+        "term": "stoornis door alcohol gelijktijdig met en door afhankelijkheid van alcohol",
+        "preferredTerm": "Alcohol induced disorder co-occurrent and due to alcohol dependence"
+    },
+    {
+        "id": 2995391019,
+        "conceptId": 10755041000119100,
+        "term": "Alcohol dependence in childbirth",
+        "preferredTerm": "Alcohol dependence in childbirth"
+    },
+    {
+        "id": 7041261000146113,
+        "conceptId": 10755041000119100,
+        "term": "afhankelijkheid van alcohol bij bevalling",
+        "preferredTerm": "Alcohol dependence in childbirth"
+    },
+    {
+        "id": 12543231000146119,
+        "conceptId": 10755041000119100,
+        "term": "afhankelijkheid van alcohol bij partus",
+        "preferredTerm": "Alcohol dependence in childbirth"
+    },
+    {
+        "id": 3290111016,
+        "conceptId": 135301000119103,
+        "term": "Parasomnia due to alcohol",
+        "preferredTerm": "Parasomnia caused by alcohol"
+    },
+    {
+        "id": 3290119019,
+        "conceptId": 135301000119103,
+        "term": "Parasomnia caused by alcohol",
+        "preferredTerm": "Parasomnia caused by alcohol"
+    },
+    {
+        "id": 10266111000146116,
+        "conceptId": 135301000119103,
+        "term": "parasomnie door alcohol",
+        "preferredTerm": "Parasomnia caused by alcohol"
+    },
+    {
+        "id": 10266131000146111,
+        "conceptId": 135301000119103,
+        "term": "parasomnia door alcohol",
+        "preferredTerm": "Parasomnia caused by alcohol"
+    },
+    {
+        "id": 3290157019,
+        "conceptId": 288021000119107,
+        "term": "Disorder due to alcohol abuse",
+        "preferredTerm": "Disorder due to alcohol abuse"
+    },
+    {
+        "id": 10264231000146112,
+        "conceptId": 288021000119107,
+        "term": "aandoening door misbruik van alcohol",
+        "preferredTerm": "Disorder due to alcohol abuse"
+    },
+    {
+        "id": 10264241000146116,
+        "conceptId": 288021000119107,
+        "term": "aandoening door alcoholmisbruik",
+        "preferredTerm": "Disorder due to alcohol abuse"
+    },
+    {
+        "id": 10639391000146111,
+        "conceptId": 288021000119107,
+        "term": "aandoening door alcoholabusus",
+        "preferredTerm": "Disorder due to alcohol abuse"
+    },
+    {
+        "id": 2990708015,
+        "conceptId": 10741871000119101,
+        "term": "Alcohol dependence in pregnancy",
+        "preferredTerm": "Alcohol dependence in pregnancy"
+    },
+    {
+        "id": 6427491000146119,
+        "conceptId": 10741871000119101,
+        "term": "afhankelijkheid van alcohol tijdens zwangerschap",
+        "preferredTerm": "Alcohol dependence in pregnancy"
+    }
+]

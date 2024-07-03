@@ -1,0 +1,374 @@
+[
+    {
+        "id": 3324682015,
+        "conceptId": 721228006,
+        "term": "Huntington disease-like 2",
+        "preferredTerm": "Huntington disease-like 2"
+    },
+    {
+        "id": 6461321000146114,
+        "conceptId": 721228006,
+        "term": "ziekte van Huntington-achtig syndroom 2",
+        "preferredTerm": "Huntington disease-like 2"
+    },
+    {
+        "id": 2995145018,
+        "conceptId": 702376003,
+        "term": "Huntington disease phenocopy syndrome",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 2995278018,
+        "conceptId": 702376003,
+        "term": "Huntington disease-like syndrome disorder",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 3038744019,
+        "conceptId": 702376003,
+        "term": "Huntington disease-like syndrome",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 5060251000146113,
+        "conceptId": 702376003,
+        "term": "HDL",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 5060261000146111,
+        "conceptId": 702376003,
+        "term": "Huntington-disease-like syndroom",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 5169191000146111,
+        "conceptId": 702376003,
+        "term": "ziekte van Huntington-achtig syndroom",
+        "preferredTerm": "Huntington disease-like syndrome"
+    },
+    {
+        "id": 3487928017,
+        "conceptId": 724764007,
+        "term": "Chorea co-occurrent and due to Huntington disease-like condition",
+        "preferredTerm": "Chorea co-occurrent and due to Huntington disease-like condition"
+    },
+    {
+        "id": 3487929013,
+        "conceptId": 724764007,
+        "term": "Chorea with Huntington disease-like condition",
+        "preferredTerm": "Chorea co-occurrent and due to Huntington disease-like condition"
+    },
+    {
+        "id": 9370191000146113,
+        "conceptId": 724764007,
+        "term": "chorea gelijktijdig met en door ziekte van Huntington-achtige aandoening",
+        "preferredTerm": "Chorea co-occurrent and due to Huntington disease-like condition"
+    },
+    {
+        "id": 3703531018,
+        "conceptId": 770939009,
+        "term": "Huntington disease-like 3",
+        "preferredTerm": "Huntington disease-like 3"
+    },
+    {
+        "id": 6461341000146115,
+        "conceptId": 770939009,
+        "term": "ziekte van Huntington-achtig syndroom 3",
+        "preferredTerm": "Huntington disease-like 3"
+    },
+    {
+        "id": 13068091000146115,
+        "conceptId": 770939009,
+        "term": "HDL3",
+        "preferredTerm": "Huntington disease-like 3"
+    },
+    {
+        "id": 13672691000146111,
+        "conceptId": 770939009,
+        "term": "Huntington disease-like 3",
+        "preferredTerm": "Huntington disease-like 3"
+    },
+    {
+        "id": 3763830018,
+        "conceptId": 784371009,
+        "term": "Early-onset prion disease with prominent psychiatric features",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 3763832014,
+        "conceptId": 784371009,
+        "term": "Huntington disease-like 1",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 3763833016,
+        "conceptId": 784371009,
+        "term": "HDL1 - Huntington disease-like 1",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 9391281000146118,
+        "conceptId": 784371009,
+        "term": "ziekte van Huntington-achtig syndroom 1",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 10923341000146115,
+        "conceptId": 784371009,
+        "term": "HDL1",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 13672681000146114,
+        "conceptId": 784371009,
+        "term": "Huntington disease-like 1",
+        "preferredTerm": "Huntington disease-like 1"
+    },
+    {
+        "id": 3755562013,
+        "conceptId": 782743001,
+        "term": "Huntington disease-like syndrome due to C9ORF72 expansions",
+        "preferredTerm": "Huntington disease-like syndrome due to C9ORF72 expansions"
+    },
+    {
+        "id": 3755563015,
+        "conceptId": 782743001,
+        "term": "Huntington disease-like syndrome due to chromosome 9 open reading frame 72 expansions",
+        "preferredTerm": "Huntington disease-like syndrome due to C9ORF72 expansions"
+    },
+    {
+        "id": 3755564014,
+        "conceptId": 782743001,
+        "term": "C9ORF72-related Huntington disease phenocopy",
+        "preferredTerm": "Huntington disease-like syndrome due to C9ORF72 expansions"
+    },
+    {
+        "id": 9441361000146116,
+        "conceptId": 782743001,
+        "term": "ziekte van Huntington-achtig syndroom door read-expansies in 'chromosome 9 open reading frame 72'",
+        "preferredTerm": "Huntington disease-like syndrome due to C9ORF72 expansions"
+    },
+    {
+        "id": 9441371000146110,
+        "conceptId": 782743001,
+        "term": "ziekte van Huntington-achtig syndroom door read-expansies in C9orf72-gen",
+        "preferredTerm": "Huntington disease-like syndrome due to C9ORF72 expansions"
+    },
+    {
+        "id": 5158595010,
+        "conceptId": 1259685000,
+        "term": "Chorea due to Huntington disease-like 3",
+        "preferredTerm": "Chorea due to Huntington disease-like 3"
+    },
+    {
+        "id": 14275911000146118,
+        "conceptId": 1259685000,
+        "term": "chorea door HDL3",
+        "preferredTerm": "Chorea due to Huntington disease-like 3"
+    },
+    {
+        "id": 14275931000146113,
+        "conceptId": 1259685000,
+        "term": "chorea door ziekte van Huntington-achtig syndroom 3",
+        "preferredTerm": "Chorea due to Huntington disease-like 3"
+    },
+    {
+        "id": 5157616019,
+        "conceptId": 1259689006,
+        "term": "Chorea due to Huntington disease-like 2",
+        "preferredTerm": "Chorea due to Huntington disease-like 2"
+    },
+    {
+        "id": 14276011000146110,
+        "conceptId": 1259689006,
+        "term": "chorea door HDL2",
+        "preferredTerm": "Chorea due to Huntington disease-like 2"
+    },
+    {
+        "id": 14276021000146117,
+        "conceptId": 1259689006,
+        "term": "chorea door ziekte van Huntington-achtig syndroom 2",
+        "preferredTerm": "Chorea due to Huntington disease-like 2"
+    },
+    {
+        "id": 5157627017,
+        "conceptId": 1259694006,
+        "term": "Chorea due to Huntington disease-like 1",
+        "preferredTerm": "Chorea due to Huntington disease-like 1"
+    },
+    {
+        "id": 14275271000146119,
+        "conceptId": 1259694006,
+        "term": "chorea door HDL1",
+        "preferredTerm": "Chorea due to Huntington disease-like 1"
+    },
+    {
+        "id": 14275281000146117,
+        "conceptId": 1259694006,
+        "term": "chorea door ziekte van Huntington-achtig syndroom 1",
+        "preferredTerm": "Chorea due to Huntington disease-like 1"
+    },
+    {
+        "id": 345125014,
+        "conceptId": 230299004,
+        "term": "Juvenile onset Huntington's disease",
+        "preferredTerm": "Juvenile onset Huntington's disease"
+    },
+    {
+        "id": 2839282010,
+        "conceptId": 230299004,
+        "term": "Juvenile onset Huntington disease",
+        "preferredTerm": "Juvenile onset Huntington's disease"
+    },
+    {
+        "id": 9392531000146113,
+        "conceptId": 230299004,
+        "term": "juveniele vorm van ziekte van Huntington",
+        "preferredTerm": "Juvenile onset Huntington's disease"
+    },
+    {
+        "id": 345127018,
+        "conceptId": 230301006,
+        "term": "Akinetic-rigid form of Huntington's disease",
+        "preferredTerm": "Akinetic-rigid form of Huntington's disease"
+    },
+    {
+        "id": 2839284011,
+        "conceptId": 230301006,
+        "term": "Akinetic-rigid form of Huntington disease",
+        "preferredTerm": "Akinetic-rigid form of Huntington's disease"
+    },
+    {
+        "id": 9391261000146114,
+        "conceptId": 230301006,
+        "term": "akinetisch-rigide variant van ziekte van Huntington",
+        "preferredTerm": "Akinetic-rigid form of Huntington's disease"
+    },
+    {
+        "id": 345126010,
+        "conceptId": 230300007,
+        "term": "Late onset Huntington's disease",
+        "preferredTerm": "Late onset Huntington's disease"
+    },
+    {
+        "id": 2839283017,
+        "conceptId": 230300007,
+        "term": "Late onset Huntington disease",
+        "preferredTerm": "Late onset Huntington's disease"
+    },
+    {
+        "id": 109051000146119,
+        "conceptId": 230300007,
+        "term": "laat begin van ziekte van Huntington",
+        "preferredTerm": "Late onset Huntington's disease"
+    },
+    {
+        "id": 1346641000146117,
+        "conceptId": 230300007,
+        "term": "laat optredende ziekte van Huntington",
+        "preferredTerm": "Late onset Huntington's disease"
+    },
+    {
+        "id": 97642017,
+        "conceptId": 58756001,
+        "term": "Huntington's chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 97643010,
+        "conceptId": 58756001,
+        "term": "Chronic progressive chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 97644016,
+        "conceptId": 58756001,
+        "term": "Chronic progressive hereditary chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 1231875011,
+        "conceptId": 58756001,
+        "term": "HC - Huntington chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 1231876012,
+        "conceptId": 58756001,
+        "term": "HD - Huntington chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 2838433019,
+        "conceptId": 58756001,
+        "term": "Huntington chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 4024764019,
+        "conceptId": 58756001,
+        "term": "Huntington disease",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 4024765018,
+        "conceptId": 58756001,
+        "term": "Huntington's disease",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 87511000146112,
+        "conceptId": 58756001,
+        "term": "ziekte van Huntington",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 87521000146119,
+        "conceptId": 58756001,
+        "term": "chorea van Huntington",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 1892831000146115,
+        "conceptId": 58756001,
+        "term": "Huntington-chorea",
+        "preferredTerm": "Huntington's chorea"
+    },
+    {
+        "id": 10730681000146117,
+        "conceptId": 139041000146106,
+        "term": "Huntington's chorea in pregnancy",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    },
+    {
+        "id": 12552531000146113,
+        "conceptId": 139041000146106,
+        "term": "pre-existente Huntington-chorea tijdens zwangerschap",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    },
+    {
+        "id": 12552541000146117,
+        "conceptId": 139041000146106,
+        "term": "pre-existente ziekte van Huntington tijdens zwangerschap",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    },
+    {
+        "id": 12552561000146116,
+        "conceptId": 139041000146106,
+        "term": "pre-existente chorea van Huntington tijdens zwangerschap",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    },
+    {
+        "id": 12552581000146112,
+        "conceptId": 139041000146106,
+        "term": "Pre-existing Huntington's chorea in pregnancy",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    },
+    {
+        "id": 12552591000146114,
+        "conceptId": 139041000146106,
+        "term": "Pre-existing chronic progressive hereditary chorea in pregnancy",
+        "preferredTerm": "Pre-existing Huntington's chorea in pregnancy"
+    }
+]

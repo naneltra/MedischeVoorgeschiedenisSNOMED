@@ -146,6 +146,7 @@ DIAS,dissociatieve identiteitsstoornis,,disable,False
 DIP,distaal interphalangeaal gewricht,,enable,False
 DM,Diabetes Mellitus,,enable,False
 DMII,diabetes mellitus type 2,,enable,True
+DM2,diabetes mellitus type 2,,enable,True
 DM II,diabetes mellitus type 2,,enable,True
 DOS(S),Delirium Observation Screening (scale),,enable,False
 DOS(S),Denver Ontwikkeling Screeningtest,,disable,False
@@ -344,7 +345,8 @@ PAP,Papanicolaou classificatie,,enable,False
 PBR,Pseudobulbaire reflexen,,enable,False
 PC,(IC) Pressure controle,,disable,False
 PC,(transfusie) packed cell,,disable,False
-PCA,Patiënt (ge)Controleerde Analgesie,,enable,False
+PCA,Patiënt (ge)Controleerde Analgesie,,disable,False
+PCA,posterieure corticale atrofie,,enable,False
 PCN,percutane nefrostomie (catheter),,enable,False
 PDI,Pain Disability Index,,enable,False
 PDL,Passiviteiten van het Dagelijks Leven,,enable,False
@@ -596,3 +598,7 @@ ZLP,zorgleefplan,,enable,True
 CPC,Cerebral Performance Categories,,enable,False
 OHCA,reanimatie buiten het ziekenhuis,,enable,False
 PCI,percutane coronaire interventie,,disable,False
+mr,meneer,,enable,False
+dhr,meneer,,enable,False
+mv,mevrouw,,enable,False
+mevr,mevrouw,,enable,False

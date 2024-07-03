@@ -123,7 +123,10 @@ new_descriptions = {
  'AS-infarct': 394659003,
  'anteroseptaal infarct': 62695002,
  'VW infarct': 233839009,
- 'myocard infarct': 394659003
+ 'myocard infarct': 394659003,
+ 'MDL':183523005,
+ 'ACM':17232002,
+ 'ACP':70382005
  }
 
 def add_and_train_annotations():

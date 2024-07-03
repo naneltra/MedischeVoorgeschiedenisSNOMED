@@ -1,4 +1,5 @@
-*
+/*
 !.gitignore
 !*.dvc
 !terms.csv
+!/snomed_mappings

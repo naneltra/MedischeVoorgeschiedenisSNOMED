@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 405099010,
+        "conceptId": 270486005,
+        "term": "Fat pad",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405100019,
+        "conceptId": 270486005,
+        "term": "Fatty tissue hyperplasia",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405101015,
+        "conceptId": 270486005,
+        "term": "Lipohyperplasia",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405102010,
+        "conceptId": 270486005,
+        "term": "Localised adiposity",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405103017,
+        "conceptId": 270486005,
+        "term": "Localized adiposity",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405104011,
+        "conceptId": 270486005,
+        "term": "Localized obesity",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 405105012,
+        "conceptId": 270486005,
+        "term": "Localised obesity",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 85921000146117,
+        "conceptId": 270486005,
+        "term": "gelokaliseerde obesitas",
+        "preferredTerm": "Localized adiposity"
+    },
+    {
+        "id": 370699017,
+        "conceptId": 248312008,
+        "term": "Peripheral obesity",
+        "preferredTerm": "Peripheral obesity"
+    },
+    {
+        "id": 370700016,
+        "conceptId": 248312008,
+        "term": "Gynoid fat distribution",
+        "preferredTerm": "Peripheral obesity"
+    },
+    {
+        "id": 370701017,
+        "conceptId": 248312008,
+        "term": "Fat limbs with thin body",
+        "preferredTerm": "Peripheral obesity"
+    },
+    {
+        "id": 1466841000146117,
+        "conceptId": 248312008,
+        "term": "perifere obesitas",
+        "preferredTerm": "Peripheral obesity"
+    },
+    {
+        "id": 370693016,
+        "conceptId": 248311001,
+        "term": "Centripetal obesity",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 370694010,
+        "conceptId": 248311001,
+        "term": "Obesity of face and trunk, sparing limbs",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 370695011,
+        "conceptId": 248311001,
+        "term": "Fat body with thin limbs",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 370696012,
+        "conceptId": 248311001,
+        "term": "Truncal obesity",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 370697015,
+        "conceptId": 248311001,
+        "term": "Android fat distribution",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 370698013,
+        "conceptId": 248311001,
+        "term": "Central obesity",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 12192141000146113,
+        "conceptId": 248311001,
+        "term": "centrale obesitas",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 12192151000146111,
+        "conceptId": 248311001,
+        "term": "centrale adipositas",
+        "preferredTerm": "Central obesity"
+    },
+    {
+        "id": 356965013,
+        "conceptId": 238134004,
+        "term": "Generalized obesity",
+        "preferredTerm": "Generalized obesity"
+    },
+    {
+        "id": 356966014,
+        "conceptId": 238134004,
+        "term": "Generalised obesity",
+        "preferredTerm": "Generalized obesity"
+    },
+    {
+        "id": 9951201000146113,
+        "conceptId": 238134004,
+        "term": "gegeneraliseerde obesitas",
+        "preferredTerm": "Generalized obesity"
+    },
+    {
+        "id": 356960015,
+        "conceptId": 238131007,
+        "term": "Overweight",
+        "preferredTerm": "Overweight"
+    },
+    {
+        "id": 356961016,
+        "conceptId": 238131007,
+        "term": "Patient overweight",
+        "preferredTerm": "Overweight"
+    },
+    {
+        "id": 44331000146110,
+        "conceptId": 238131007,
+        "term": "overgewicht",
+        "preferredTerm": "Overweight"
+    },
+    {
+        "id": 356963018,
+        "conceptId": 238133005,
+        "term": "Gynaecoid obesity",
+        "preferredTerm": "Gynecoid obesity"
+    },
+    {
+        "id": 356964012,
+        "conceptId": 238133005,
+        "term": "Gynecoid obesity",
+        "preferredTerm": "Gynecoid obesity"
+    },
+    {
+        "id": 9951221000146117,
+        "conceptId": 238133005,
+        "term": "gynaeco\u00efde obesitas",
+        "preferredTerm": "Gynecoid obesity"
+    },
+    {
+        "id": 12111251000146113,
+        "conceptId": 238133005,
+        "term": "onderlichaamsobesitas",
+        "preferredTerm": "Gynecoid obesity"
+    },
+    {
+        "id": 12113141000146117,
+        "conceptId": 238133005,
+        "term": "gyno\u00efde obesitas",
+        "preferredTerm": "Gynecoid obesity"
+    },
+    {
+        "id": 436946011,
+        "conceptId": 296526005,
+        "term": "Adult-onset obesity",
+        "preferredTerm": "Adult-onset obesity"
+    },
+    {
+        "id": 9949861000146112,
+        "conceptId": 296526005,
+        "term": "obesitas beginnend op volwassen leeftijd",
+        "preferredTerm": "Adult-onset obesity"
+    },
+    {
+        "id": 12045951000146119,
+        "conceptId": 296526005,
+        "term": "adipositas beginnend op volwassen leeftijd",
+        "preferredTerm": "Adult-onset obesity"
+    },
+    {
+        "id": 439163010,
+        "conceptId": 298464002,
+        "term": "Obesity of endocrine origin",
+        "preferredTerm": "Obesity of endocrine origin"
+    },
+    {
+        "id": 9967121000146112,
+        "conceptId": 298464002,
+        "term": "obesitas door endocriene oorzaak",
+        "preferredTerm": "Obesity of endocrine origin"
+    },
+    {
+        "id": 12111381000146111,
+        "conceptId": 298464002,
+        "term": "obesitas van endocriene oorsprong",
+        "preferredTerm": "Obesity of endocrine origin"
+    },
+    {
+        "id": 293634015,
+        "conceptId": 190965006,
+        "term": "Drug-induced obesity",
+        "preferredTerm": "Drug-induced obesity"
+    },
+    {
+        "id": 367081000146113,
+        "conceptId": 190965006,
+        "term": "medicatie-ge\u00efnduceerde obesitas",
+        "preferredTerm": "Drug-induced obesity"
+    },
+    {
+        "id": 668121000146118,
+        "conceptId": 190965006,
+        "term": "medicatiege\u00efnduceerde obesitas",
+        "preferredTerm": "Drug-induced obesity"
+    },
+    {
+        "id": 672901000146117,
+        "conceptId": 190965006,
+        "term": "obesitas door geneesmiddel",
+        "preferredTerm": "Drug-induced obesity"
+    },
+    {
+        "id": 293635019,
+        "conceptId": 190966007,
+        "term": "Extreme obesity with alveolar hypoventilation",
+        "preferredTerm": "Extreme obesity with alveolar hypoventilation"
+    },
+    {
+        "id": 2535848016,
+        "conceptId": 190966007,
+        "term": "Pickwickian syndrome",
+        "preferredTerm": "Extreme obesity with alveolar hypoventilation"
+    },
+    {
+        "id": 85931000146115,
+        "conceptId": 190966007,
+        "term": "obesitas-hypoventilatiesyndroom",
+        "preferredTerm": "Extreme obesity with alveolar hypoventilation"
+    },
+    {
+        "id": 1842891000146113,
+        "conceptId": 190966007,
+        "term": "OHS",
+        "preferredTerm": "Extreme obesity with alveolar hypoventilation"
+    },
+    {
+        "id": 435872013,
+        "conceptId": 295509007,
+        "term": "Hypertrophic obesity",
+        "preferredTerm": "Hypertrophic obesity"
+    },
+    {
+        "id": 9951471000146117,
+        "conceptId": 295509007,
+        "term": "hypertrofische obesitas",
+        "preferredTerm": "Hypertrophic obesity"
+    },
+    {
+        "id": 430447018,
+        "conceptId": 290439001,
+        "term": "Familial obesity",
+        "preferredTerm": "Familial obesity"
+    },
+    {
+        "id": 9950781000146117,
+        "conceptId": 290439001,
+        "term": "familiale obesitas",
+        "preferredTerm": "Familial obesity"
+    },
+    {
+        "id": 12048091000146118,
+        "conceptId": 290439001,
+        "term": "familiaire obesitas",
+        "preferredTerm": "Familial obesity"
+    },
+    {
+        "id": 432605018,
+        "conceptId": 292464007,
+        "term": "Constitutional obesity",
+        "preferredTerm": "Constitutional obesity"
+    },
+    {
+        "id": 9950641000146117,
+        "conceptId": 292464007,
+        "term": "constitutionele obesitas",
+        "preferredTerm": "Constitutional obesity"
+    },
+    {
+        "id": 433698015,
+        "conceptId": 293481008,
+        "term": "Hyperplastic-hypertrophic obesity",
+        "preferredTerm": "Hyperplastic-hypertrophic obesity"
+    },
+    {
+        "id": 9951451000146113,
+        "conceptId": 293481008,
+        "term": "hyperplastische en hypertrofische obesitas",
+        "preferredTerm": "Hyperplastic-hypertrophic obesity"
+    },
+    {
+        "id": 434770018,
+        "conceptId": 294493008,
+        "term": "Lifelong obesity",
+        "preferredTerm": "Lifelong obesity"
+    },
+    {
+        "id": 9966451000146110,
+        "conceptId": 294493008,
+        "term": "levenslange obesitas",
+        "preferredTerm": "Lifelong obesity"
+    },
+    {
+        "id": 12104371000146113,
+        "conceptId": 294493008,
+        "term": "obesitas gedurende gehele leven",
+        "preferredTerm": "Lifelong obesity"
+    },
+    {
+        "id": 438019014,
+        "conceptId": 297500005,
+        "term": "Endogenous obesity",
+        "preferredTerm": "Endogenous obesity"
+    },
+    {
+        "id": 9950711000146111,
+        "conceptId": 297500005,
+        "term": "endogene obesitas",
+        "preferredTerm": "Endogenous obesity"
+    },
+    {
+        "id": 12048301000146110,
+        "conceptId": 297500005,
+        "term": "secundaire obesitas",
+        "preferredTerm": "Endogenous obesity"
+    },
+    {
+        "id": 356968010,
+        "conceptId": 238136002,
+        "term": "Morbid obesity",
+        "preferredTerm": "Morbid obesity"
+    },
+    {
+        "id": 375041000146119,
+        "conceptId": 238136002,
+        "term": "morbide obesitas",
+        "preferredTerm": "Morbid obesity"
+    },
+    {
+        "id": 10790211000146116,
+        "conceptId": 238136002,
+        "term": "zeer ernstig overgewicht",
+        "preferredTerm": "Morbid obesity"
+    },
+    {
+        "id": 356962011,
+        "conceptId": 238132000,
+        "term": "Android obesity",
+        "preferredTerm": "Android obesity"
+    },
+    {
+        "id": 3775834014,
+        "conceptId": 238132000,
+        "term": "Upper body obesity",
+        "preferredTerm": "Android obesity"
+    },
+    {
+        "id": 3775835010,
+        "conceptId": 238132000,
+        "term": "Abdominal obesity",
+        "preferredTerm": "Android obesity"
+    },
+    {
+        "id": 9949881000146116,
+        "conceptId": 238132000,
+        "term": "andro\u00efde obesitas",
+        "preferredTerm": "Android obesity"
+    },
+    {
+        "id": 356967017,
+        "conceptId": 238135003,
+        "term": "Fat pad syndrome",
+        "preferredTerm": "Fat pad syndrome"
+    },
+    {
+        "id": 9222671000146111,
+        "conceptId": 238135003,
+        "term": "'fat pad'-syndroom",
+        "preferredTerm": "Fat pad syndrome"
+    },
+    {
+        "id": 9222691000146110,
+        "conceptId": 238135003,
+        "term": "hoffitis",
+        "preferredTerm": "Fat pad syndrome"
+    },
+    {
+        "id": 2915882016,
+        "conceptId": 450451007,
+        "term": "Overweight in childhood",
+        "preferredTerm": "Overweight in childhood"
+    },
+    {
+        "id": 2967452019,
+        "conceptId": 450451007,
+        "term": "Childhood overweight BMI greater than 85 percentile",
+        "preferredTerm": "Overweight in childhood"
+    },
+    {
+        "id": 9967291000146118,
+        "conceptId": 450451007,
+        "term": "overgewicht op kinderleeftijd",
+        "preferredTerm": "Overweight in childhood"
+    },
+    {
+        "id": 2871984013,
+        "conceptId": 444862003,
+        "term": "Childhood obesity",
+        "preferredTerm": "Childhood obesity"
+    },
+    {
+        "id": 2967440014,
+        "conceptId": 444862003,
+        "term": "Childhood obesity BMI 95-100 percentile",
+        "preferredTerm": "Childhood obesity"
+    },
+    {
+        "id": 9950571000146114,
+        "conceptId": 444862003,
+        "term": "jeugdobesitas",
+        "preferredTerm": "Childhood obesity"
+    },
+    {
+        "id": 9950591000146113,
+        "conceptId": 444862003,
+        "term": "obesitas op kinderleeftijd",
+        "preferredTerm": "Childhood obesity"
+    },
+    {
+        "id": 2535069018,
+        "conceptId": 414438005,
+        "term": "Hyperplastic obesity",
+        "preferredTerm": "Hyperplastic obesity"
+    },
+    {
+        "id": 9951431000146119,
+        "conceptId": 414438005,
+        "term": "hyperplastische obesitas",
+        "preferredTerm": "Hyperplastic obesity"
+    },
+    {
+        "id": 2160062010,
+        "conceptId": 408512008,
+        "term": "Body mass index 40+ - severely obese",
+        "preferredTerm": "Body mass index 40+ - severely obese"
+    },
+    {
+        "id": 3005953017,
+        "conceptId": 408512008,
+        "term": "Body mass index 40+ - morbidly obese",
+        "preferredTerm": "Body mass index 40+ - severely obese"
+    },
+    {
+        "id": 8595501000146110,
+        "conceptId": 408512008,
+        "term": "BMI >=40",
+        "preferredTerm": "Body mass index 40+ - severely obese"
+    },
+    {
+        "id": 8724931000146117,
+        "conceptId": 408512008,
+        "term": "'body mass index' is groter dan of gelijk aan 40",
+        "preferredTerm": "Body mass index 40+ - severely obese"
+    },
+    {
+        "id": 2535065012,
+        "conceptId": 414916001,
+        "term": "Obesity",
+        "preferredTerm": "Obesity"
+    },
+    {
+        "id": 2537811012,
+        "conceptId": 414916001,
+        "term": "Adiposis",
+        "preferredTerm": "Obesity"
+    },
+    {
+        "id": 2537812017,
+        "conceptId": 414916001,
+        "term": "Adiposity",
+        "preferredTerm": "Obesity"
+    },
+    {
+        "id": 55611000146112,
+        "conceptId": 414916001,
+        "term": "obesitas",
+        "preferredTerm": "Obesity"
+    },
+    {
+        "id": 1842881000146111,
+        "conceptId": 414916001,
+        "term": "adipositas",
+        "preferredTerm": "Obesity"
+    },
+    {
+        "id": 2535066013,
+        "conceptId": 414920002,
+        "term": "Obesity by fat distribution pattern",
+        "preferredTerm": "Obesity by fat distribution pattern"
+    },
+    {
+        "id": 9966891000146117,
+        "conceptId": 414920002,
+        "term": "obesitas ingedeeld naar vetdistributiepatroon",
+        "preferredTerm": "Obesity by fat distribution pattern"
+    },
+    {
+        "id": 10718231000146114,
+        "conceptId": 414920002,
+        "term": "obesitas ingedeeld naar verdelingspatroon van vet",
+        "preferredTerm": "Obesity by fat distribution pattern"
+    },
+    {
+        "id": 12105241000146110,
+        "conceptId": 414920002,
+        "term": "obesitas ingedeeld naar vetverdeling",
+        "preferredTerm": "Obesity by fat distribution pattern"
+    },
+    {
+        "id": 2535068014,
+        "conceptId": 414919008,
+        "term": "Obesity by contributing factors",
+        "preferredTerm": "Obesity by contributing factors"
+    },
+    {
+        "id": 12105291000146118,
+        "conceptId": 414919008,
+        "term": "obesitas ingedeeld naar bijdragende factor",
+        "preferredTerm": "Obesity by contributing factors"
+    },
+    {
+        "id": 2535221011,
+        "conceptId": 415530009,
+        "term": "Simple obesity",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 2537958017,
+        "conceptId": 415530009,
+        "term": "Calorie overload",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 2537959013,
+        "conceptId": 415530009,
+        "term": "Exogenous obesity",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 2537960015,
+        "conceptId": 415530009,
+        "term": "Obesity due to excess calories",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 2537961016,
+        "conceptId": 415530009,
+        "term": "Alimentary obesity",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 390871000146115,
+        "conceptId": 415530009,
+        "term": "alimentaire obesitas",
+        "preferredTerm": "Simple obesity"
+    },
+    {
+        "id": 476454013,
+        "conceptId": 360566006,
+        "term": "Buffalo obesity",
+        "preferredTerm": "Buffalo obesity"
+    },
+    {
+        "id": 9950541000146116,
+        "conceptId": 360566006,
+        "term": "bizonnek",
+        "preferredTerm": "Buffalo obesity"
+    },
+    {
+        "id": 9950561000146115,
+        "conceptId": 360566006,
+        "term": "buffalo hump",
+        "preferredTerm": "Buffalo obesity"
+    },
+    {
+        "id": 2535064011,
+        "conceptId": 414915002,
+        "term": "Obese",
+        "preferredTerm": "Obese"
+    },
+    {
+        "id": 1555381000146112,
+        "conceptId": 414915002,
+        "term": "obees",
+        "preferredTerm": "Obese"
+    },
+    {
+        "id": 2535070017,
+        "conceptId": 414917005,
+        "term": "Obesity by adipocyte growth pattern",
+        "preferredTerm": "Obesity by adipocyte growth pattern"
+    },
+    {
+        "id": 9966821000146115,
+        "conceptId": 414917005,
+        "term": "obesitas ingedeeld naar groeipatroon van adipocyten",
+        "preferredTerm": "Obesity by adipocyte growth pattern"
+    },
+    {
+        "id": 10718071000146116,
+        "conceptId": 414917005,
+        "term": "obesitas ingedeeld naar groeipatroon van vetcellen",
+        "preferredTerm": "Obesity by adipocyte growth pattern"
+    },
+    {
+        "id": 3303221016,
+        "conceptId": 715628009,
+        "term": "Intellectual disability, truncal obesity, retinal dystrophy and micropenis syndrome",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 3303222011,
+        "conceptId": 715628009,
+        "term": "MORM syndrome",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 3303223018,
+        "conceptId": 715628009,
+        "term": "Mental retardation, truncal obesity, retinal dystrophy and micropenis syndrome",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 3305363018,
+        "conceptId": 715628009,
+        "term": "MORM (mental retardation, truncal obesity, retinal dystrophy, micropenis) syndrome",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 6771681000146115,
+        "conceptId": 715628009,
+        "term": "syndroom van mentale retardatie, obesitas van romp, retinadystrofie en micropenis",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 6942301000146118,
+        "conceptId": 715628009,
+        "term": "MORM-syndroom",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 7868731000146111,
+        "conceptId": 715628009,
+        "term": "syndroom van verstandelijke handicap, obesitas van romp, retinadystrofie en micropenis",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 7868741000146115,
+        "conceptId": 715628009,
+        "term": "syndroom van verstandelijke beperking, obesitas van romp, retinadystrofie en micropenis",
+        "preferredTerm": "MORM syndrome"
+    },
+    {
+        "id": 3324713012,
+        "conceptId": 721231007,
+        "term": "Sengers Hamel Otten syndrome",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 3324716016,
+        "conceptId": 721231007,
+        "term": "Hydrocephalus with obesity and hypogonadism syndrome",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 6136641000146113,
+        "conceptId": 721231007,
+        "term": "hydrocefalie-obesitas-hypogonadisme-syndroom",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 6136661000146114,
+        "conceptId": 721231007,
+        "term": "syndroom van Sengers-Hamel-Otten",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 6136671000146115,
+        "conceptId": 721231007,
+        "term": "hydrocephalus-obesitas-hypogonadisme-syndroom",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 6788001000146119,
+        "conceptId": 721231007,
+        "term": "syndroom van hydrocefalie met obesitas en hypogonadisme",
+        "preferredTerm": "Hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 3330398019,
+        "conceptId": 722053001,
+        "term": "Obesity due to prohormone convertase I deficiency",
+        "preferredTerm": "Obesity due to prohormone convertase I deficiency"
+    },
+    {
+        "id": 6246361000146119,
+        "conceptId": 722053001,
+        "term": "obesitas door prohormoonconvertase 1-defici\u00ebntie",
+        "preferredTerm": "Obesity due to prohormone convertase I deficiency"
+    },
+    {
+        "id": 6246371000146113,
+        "conceptId": 722053001,
+        "term": "obesitas door PC1-defici\u00ebntie",
+        "preferredTerm": "Obesity due to prohormone convertase I deficiency"
+    },
+    {
+        "id": 3315207010,
+        "conceptId": 719160009,
+        "term": "Syndromic X-linked intellectual disability type 7",
+        "preferredTerm": "Syndromic X-linked intellectual disability type 7"
+    },
+    {
+        "id": 3315208017,
+        "conceptId": 719160009,
+        "term": "X-linked intellectual disability Ahmad type",
+        "preferredTerm": "Syndromic X-linked intellectual disability type 7"
+    },
+    {
+        "id": 6956261000146114,
+        "conceptId": 719160009,
+        "term": "syndromale X-gebonden mentale retardatie type 7",
+        "preferredTerm": "Syndromic X-linked intellectual disability type 7"
+    },
+    {
+        "id": 7719211000146116,
+        "conceptId": 719160009,
+        "term": "syndromale X-gebonden verstandelijke beperking type 7",
+        "preferredTerm": "Syndromic X-linked intellectual disability type 7"
+    },
+    {
+        "id": 7796771000146111,
+        "conceptId": 719160009,
+        "term": "X-gebonden verstandelijke handicap type Ahmad",
+        "preferredTerm": "Syndromic X-linked intellectual disability type 7"
+    },
+    {
+        "id": 3308908016,
+        "conceptId": 717269008,
+        "term": "Obesity due to melanocortin 4 receptor deficiency",
+        "preferredTerm": "Obesity due to melanocortin 4 receptor deficiency"
+    },
+    {
+        "id": 6528741000146114,
+        "conceptId": 717269008,
+        "term": "obesitas door melanocortine-4-receptordefici\u00ebntie",
+        "preferredTerm": "Obesity due to melanocortin 4 receptor deficiency"
+    },
+    {
+        "id": 6528751000146112,
+        "conceptId": 717269008,
+        "term": "obesitas door MC4-receptordefici\u00ebntie",
+        "preferredTerm": "Obesity due to melanocortin 4 receptor deficiency"
+    },
+    {
+        "id": 6528761000146110,
+        "conceptId": 717269008,
+        "term": "obesitas door MC4R-defici\u00ebntie",
+        "preferredTerm": "Obesity due to melanocortin 4 receptor deficiency"
+    },
+    {
+        "id": 3310366019,
+        "conceptId": 717761005,
+        "term": "Choroideremia with deafness and obesity syndrome",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 3310370010,
+        "conceptId": 717761005,
+        "term": "Choroideraemia with deafness and obesity syndrome",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 3310384017,
+        "conceptId": 717761005,
+        "term": "Ayazi syndrome",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 3850132014,
+        "conceptId": 717761005,
+        "term": "Xq21 microdeletion syndrome",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 6114971000146112,
+        "conceptId": 717761005,
+        "term": "choro\u00efderemie-doofheid-obesitas-syndroom",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 6114991000146111,
+        "conceptId": 717761005,
+        "term": "monosomie Xq21",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 6115001000146117,
+        "conceptId": 717761005,
+        "term": "syndroom van Ayazi",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 6115011000146115,
+        "conceptId": 717761005,
+        "term": "Xq21-microdeletiesyndroom",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 6675181000146117,
+        "conceptId": 717761005,
+        "term": "syndroom van choro\u00efderemie met doofheid en obesitas",
+        "preferredTerm": "Choroideremia with deafness and obesity syndrome"
+    },
+    {
+        "id": 3330393011,
+        "conceptId": 722051004,
+        "term": "Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome",
+        "preferredTerm": "Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome"
+    },
+    {
+        "id": 6913191000146114,
+        "conceptId": 722051004,
+        "term": "syndroom van obesitas, colitis, hypothyreo\u00efdie, cardiale hypertrofie en ontwikkelingsachterstand",
+        "preferredTerm": "Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome"
+    },
+    {
+        "id": 6913211000146113,
+        "conceptId": 722051004,
+        "term": "syndroom van obesitas, colitis, hypothyro\u00efdie, cardiale hypertrofie en ontwikkelingsachterstand",
+        "preferredTerm": "Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome"
+    },
+    {
+        "id": 3332833014,
+        "conceptId": 722595002,
+        "term": "Overweight in adulthood with body mass index of 25 or more but less than 30",
+        "preferredTerm": "Overweight in adulthood with body mass index of 25 or more but less than 30"
+    },
+    {
+        "id": 3332834015,
+        "conceptId": 722595002,
+        "term": "Overweight in adulthood with BMI of 25 or more but less than 30",
+        "preferredTerm": "Overweight in adulthood with body mass index of 25 or more but less than 30"
+    },
+    {
+        "id": 2989311014,
+        "conceptId": 700150001,
+        "term": "Congenital leptin deficiency",
+        "preferredTerm": "Congenital leptin deficiency"
+    },
+    {
+        "id": 5159491011,
+        "conceptId": 700150001,
+        "term": "Obesity due to congenital leptin deficiency",
+        "preferredTerm": "Congenital leptin deficiency"
+    },
+    {
+        "id": 6203121000146112,
+        "conceptId": 700150001,
+        "term": "congenitale leptinedefici\u00ebntie",
+        "preferredTerm": "Congenital leptin deficiency"
+    },
+    {
+        "id": 6203141000146118,
+        "conceptId": 700150001,
+        "term": "aangeboren leptinetekort",
+        "preferredTerm": "Congenital leptin deficiency"
+    },
+    {
+        "id": 3006608012,
+        "conceptId": 702949005,
+        "term": "Obesity, early-onset, adrenal insufficiency, and red hair",
+        "preferredTerm": "Proopiomelanocortin deficiency syndrome"
+    },
+    {
+        "id": 3006609016,
+        "conceptId": 702949005,
+        "term": "Proopiomelanocortin deficiency syndrome",
+        "preferredTerm": "Proopiomelanocortin deficiency syndrome"
+    },
+    {
+        "id": 584491000146110,
+        "conceptId": 702949005,
+        "term": "pro-opiomelanocortinedefici\u00ebntiesyndroom",
+        "preferredTerm": "Proopiomelanocortin deficiency syndrome"
+    },
+    {
+        "id": 3702087010,
+        "conceptId": 770680004,
+        "term": "Prader-Willi-like syndrome",
+        "preferredTerm": "Prader-Willi-like syndrome"
+    },
+    {
+        "id": 6712901000146116,
+        "conceptId": 770680004,
+        "term": "Prader-Willi-'like' syndroom",
+        "preferredTerm": "Prader-Willi-like syndrome"
+    },
+    {
+        "id": 6712911000146119,
+        "conceptId": 770680004,
+        "term": "Prader-Willi-achtig syndroom",
+        "preferredTerm": "Prader-Willi-like syndrome"
+    },
+    {
+        "id": 8531891000146114,
+        "conceptId": 770680004,
+        "term": "PWLS",
+        "preferredTerm": "Prader-Willi-like syndrome"
+    },
+    {
+        "id": 2916954017,
+        "conceptId": 171000119107,
+        "term": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum",
+        "preferredTerm": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum"
+    },
+    {
+        "id": 12191091000146110,
+        "conceptId": 171000119107,
+        "term": "zwangerschap, ante partum, partus en kraamperiode gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum"
+    },
+    {
+        "id": 12191101000146115,
+        "conceptId": 171000119107,
+        "term": "zwangerschap, v\u00f3\u00f3r en tijdens bevalling en postpartumperiode gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum"
+    },
+    {
+        "id": 12191121000146111,
+        "conceptId": 171000119107,
+        "term": "zwangerschap, prae partum, bevalling en puerperium gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum"
+    },
+    {
+        "id": 12191131000146113,
+        "conceptId": 171000119107,
+        "term": "zwangerschap, prepartale periode, partus en kraambedperiode gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Maternal obesity complicating pregnancy, childbirth and the puerperium, antepartum"
+    },
+    {
+        "id": 157271000146117,
+        "conceptId": 21681000146100,
+        "term": "Iatrogenic obesity",
+        "preferredTerm": "Iatrogenic obesity"
+    },
+    {
+        "id": 9071641000146118,
+        "conceptId": 21681000146100,
+        "term": "iatrogene adipositas",
+        "preferredTerm": "Iatrogenic obesity"
+    },
+    {
+        "id": 9071651000146115,
+        "conceptId": 21681000146100,
+        "term": "iatrogene obesitas",
+        "preferredTerm": "Iatrogenic obesity"
+    },
+    {
+        "id": 3289704018,
+        "conceptId": 83911000119104,
+        "term": "Severe obesity",
+        "preferredTerm": "Severe obesity"
+    },
+    {
+        "id": 9967551000146111,
+        "conceptId": 83911000119104,
+        "term": "ernstige obesitas",
+        "preferredTerm": "Severe obesity"
+    },
+    {
+        "id": 9774001000146113,
+        "conceptId": 127941000146103,
+        "term": "Obesity during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 9774011000146110,
+        "conceptId": 127941000146103,
+        "term": "Adiposis during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 9774021000146117,
+        "conceptId": 127941000146103,
+        "term": "Adiposity during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11086711000146118,
+        "conceptId": 127941000146103,
+        "term": "obesitas durante partu",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11086721000146111,
+        "conceptId": 127941000146103,
+        "term": "adipositas tijdens partus",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11086731000146113,
+        "conceptId": 127941000146103,
+        "term": "obesitas tijdens bevalling",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11947341000146115,
+        "conceptId": 127941000146103,
+        "term": "Adiposis as indication for care during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11947351000146117,
+        "conceptId": 127941000146103,
+        "term": "Adiposity as indication for care during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11947361000146119,
+        "conceptId": 127941000146103,
+        "term": "Obesity as indication for care during delivery",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 11947561000146113,
+        "conceptId": 127941000146103,
+        "term": "obesitas als indicatie voor zorg tijdens bevalling",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 12547231000146111,
+        "conceptId": 127941000146103,
+        "term": "obesitas als indicatie voor zorg tijdens partus",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 12547251000146117,
+        "conceptId": 127941000146103,
+        "term": "adipositas als indicatie voor zorg tijdens partus",
+        "preferredTerm": "Obesity as indication for care during delivery"
+    },
+    {
+        "id": 3728132013,
+        "conceptId": 774102003,
+        "term": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 3728133015,
+        "conceptId": 774102003,
+        "term": "MOMES syndrome",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 6771621000146116,
+        "conceptId": 774102003,
+        "term": "syndroom van mentale retardatie, obesitas, prognathie en afwijkingen van oog en huid",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 6942281000146119,
+        "conceptId": 774102003,
+        "term": "MOMES-syndroom",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 7717441000146111,
+        "conceptId": 774102003,
+        "term": "syndroom van verstandelijke beperking, obesitas, prognathie en afwijkingen van oog en huid",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 7860501000146110,
+        "conceptId": 774102003,
+        "term": "syndroom van verstandelijke handicap, obesitas, prognathie en afwijkingen van oog en huid",
+        "preferredTerm": "Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome"
+    },
+    {
+        "id": 3702447013,
+        "conceptId": 770750002,
+        "term": "Intellectual disability, seizures, macrocephaly, obesity syndrome",
+        "preferredTerm": "Intellectual disability, seizures, macrocephaly, obesity syndrome"
+    },
+    {
+        "id": 7175451000146115,
+        "conceptId": 770750002,
+        "term": "syndroom van verstandelijke beperking, insulten, macrocefalie en obesitas",
+        "preferredTerm": "Intellectual disability, seizures, macrocephaly, obesity syndrome"
+    },
+    {
+        "id": 8345171000146118,
+        "conceptId": 770750002,
+        "term": "syndroom van verstandelijke handicap, toevallen, macrocefalie en obesitas",
+        "preferredTerm": "Intellectual disability, seizures, macrocephaly, obesity syndrome"
+    },
+    {
+        "id": 12274171000146116,
+        "conceptId": 770750002,
+        "term": "syndroom van verstandelijke beperking, epileptische aanvallen, macrocefalie en obesitas",
+        "preferredTerm": "Intellectual disability, seizures, macrocephaly, obesity syndrome"
+    },
+    {
+        "id": 12288991000146118,
+        "conceptId": 770750002,
+        "term": "syndroom van verstandelijke handicap, convulsies, macrocefalie en obesitas",
+        "preferredTerm": "Intellectual disability, seizures, macrocephaly, obesity syndrome"
+    },
+    {
+        "id": 3318098016,
+        "conceptId": 719834005,
+        "term": "Wilson Turner syndrome",
+        "preferredTerm": "Wilson Turner syndrome"
+    },
+    {
+        "id": 6789401000146115,
+        "conceptId": 719834005,
+        "term": "syndroom van Wilson-Turner",
+        "preferredTerm": "Wilson Turner syndrome"
+    },
+    {
+        "id": 6956471000146119,
+        "conceptId": 719834005,
+        "term": "WTS",
+        "preferredTerm": "Wilson Turner syndrome"
+    },
+    {
+        "id": 10673001000146116,
+        "conceptId": 719834005,
+        "term": "Wilson-Turner-syndroom",
+        "preferredTerm": "Wilson Turner syndrome"
+    },
+    {
+        "id": 3330287017,
+        "conceptId": 722037004,
+        "term": "Mental retardation, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 3330288010,
+        "conceptId": 722037004,
+        "term": "MEHMO (mental retardation, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity) syndrome",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 3330289019,
+        "conceptId": 722037004,
+        "term": "MEHMO syndrome",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 3643128012,
+        "conceptId": 722037004,
+        "term": "Intellectual disability, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 3643161017,
+        "conceptId": 722037004,
+        "term": "X-linked intellectual disability, epileptic seizures, hypogonadism and hypogenitalism, microcephaly, obesity syndrome",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 6834931000146111,
+        "conceptId": 722037004,
+        "term": "syndroom van mentale retardatie, epileptische aanvallen, hypogonadisme en hypogenitalisme, microcefalie en obesitas",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 6942261000146110,
+        "conceptId": 722037004,
+        "term": "MEHMO-syndroom",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 7718961000146115,
+        "conceptId": 722037004,
+        "term": "syndroom van verstandelijke beperking, epileptische aanvallen, hypogonadisme en hypogenitalisme, microcefalie en obesitas",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 7860491000146117,
+        "conceptId": 722037004,
+        "term": "syndroom van verstandelijke handicap, epileptische aanvallen, hypogonadisme en hypogenitalisme, microcefalie en obesitas",
+        "preferredTerm": "MEHMO syndrome"
+    },
+    {
+        "id": 3332836018,
+        "conceptId": 722596001,
+        "term": "Obesity caused by energy imbalance",
+        "preferredTerm": "Obesity caused by energy imbalance"
+    },
+    {
+        "id": 3332837010,
+        "conceptId": 722596001,
+        "term": "Obesity due to energy imbalance",
+        "preferredTerm": "Obesity caused by energy imbalance"
+    },
+    {
+        "id": 9966931000146114,
+        "conceptId": 722596001,
+        "term": "obesitas door verstoring van energiebalans",
+        "preferredTerm": "Obesity caused by energy imbalance"
+    },
+    {
+        "id": 12110801000146115,
+        "conceptId": 722596001,
+        "term": "obesitas door energetische disbalans",
+        "preferredTerm": "Obesity caused by energy imbalance"
+    },
+    {
+        "id": 3430961013,
+        "conceptId": 724137002,
+        "term": "MOMO syndrome",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 3430962018,
+        "conceptId": 724137002,
+        "term": "Macrocephaly, obesity, mental disability, ocular abnormality syndrome",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 3430963011,
+        "conceptId": 724137002,
+        "term": "MOMO (macrocephaly, obesity, mental disability, ocular abnormality) syndrome",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 6801291000146113,
+        "conceptId": 724137002,
+        "term": "syndroom van macrocefalie, obesitas, mentale retardatie en oogafwijking",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 6801301000146112,
+        "conceptId": 724137002,
+        "term": "MOMO-syndroom",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 7574851000146114,
+        "conceptId": 724137002,
+        "term": "syndroom van macrocefalie, obesitas, verstandelijke beperking en oogafwijking",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 7574861000146112,
+        "conceptId": 724137002,
+        "term": "syndroom van macrocefalie, obesitas, verstandelijke handicap en oogafwijking",
+        "preferredTerm": "MOMO syndrome"
+    },
+    {
+        "id": 3725560019,
+        "conceptId": 773663004,
+        "term": "ROHHADNET (rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation, neural tumours) syndrome",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 3725563017,
+        "conceptId": 773663004,
+        "term": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 3725564011,
+        "conceptId": 773663004,
+        "term": "ROHHAD (rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation) syndrome",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 3725565012,
+        "conceptId": 773663004,
+        "term": "ROHHADNET (rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation, neural tumors) syndrome",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 10240721000146115,
+        "conceptId": 773663004,
+        "term": "ROHHAD",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 10321051000146114,
+        "conceptId": 773663004,
+        "term": "syndroom van snel aanvangende obesitas op kinderleeftijd, disfunctie van hypothalamus, hypoventilatie, autonome ontregeling-syndroom",
+        "preferredTerm": "Rapid-onset childhood obesity, hypothalamic dysfunction, hypoventilation, autonomic dysregulation syndrome"
+    },
+    {
+        "id": 3759295011,
+        "conceptId": 783549006,
+        "term": "Obesity due to centrosomal protein 19 deficiency",
+        "preferredTerm": "Obesity due to CEP19 deficiency"
+    },
+    {
+        "id": 3759296012,
+        "conceptId": 783549006,
+        "term": "Obesity due to CEP19 deficiency",
+        "preferredTerm": "Obesity due to CEP19 deficiency"
+    },
+    {
+        "id": 9966991000146110,
+        "conceptId": 783549006,
+        "term": "obesitas door CEP19-defici\u00ebntie",
+        "preferredTerm": "Obesity due to CEP19 deficiency"
+    },
+    {
+        "id": 10755791000146115,
+        "conceptId": 783549006,
+        "term": "obesitas door defici\u00ebntie van 'centrosomal protein 19'",
+        "preferredTerm": "Obesity due to CEP19 deficiency"
+    },
+    {
+        "id": 3759929016,
+        "conceptId": 783719006,
+        "term": "Obesity due to SIM bHLH transcription factor 1 deficiency",
+        "preferredTerm": "Obesity due to SIM1 deficiency"
+    },
+    {
+        "id": 3759930014,
+        "conceptId": 783719006,
+        "term": "Obesity due to SIM1 deficiency",
+        "preferredTerm": "Obesity due to SIM1 deficiency"
+    },
+    {
+        "id": 9966951000146115,
+        "conceptId": 783719006,
+        "term": "obesitas door SIM1-defici\u00ebntie",
+        "preferredTerm": "Obesity due to SIM1 deficiency"
+    },
+    {
+        "id": 10755771000146119,
+        "conceptId": 783719006,
+        "term": "obesitas door defici\u00ebntie van 'SIM bHLH transcription factor 1'",
+        "preferredTerm": "Obesity due to SIM1 deficiency"
+    },
+    {
+        "id": 12158901000146117,
+        "conceptId": 783719006,
+        "term": "obesitas door 'single-minded homolog 1'-defici\u00ebntie",
+        "preferredTerm": "Obesity due to SIM1 deficiency"
+    },
+    {
+        "id": 3768151015,
+        "conceptId": 785722006,
+        "term": "Obesity due to leptin receptor gene deficiency",
+        "preferredTerm": "Obesity due to leptin receptor gene deficiency"
+    },
+    {
+        "id": 9209981000146118,
+        "conceptId": 785722006,
+        "term": "obesitas door genetisch bepaalde leptinereceptordefici\u00ebntie",
+        "preferredTerm": "Obesity due to leptin receptor gene deficiency"
+    },
+    {
+        "id": 9460341000146119,
+        "conceptId": 785722006,
+        "term": "obesitas door mutatie in gen voor leptinereceptor",
+        "preferredTerm": "Obesity due to leptin receptor gene deficiency"
+    },
+    {
+        "id": 5065866012,
+        "conceptId": 1229946007,
+        "term": "MAGE family member L2-related Prader-Willi-like syndrome",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 5065867015,
+        "conceptId": 1229946007,
+        "term": "MAGEL2-related Prader-Willi-like syndrome",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 5065868013,
+        "conceptId": 1229946007,
+        "term": "Schaaf Yang syndrome",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 13607391000146113,
+        "conceptId": 1229946007,
+        "term": "'MAGE family member L2'-gerelateerd Prader-Willi-achtig syndroom",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 13607401000146111,
+        "conceptId": 1229946007,
+        "term": "MAGEL2-gerelateerd PWLS",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 13607421000146115,
+        "conceptId": 1229946007,
+        "term": "syndroom van Schaaf-Yang",
+        "preferredTerm": "MAGEL2-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 5013861019,
+        "conceptId": 1208987006,
+        "term": "PHIP-related behavioural problems, intellectual disability, obesity, dysmorphic features syndrome",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 5013862014,
+        "conceptId": 1208987006,
+        "term": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 5013863016,
+        "conceptId": 1208987006,
+        "term": "Pleckstrin homology domain interacting protein-related behavioural problems, intellectual disability, obesity, dysmorphic features syndrome",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 5013864010,
+        "conceptId": 1208987006,
+        "term": "Pleckstrin homology domain interacting protein-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 5013866012,
+        "conceptId": 1208987006,
+        "term": "Chung Jansen syndrome",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 13602841000146113,
+        "conceptId": 1208987006,
+        "term": "PHIP-syndroom",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 13602851000146111,
+        "conceptId": 1208987006,
+        "term": "syndroom van Chung-Jansen",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 13602861000146114,
+        "conceptId": 1208987006,
+        "term": "syndroom van gedragsproblemen, verstandelijke beperking, obesitas en dysmorfe kenmerken gerelateerd aan 'pleckstrin homology domain interacting'-eiwit",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 13602881000146118,
+        "conceptId": 1208987006,
+        "term": "BIDOD-syndroom",
+        "preferredTerm": "PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome"
+    },
+    {
+        "id": 5065856016,
+        "conceptId": 1229943004,
+        "term": "SIM bHLH transcription factor 1-related Prader-Willi-like syndrome",
+        "preferredTerm": "SIM1-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 5065857013,
+        "conceptId": 1229943004,
+        "term": "SIM1-related Prader-Willi-like syndrome",
+        "preferredTerm": "SIM1-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 13602511000146114,
+        "conceptId": 1229943004,
+        "term": "SIM bHLH transcriptiefactor-1-gerelateerd Prader-Willi-achtig syndroom",
+        "preferredTerm": "SIM1-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 13602521000146116,
+        "conceptId": 1229943004,
+        "term": "SIM1-gerelateerd PWLS",
+        "preferredTerm": "SIM1-related Prader-Willi-like syndrome"
+    },
+    {
+        "id": 5146503012,
+        "conceptId": 1255335006,
+        "term": "X-linked intellectual disability, short stature, overweight syndrome",
+        "preferredTerm": "X-linked intellectual disability, short stature, overweight syndrome"
+    },
+    {
+        "id": 14078551000146111,
+        "conceptId": 1255335006,
+        "term": "syndroom van X-gebonden mentale retardatie, kleine gestalte en overgewicht",
+        "preferredTerm": "X-linked intellectual disability, short stature, overweight syndrome"
+    },
+    {
+        "id": 14078571000146115,
+        "conceptId": 1255335006,
+        "term": "syndroom van X-gebonden verstandelijke handicap, dwerggroei en obesitas",
+        "preferredTerm": "X-linked intellectual disability, short stature, overweight syndrome"
+    },
+    {
+        "id": 14078581000146118,
+        "conceptId": 1255335006,
+        "term": "syndroom van X-gebonden verstandelijke beperking, kleine gestalte en obesitas",
+        "preferredTerm": "X-linked intellectual disability, short stature, overweight syndrome"
+    },
+    {
+        "id": 3736335017,
+        "conceptId": 776204008,
+        "term": "Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome",
+        "preferredTerm": "Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome"
+    },
+    {
+        "id": 6803461000146117,
+        "conceptId": 776204008,
+        "term": "syndroom van colobomateuze microftalmie, obesitas, hypogenitalisme en mentale retardatie",
+        "preferredTerm": "Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome"
+    },
+    {
+        "id": 7717321000146112,
+        "conceptId": 776204008,
+        "term": "syndroom van colobomateuze microftalmie, obesitas, hypogenitalisme en verstandelijke beperking",
+        "preferredTerm": "Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome"
+    },
+    {
+        "id": 7857861000146117,
+        "conceptId": 776204008,
+        "term": "syndroom van colobomateuze microftalmie, obesitas, hypogenitalisme en verstandelijke handicap",
+        "preferredTerm": "Colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome"
+    },
+    {
+        "id": 4165359010,
+        "conceptId": 1003380001,
+        "term": "Prader-Willi-like syndrome due to microdeletion 6q16",
+        "preferredTerm": "6q16 microdeletion syndrome"
+    },
+    {
+        "id": 4165360017,
+        "conceptId": 1003380001,
+        "term": "6q16 microdeletion syndrome",
+        "preferredTerm": "6q16 microdeletion syndrome"
+    },
+    {
+        "id": 4168117017,
+        "conceptId": 1003380001,
+        "term": "Obesity due to 6q16 deletion",
+        "preferredTerm": "6q16 microdeletion syndrome"
+    },
+    {
+        "id": 11963431000146115,
+        "conceptId": 1003380001,
+        "term": "6q16-microdeletiesyndroom",
+        "preferredTerm": "6q16 microdeletion syndrome"
+    },
+    {
+        "id": 11963451000146114,
+        "conceptId": 1003380001,
+        "term": "Prader-Willi-achtig syndroom door microdeletie van 6q16",
+        "preferredTerm": "6q16 microdeletion syndrome"
+    },
+    {
+        "id": 4674091018,
+        "conceptId": 1187531009,
+        "term": "Obesity due to pituitary disease",
+        "preferredTerm": "Obesity due to pituitary disease"
+    },
+    {
+        "id": 13272951000146111,
+        "conceptId": 1187531009,
+        "term": "obesitas door aandoening van hypofyse",
+        "preferredTerm": "Obesity due to pituitary disease"
+    },
+    {
+        "id": 5159418016,
+        "conceptId": 1260139006,
+        "term": "Genetic non-syndromic obesity",
+        "preferredTerm": "Genetic non-syndromic obesity"
+    },
+    {
+        "id": 14114261000146115,
+        "conceptId": 1260139006,
+        "term": "genetische niet-syndromale obesitas",
+        "preferredTerm": "Genetic non-syndromic obesity"
+    },
+    {
+        "id": 5159311011,
+        "conceptId": 1260134001,
+        "term": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome",
+        "preferredTerm": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome"
+    },
+    {
+        "id": 5159313014,
+        "conceptId": 1260134001,
+        "term": "SINO syndrome",
+        "preferredTerm": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome"
+    },
+    {
+        "id": 14115111000146111,
+        "conceptId": 1260134001,
+        "term": "syndroom van spastische paraplegie, mentale retardatie, nystagmus en adipositas",
+        "preferredTerm": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome"
+    },
+    {
+        "id": 14115121000146118,
+        "conceptId": 1260134001,
+        "term": "syndroom van spastische paraplegie, verstandelijke handicap, nystagmus en obesitas",
+        "preferredTerm": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome"
+    },
+    {
+        "id": 14115141000146112,
+        "conceptId": 1260134001,
+        "term": "syndroom van spastische paraplegie, verstandelijke beperking, nystagmus en obesitas",
+        "preferredTerm": "Spastic paraplegia, intellectual disability, nystagmus, obesity syndrome"
+    },
+    {
+        "id": 3786363019,
+        "conceptId": 788996008,
+        "term": "Adolescent obesity",
+        "preferredTerm": "Obesity in adolescence"
+    },
+    {
+        "id": 3786365014,
+        "conceptId": 788996008,
+        "term": "Obesity in adolescence",
+        "preferredTerm": "Obesity in adolescence"
+    },
+    {
+        "id": 9967031000146110,
+        "conceptId": 788996008,
+        "term": "obesitas in adolescentie",
+        "preferredTerm": "Obesity in adolescence"
+    },
+    {
+        "id": 3901588010,
+        "conceptId": 840358001,
+        "term": "High body weight",
+        "preferredTerm": "High body weight"
+    },
+    {
+        "id": 10931651000146113,
+        "conceptId": 840358001,
+        "term": "hoog lichaamsgewicht",
+        "preferredTerm": "High body weight"
+    },
+    {
+        "id": 11619001000146116,
+        "conceptId": 840358001,
+        "term": "lichaamsgewicht verhoogd",
+        "preferredTerm": "High body weight"
+    },
+    {
+        "id": 3759337019,
+        "conceptId": 783556000,
+        "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency",
+        "preferredTerm": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency"
+    },
+    {
+        "id": 3759338012,
+        "conceptId": 783556000,
+        "term": "Severe early-onset obesity insulin resistance syndrome due to SH2B adaptor protein 1 deficiency",
+        "preferredTerm": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency"
+    },
+    {
+        "id": 12159651000146118,
+        "conceptId": 783556000,
+        "term": "vroeg optredende ernstige obesitas met insulineresistentiesyndroom door defici\u00ebntie van 'Src homology 2B adapter protein 1'",
+        "preferredTerm": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency"
+    },
+    {
+        "id": 12159661000146115,
+        "conceptId": 783556000,
+        "term": "vroeg optredende ernstige obesitas met metabool syndroom door defici\u00ebntie van SH2B1-defici\u00ebntie",
+        "preferredTerm": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency"
+    },
+    {
+        "id": 12159681000146111,
+        "conceptId": 783556000,
+        "term": "vroeg optredende ernstige obesitas met metabool syndroom door defici\u00ebntie van 'Src homology 2B adapter protein 1'",
+        "preferredTerm": "Severe early-onset obesity insulin resistance syndrome due to SH2B1 deficiency"
+    },
+    {
+        "id": 3858271015,
+        "conceptId": 819948005,
+        "term": "Obese class III",
+        "preferredTerm": "Obese class III"
+    },
+    {
+        "id": 3858274011,
+        "conceptId": 819948005,
+        "term": "Body mass index equal to or greater than 40",
+        "preferredTerm": "Obese class III"
+    },
+    {
+        "id": 9966771000146113,
+        "conceptId": 819948005,
+        "term": "obesitas klasse 3 volgens WHO-classificatie",
+        "preferredTerm": "Obese class III"
+    },
+    {
+        "id": 9966781000146110,
+        "conceptId": 819948005,
+        "term": "BMI groter dan 40",
+        "preferredTerm": "Obese class III"
+    },
+    {
+        "id": 12111131000146114,
+        "conceptId": 819948005,
+        "term": "body mass index groter dan 40",
+        "preferredTerm": "Obese class III"
+    },
+    {
+        "id": 3638651013,
+        "conceptId": 763350002,
+        "term": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 3638652018,
+        "conceptId": 763350002,
+        "term": "Autosomal recessive intellectual disability due to TRAPPC9 (trafficking protein particle complex 9) deficiency",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 6771601000146112,
+        "conceptId": 763350002,
+        "term": "autosomaal recessieve mentale retardatie door TRAPPC9-defici\u00ebntie",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 6771611000146114,
+        "conceptId": 763350002,
+        "term": "syndroom van mentale retardatie, obesitas, malformatie van hersenen en faciale dysmorfie",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 7577161000146110,
+        "conceptId": 763350002,
+        "term": "syndroom van verstandelijke beperking, obesitas, malformatie van hersenen en faciale dysmorfie",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 7577171000146116,
+        "conceptId": 763350002,
+        "term": "syndroom van verstandelijke handicap, obesitas, malformatie van hersenen en faciale dysmorfie",
+        "preferredTerm": "Intellectual disability, obesity, brain malformation, facial dysmorphism syndrome"
+    },
+    {
+        "id": 253847018,
+        "conceptId": 162863004,
+        "term": "Body mass index index 25-29 - overweight",
+        "preferredTerm": "Body mass index 25-29 - overweight"
+    },
+    {
+        "id": 2164215019,
+        "conceptId": 162863004,
+        "term": "BMI 25-29 - overweight",
+        "preferredTerm": "Body mass index 25-29 - overweight"
+    },
+    {
+        "id": 2773979010,
+        "conceptId": 162863004,
+        "term": "Body mass index 25-29 - overweight",
+        "preferredTerm": "Body mass index 25-29 - overweight"
+    },
+    {
+        "id": 1552571000146110,
+        "conceptId": 162863004,
+        "term": "overgewicht (BMI 25-29)",
+        "preferredTerm": "Body mass index 25-29 - overweight"
+    },
+    {
+        "id": 253848011,
+        "conceptId": 162864005,
+        "term": "Body mass index 30+ - obesity",
+        "preferredTerm": "Body mass index 30+ - obesity"
+    },
+    {
+        "id": 2164216018,
+        "conceptId": 162864005,
+        "term": "BMI 30+ - obesity",
+        "preferredTerm": "Body mass index 30+ - obesity"
+    },
+    {
+        "id": 1552591000146114,
+        "conceptId": 162864005,
+        "term": "obesitas (BMI > 30)",
+        "preferredTerm": "Body mass index 30+ - obesity"
+    },
+    {
+        "id": 137342011,
+        "conceptId": 82793005,
+        "term": "Hypothalamic obesity",
+        "preferredTerm": "Hypothalamic obesity"
+    },
+    {
+        "id": 7059701000146115,
+        "conceptId": 82793005,
+        "term": "hypothalamische obesitas",
+        "preferredTerm": "Hypothalamic obesity"
+    },
+    {
+        "id": 133809016,
+        "conceptId": 80660001,
+        "term": "Mauriac's syndrome",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 133810014,
+        "conceptId": 80660001,
+        "term": "Dwarfism-hepatomegaly-obesity-juvenile diabetes syndrome",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 2842355016,
+        "conceptId": 80660001,
+        "term": "Mauriac syndrome",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 6912701000146112,
+        "conceptId": 80660001,
+        "term": "Mauriac-syndroom",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 6912711000146114,
+        "conceptId": 80660001,
+        "term": "syndroom van Mauriac",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 6912731000146119,
+        "conceptId": 80660001,
+        "term": "syndroom van dwerggroei, hepatomegalie, obesitas en diabetes mellitus type 1",
+        "preferredTerm": "Mauriac's syndrome"
+    },
+    {
+        "id": 104719014,
+        "conceptId": 62999006,
+        "term": "Adiposogenital dystrophy",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 104720015,
+        "conceptId": 62999006,
+        "term": "Frohlich's syndrome",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 104721016,
+        "conceptId": 62999006,
+        "term": "Launois-Cleret syndrome",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 104722011,
+        "conceptId": 62999006,
+        "term": "Adiposogenital syndrome",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 104723018,
+        "conceptId": 62999006,
+        "term": "Hypothalamic infantilism with obesity syndrome",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 4542687019,
+        "conceptId": 62999006,
+        "term": "Froehlich syndrome",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 456151000146119,
+        "conceptId": 62999006,
+        "term": "dystrophia adiposogenitalis",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 456171000146110,
+        "conceptId": 62999006,
+        "term": "adiposogenitaal syndroom",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 456181000146112,
+        "conceptId": 62999006,
+        "term": "hypofysaire vetzucht",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 456191000146114,
+        "conceptId": 62999006,
+        "term": "syndroom van Fr\u00f6hlich",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 456201000146111,
+        "conceptId": 62999006,
+        "term": "adiposogenitale dystrofie",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 582431000146115,
+        "conceptId": 62999006,
+        "term": "pitu\u00eftaire vetzucht",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 582441000146111,
+        "conceptId": 62999006,
+        "term": "fr\u00f6hlichsyndroom",
+        "preferredTerm": "Adiposogenital dystrophy"
+    },
+    {
+        "id": 175966015,
+        "conceptId": 111036000,
+        "term": "Hyperinsulinar obesity",
+        "preferredTerm": "Hyperinsulinar obesity"
+    },
+    {
+        "id": 9951371000146110,
+        "conceptId": 111036000,
+        "term": "hyperinsulinemische obesitas",
+        "preferredTerm": "Hyperinsulinar obesity"
+    },
+    {
+        "id": 12113161000146116,
+        "conceptId": 111036000,
+        "term": "obesitas door hyperinsulinemie",
+        "preferredTerm": "Hyperinsulinar obesity"
+    },
+    {
+        "id": 88401011,
+        "conceptId": 53146006,
+        "term": "Hypothyroid obesity",
+        "preferredTerm": "Hypothyroid obesity"
+    },
+    {
+        "id": 3625511000146114,
+        "conceptId": 53146006,
+        "term": "obesitas ten gevolge van hypothyreo\u00efdie",
+        "preferredTerm": "Hypothyroid obesity"
+    },
+    {
+        "id": 4332451000146110,
+        "conceptId": 53146006,
+        "term": "obesitas door hypothyro\u00efdie",
+        "preferredTerm": "Hypothyroid obesity"
+    },
+    {
+        "id": 12691291000146116,
+        "conceptId": 53146006,
+        "term": "obesitas door hypothyreo\u00efdie",
+        "preferredTerm": "Hypothyroid obesity"
+    },
+    {
+        "id": 105880017,
+        "conceptId": 63702009,
+        "term": "Alstrom syndrome",
+        "preferredTerm": "Alstrom syndrome"
+    },
+    {
+        "id": 354371000146111,
+        "conceptId": 63702009,
+        "term": "syndroom van Alstr\u00f6m",
+        "preferredTerm": "Alstrom syndrome"
+    },
+    {
+        "id": 95366016,
+        "conceptId": 57337005,
+        "term": "Steatopygia",
+        "preferredTerm": "Steatopygia"
+    },
+    {
+        "id": 8776881000146119,
+        "conceptId": 57337005,
+        "term": "steatopygia",
+        "preferredTerm": "Steatopygia"
+    },
+    {
+        "id": 9430015,
+        "conceptId": 5036006,
+        "term": "Hypogonadal obesity",
+        "preferredTerm": "Hypogonadal obesity"
+    },
+    {
+        "id": 9645841000146112,
+        "conceptId": 5036006,
+        "term": "hypogonadale obesitas",
+        "preferredTerm": "Hypogonadal obesity"
+    },
+    {
+        "id": 14126641000146119,
+        "conceptId": 260311000146105,
+        "term": "Obesity during pregnancy",
+        "preferredTerm": "Obesity during pregnancy"
+    },
+    {
+        "id": 14126651000146116,
+        "conceptId": 260311000146105,
+        "term": "Pre-existing obesity in mother during pregnancy",
+        "preferredTerm": "Obesity during pregnancy"
+    },
+    {
+        "id": 14126661000146118,
+        "conceptId": 260311000146105,
+        "term": "pre-existente obesitas bij moeder tijdens zwangerschap",
+        "preferredTerm": "Obesity during pregnancy"
+    },
+    {
+        "id": 14126671000146112,
+        "conceptId": 260311000146105,
+        "term": "reeds bestaande obesitas bij moeder tijdens zwangerschap",
+        "preferredTerm": "Obesity during pregnancy"
+    },
+    {
+        "id": 3005671010,
+        "conceptId": 10750551000119100,
+        "term": "Obesity in mother complicating childbirth",
+        "preferredTerm": "Obesity in mother complicating childbirth"
+    },
+    {
+        "id": 3005686016,
+        "conceptId": 10750551000119100,
+        "term": "Maternal obesity during childbirth",
+        "preferredTerm": "Obesity in mother complicating childbirth"
+    },
+    {
+        "id": 9967081000146114,
+        "conceptId": 10750551000119100,
+        "term": "partus gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Obesity in mother complicating childbirth"
+    },
+    {
+        "id": 9967091000146111,
+        "conceptId": 10750551000119100,
+        "term": "bevalling gecompliceerd door obesitas van moeder",
+        "preferredTerm": "Obesity in mother complicating childbirth"
+    },
+    {
+        "id": 13510001000146114,
+        "conceptId": 201161000146100,
+        "term": "hydrocefalie-obesitas-hypogonadisme-syndroom bij vrouw",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13510021000146118,
+        "conceptId": 201161000146100,
+        "term": "syndroom van hydrocefalie met obesitas en hypogonadisme bij vrouw",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13510031000146116,
+        "conceptId": 201161000146100,
+        "term": "hydrocephalus-obesitas-hypogonadisme-syndroom bij vrouw",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13510041000146112,
+        "conceptId": 201161000146100,
+        "term": "Female hydrocephalus with obesity and hypogonadism syndrome",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13510051000146110,
+        "conceptId": 201161000146100,
+        "term": "Female Sengers Hamel Otten syndrome",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13510061000146113,
+        "conceptId": 201161000146100,
+        "term": "syndroom van Sengers-Hamel-Otten bij vrouw",
+        "preferredTerm": "Female hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 660421000124116,
+        "conceptId": 443381000124105,
+        "term": "Obese class II",
+        "preferredTerm": "Obese class II"
+    },
+    {
+        "id": 660431000124118,
+        "conceptId": 443381000124105,
+        "term": "Body mass index 35.00 to 39.99",
+        "preferredTerm": "Obese class II"
+    },
+    {
+        "id": 9966721000146114,
+        "conceptId": 443381000124105,
+        "term": "obesitas klasse 2 volgens WHO-classificatie",
+        "preferredTerm": "Obese class II"
+    },
+    {
+        "id": 9966731000146111,
+        "conceptId": 443381000124105,
+        "term": "BMI tussen 35 en 39,99",
+        "preferredTerm": "Obese class II"
+    },
+    {
+        "id": 12111081000146114,
+        "conceptId": 443381000124105,
+        "term": "body mass index 35-39,99",
+        "preferredTerm": "Obese class II"
+    },
+    {
+        "id": 660381000124114,
+        "conceptId": 443371000124107,
+        "term": "Obese class I",
+        "preferredTerm": "Obese class I"
+    },
+    {
+        "id": 660391000124112,
+        "conceptId": 443371000124107,
+        "term": "Body mass index 30.00 to 34.99",
+        "preferredTerm": "Obese class I"
+    },
+    {
+        "id": 9966701000146118,
+        "conceptId": 443371000124107,
+        "term": "obesitas klasse 1 volgens WHO-classificatie",
+        "preferredTerm": "Obese class I"
+    },
+    {
+        "id": 9966711000146116,
+        "conceptId": 443371000124107,
+        "term": "BMI tussen 30 en 34,99",
+        "preferredTerm": "Obese class I"
+    },
+    {
+        "id": 12111071000146112,
+        "conceptId": 443371000124107,
+        "term": "body mass index 30-34,99",
+        "preferredTerm": "Obese class I"
+    },
+    {
+        "id": 14301121000146113,
+        "conceptId": 300351000146101,
+        "term": "pre-existente morbide obesitas tijdens zwangerschap",
+        "preferredTerm": "Pre-existing morbid obesity during pregnancy"
+    },
+    {
+        "id": 14301141000146119,
+        "conceptId": 300351000146101,
+        "term": "Pre-existing morbid obesity during pregnancy",
+        "preferredTerm": "Pre-existing morbid obesity during pregnancy"
+    },
+    {
+        "id": 13509911000146117,
+        "conceptId": 201151000146103,
+        "term": "syndroom van hydrocefalie met obesitas en hypogonadisme bij man",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13509921000146110,
+        "conceptId": 201151000146103,
+        "term": "hydrocephalus-obesitas-hypogonadisme-syndroom bij man",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13509931000146112,
+        "conceptId": 201151000146103,
+        "term": "hydrocefalie-obesitas-hypogonadisme-syndroom bij man",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13509941000146116,
+        "conceptId": 201151000146103,
+        "term": "Male Sengers Hamel Otten syndrome",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13509951000146118,
+        "conceptId": 201151000146103,
+        "term": "syndroom van Sengers-Hamel-Otten bij man",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 13509981000146111,
+        "conceptId": 201151000146103,
+        "term": "Male hydrocephalus with obesity and hypogonadism syndrome",
+        "preferredTerm": "Male hydrocephalus with obesity and hypogonadism syndrome"
+    },
+    {
+        "id": 3525284013,
+        "conceptId": 15750121000119108,
+        "term": "Severe obesity complicating pregnancy",
+        "preferredTerm": "Severe obesity complicating pregnancy"
+    },
+    {
+        "id": 3525286010,
+        "conceptId": 15750121000119108,
+        "term": "Pre-existing severe obesity in mother complicating pregnancy",
+        "preferredTerm": "Severe obesity complicating pregnancy"
+    },
+    {
+        "id": 9967401000146111,
+        "conceptId": 15750121000119108,
+        "term": "zwangerschap gecompliceerd door pre-existente ernstige obesitas bij moeder",
+        "preferredTerm": "Severe obesity complicating pregnancy"
+    },
+    {
+        "id": 9967411000146113,
+        "conceptId": 15750121000119108,
+        "term": "zwangerschap gecompliceerd door reeds bestaande ernstige obesitas bij moeder",
+        "preferredTerm": "Severe obesity complicating pregnancy"
+    },
+    {
+        "id": 338162014,
+        "conceptId": 224994002,
+        "term": "Excessive weight gain",
+        "preferredTerm": "Excessive weight gain"
+    },
+    {
+        "id": 1552851000146116,
+        "conceptId": 224994002,
+        "term": "excessieve gewichtstoename",
+        "preferredTerm": "Excessive weight gain"
+    },
+    {
+        "id": 390217015,
+        "conceptId": 262286000,
+        "term": "Weight increased",
+        "preferredTerm": "Weight increased"
+    },
+    {
+        "id": 1702871000146117,
+        "conceptId": 262286000,
+        "term": "gewicht toegenomen",
+        "preferredTerm": "Weight increased"
+    },
+    {
+        "id": 2676077016,
+        "conceptId": 427572007,
+        "term": "Recent weight gain",
+        "preferredTerm": "Recent weight gain"
+    },
+    {
+        "id": 9967461000146110,
+        "conceptId": 427572007,
+        "term": "recente gewichtstoename",
+        "preferredTerm": "Recent weight gain"
+    },
+    {
+        "id": 4555377011,
+        "conceptId": 1149345007,
+        "term": "Excessive weight gain during pregnancy",
+        "preferredTerm": "Excessive weight gain during pregnancy"
+    },
+    {
+        "id": 4555378018,
+        "conceptId": 1149345007,
+        "term": "Excessive weight gain measured during pregnancy",
+        "preferredTerm": "Excessive weight gain during pregnancy"
+    },
+    {
+        "id": 12912951000146113,
+        "conceptId": 1149345007,
+        "term": "overmatige gewichtstoename gemeten tijdens zwangerschap",
+        "preferredTerm": "Excessive weight gain during pregnancy"
+    },
+    {
+        "id": 12912961000146111,
+        "conceptId": 1149345007,
+        "term": "excessieve gewichtstoename gemeten tijdens zwangerschap",
+        "preferredTerm": "Excessive weight gain during pregnancy"
+    },
+    {
+        "id": 252191014,
+        "conceptId": 161831008,
+        "term": "Weight increasing",
+        "preferredTerm": "Weight increasing"
+    },
+    {
+        "id": 3623221000146119,
+        "conceptId": 161831008,
+        "term": "toenemend gewicht",
+        "preferredTerm": "Weight increasing"
+    },
+    {
+        "id": 252194018,
+        "conceptId": 161833006,
+        "term": "Abnormal weight gain",
+        "preferredTerm": "Abnormal weight gain"
+    },
+    {
+        "id": 2164210012,
+        "conceptId": 161833006,
+        "term": "Abnormal increase in weight",
+        "preferredTerm": "Abnormal weight gain"
+    },
+    {
+        "id": 94231000146112,
+        "conceptId": 161833006,
+        "term": "abnormale gewichtstoename",
+        "preferredTerm": "Abnormal weight gain"
+    },
+    {
+        "id": 15765014,
+        "conceptId": 8943002,
+        "term": "Increased body weight",
+        "preferredTerm": "Weight gain"
+    },
+    {
+        "id": 15766010,
+        "conceptId": 8943002,
+        "term": "Weight gain",
+        "preferredTerm": "Weight gain"
+    },
+    {
+        "id": 508504010,
+        "conceptId": 8943002,
+        "term": "Weight gain finding",
+        "preferredTerm": "Weight gain"
+    },
+    {
+        "id": 1548411000146118,
+        "conceptId": 8943002,
+        "term": "gewichtstoename",
+        "preferredTerm": "Weight gain"
+    },
+    {
+        "id": 12583071000146118,
+        "conceptId": 8943002,
+        "term": "aankomen",
+        "preferredTerm": "Weight gain"
+    },
+    {
+        "id": 3332472016,
+        "conceptId": 11717701000119108,
+        "term": "Slow weight gain",
+        "preferredTerm": "Slow weight gain"
+    },
+    {
+        "id": 9967641000146112,
+        "conceptId": 11717701000119108,
+        "term": "langzame gewichtstoename",
+        "preferredTerm": "Slow weight gain"
+    },
+    {
+        "id": 3972894019,
+        "conceptId": 441361000124104,
+        "term": "Involuntary weight gain",
+        "preferredTerm": "Unintentional weight gain"
+    },
+    {
+        "id": 653951000124115,
+        "conceptId": 441361000124104,
+        "term": "Unintentional weight gain",
+        "preferredTerm": "Unintentional weight gain"
+    },
+    {
+        "id": 9968271000146116,
+        "conceptId": 441361000124104,
+        "term": "onopzettelijke gewichtstoename",
+        "preferredTerm": "Unintentional weight gain"
+    },
+    {
+        "id": 9968291000146117,
+        "conceptId": 441361000124104,
+        "term": "onbedoelde gewichtstoename",
+        "preferredTerm": "Unintentional weight gain"
+    }
+]

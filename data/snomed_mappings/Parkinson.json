@@ -1,0 +1,1670 @@
+[
+    {
+        "id": 345116015,
+        "conceptId": 230291001,
+        "term": "Juvenile Parkinson's disease",
+        "preferredTerm": "Juvenile Parkinson's disease"
+    },
+    {
+        "id": 2840366018,
+        "conceptId": 230291001,
+        "term": "Juvenile Parkinson disease",
+        "preferredTerm": "Juvenile Parkinson's disease"
+    },
+    {
+        "id": 108531000146110,
+        "conceptId": 230291001,
+        "term": "juveniele ziekte van Parkinson",
+        "preferredTerm": "Juvenile Parkinson's disease"
+    },
+    {
+        "id": 345119010,
+        "conceptId": 230294009,
+        "term": "Manganese-induced parkinsonism",
+        "preferredTerm": "Manganese-induced parkinsonism"
+    },
+    {
+        "id": 113331000146111,
+        "conceptId": 230294009,
+        "term": "parkinsonisme door mangaan",
+        "preferredTerm": "Manganese-induced parkinsonism"
+    },
+    {
+        "id": 345120016,
+        "conceptId": 230295005,
+        "term": "Parkinsonism with calcification of basal ganglia",
+        "preferredTerm": "Parkinsonism with calcification of basal ganglia"
+    },
+    {
+        "id": 113371000146113,
+        "conceptId": 230295005,
+        "term": "parkinsonisme met calcificatie van basale ganglia",
+        "preferredTerm": "Parkinsonism with calcification of basal ganglia"
+    },
+    {
+        "id": 345117012,
+        "conceptId": 230292008,
+        "term": "Secondary parkinsonism",
+        "preferredTerm": "Secondary parkinsonism"
+    },
+    {
+        "id": 1223019010,
+        "conceptId": 230292008,
+        "term": "Secondary Parkinson's disease",
+        "preferredTerm": "Secondary parkinsonism"
+    },
+    {
+        "id": 1223020016,
+        "conceptId": 230292008,
+        "term": "Secondary Parkinson disease",
+        "preferredTerm": "Secondary parkinsonism"
+    },
+    {
+        "id": 87631000146116,
+        "conceptId": 230292008,
+        "term": "secundair parkinsonisme",
+        "preferredTerm": "Secondary parkinsonism"
+    },
+    {
+        "id": 345118019,
+        "conceptId": 230293003,
+        "term": "Carbon monoxide-induced parkinsonism",
+        "preferredTerm": "Carbon monoxide-induced parkinsonism"
+    },
+    {
+        "id": 113321000146114,
+        "conceptId": 230293003,
+        "term": "parkinsonisme door koolmonoxide",
+        "preferredTerm": "Carbon monoxide-induced parkinsonism"
+    },
+    {
+        "id": 345121017,
+        "conceptId": 230296006,
+        "term": "Vascular parkinsonism",
+        "preferredTerm": "Vascular parkinsonism"
+    },
+    {
+        "id": 117351000146111,
+        "conceptId": 230296006,
+        "term": "vasculair parkinsonisme",
+        "preferredTerm": "Vascular parkinsonism"
+    },
+    {
+        "id": 394151017,
+        "conceptId": 265377002,
+        "term": "Symptomatic parkinsonism",
+        "preferredTerm": "Symptomatic parkinsonism"
+    },
+    {
+        "id": 139691000146114,
+        "conceptId": 265377002,
+        "term": "symptomatisch parkinsonisme",
+        "preferredTerm": "Symptomatic parkinsonism"
+    },
+    {
+        "id": 2973782014,
+        "conceptId": 698279003,
+        "term": "Dystonia musculorum deformans",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 2973788013,
+        "conceptId": 698279003,
+        "term": "Lubag",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 2973791013,
+        "conceptId": 698279003,
+        "term": "XDP - X-linked dystonia parkinsonism",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 2973794017,
+        "conceptId": 698279003,
+        "term": "X-linked torsion dystonia parkinsonism syndrome",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 2973799010,
+        "conceptId": 698279003,
+        "term": "X-linked dystonia parkinsonism",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 2973810017,
+        "conceptId": 698279003,
+        "term": "Torsion dystonia parkinsonism Filipino type",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 105611000146111,
+        "conceptId": 698279003,
+        "term": "dystonia musculorum deformans",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 139711000146111,
+        "conceptId": 698279003,
+        "term": "X-gebonden dystonie met parkinsonisme",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 139731000146116,
+        "conceptId": 698279003,
+        "term": "X-gebonden dystonie-parkinsonisme",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 139751000146110,
+        "conceptId": 698279003,
+        "term": "DYT3",
+        "preferredTerm": "X-linked dystonia parkinsonism"
+    },
+    {
+        "id": 3303570016,
+        "conceptId": 715737004,
+        "term": "Parkinsonism co-occurrent with dementia of Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 3303571017,
+        "conceptId": 715737004,
+        "term": "Parkinsonism with dementia of Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 139681000146112,
+        "conceptId": 715737004,
+        "term": "parkinsonisme met dementie van type Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 613341000146119,
+        "conceptId": 715737004,
+        "term": "parkinsonisme tegelijk optredend met dementie van type Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 7823201000146112,
+        "conceptId": 715737004,
+        "term": "parkinsonisme gelijktijdig met dementie van type Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 12744111000146118,
+        "conceptId": 715737004,
+        "term": "parkinsonisme gelijktijdig met dementie Guadeloupe-type",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 12744121000146111,
+        "conceptId": 715737004,
+        "term": "parkinsonisme tegelijk optredend met dementie type Guadeloupe",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 12744131000146113,
+        "conceptId": 715737004,
+        "term": "parkinsonisme met dementie Guadeloupe-type",
+        "preferredTerm": "Parkinsonism with dementia of Guadeloupe"
+    },
+    {
+        "id": 3302308016,
+        "conceptId": 715345007,
+        "term": "Young onset Parkinson disease",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 3302309012,
+        "conceptId": 715345007,
+        "term": "Young onset Parkinson's disease",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 3302310019,
+        "conceptId": 715345007,
+        "term": "Early onset Parkinson disease",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 3302311015,
+        "conceptId": 715345007,
+        "term": "Early onset Parkinson's disease",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 139761000146113,
+        "conceptId": 715345007,
+        "term": "ziekte van Parkinson beginnend op jonge leeftijd",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 613351000146116,
+        "conceptId": 715345007,
+        "term": "ziekte van Parkinson met vroege debuutleeftijd",
+        "preferredTerm": "Young onset Parkinson disease"
+    },
+    {
+        "id": 3304758012,
+        "conceptId": 716107009,
+        "term": "Early onset parkinsonism and intellectual disability syndrome",
+        "preferredTerm": "Early onset parkinsonism and intellectual disability syndrome"
+    },
+    {
+        "id": 3304759016,
+        "conceptId": 716107009,
+        "term": "Laxova Opitz syndrome",
+        "preferredTerm": "Early onset parkinsonism and intellectual disability syndrome"
+    },
+    {
+        "id": 3304760014,
+        "conceptId": 716107009,
+        "term": "Waisman syndrome",
+        "preferredTerm": "Early onset parkinsonism and intellectual disability syndrome"
+    },
+    {
+        "id": 139091000146118,
+        "conceptId": 716107009,
+        "term": "syndroom van vroeg beginnend parkinsonisme en verstandelijke beperking",
+        "preferredTerm": "Early onset parkinsonism and intellectual disability syndrome"
+    },
+    {
+        "id": 613321000146113,
+        "conceptId": 716107009,
+        "term": "syndroom van parkinsonisme met vroege debuutleeftijd en verstandelijke beperking",
+        "preferredTerm": "Early onset parkinsonism and intellectual disability syndrome"
+    },
+    {
+        "id": 3307126019,
+        "conceptId": 716662004,
+        "term": "Autosomal dominant late onset Parkinson disease",
+        "preferredTerm": "Autosomal dominant late onset Parkinson disease"
+    },
+    {
+        "id": 3307127011,
+        "conceptId": 716662004,
+        "term": "Hereditary late onset Parkinson disease",
+        "preferredTerm": "Autosomal dominant late onset Parkinson disease"
+    },
+    {
+        "id": 138941000146115,
+        "conceptId": 716662004,
+        "term": "autosomaal dominant overervende laat beginnende ziekte van Parkinson",
+        "preferredTerm": "Autosomal dominant late onset Parkinson disease"
+    },
+    {
+        "id": 613311000146115,
+        "conceptId": 716662004,
+        "term": "autosomaal dominant overervende ziekte van Parkinson met late debuutleeftijd",
+        "preferredTerm": "Autosomal dominant late onset Parkinson disease"
+    },
+    {
+        "id": 3320935018,
+        "conceptId": 720466001,
+        "term": "Adult-onset dystonia parkinsonism",
+        "preferredTerm": "Adult-onset dystonia parkinsonism"
+    },
+    {
+        "id": 3320936017,
+        "conceptId": 720466001,
+        "term": "Dystonia parkinsonism Paisan-Ruiz type",
+        "preferredTerm": "Adult-onset dystonia parkinsonism"
+    },
+    {
+        "id": 3320937014,
+        "conceptId": 720466001,
+        "term": "PLA2G6 (phospholipase A2 group VI) related dystonia parkinsonism",
+        "preferredTerm": "Adult-onset dystonia parkinsonism"
+    },
+    {
+        "id": 6462111000146112,
+        "conceptId": 720466001,
+        "term": "dystonie-parkinsonisme type Paisan-Ruiz",
+        "preferredTerm": "Adult-onset dystonia parkinsonism"
+    },
+    {
+        "id": 6835391000146114,
+        "conceptId": 720466001,
+        "term": "dystonie met parkinsonisme beginnend op volwassen leeftijd",
+        "preferredTerm": "Adult-onset dystonia parkinsonism"
+    },
+    {
+        "id": 3313002011,
+        "conceptId": 718685006,
+        "term": "Orthostatic hypotension co-occurrent and due to Parkinson's disease",
+        "preferredTerm": "Orthostatic hypotension co-occurrent and due to Parkinson's disease"
+    },
+    {
+        "id": 5011271000146112,
+        "conceptId": 718685006,
+        "term": "orthostatische hypotensie gelijktijdig met en door ziekte van Parkinson",
+        "preferredTerm": "Orthostatic hypotension co-occurrent and due to Parkinson's disease"
+    },
+    {
+        "id": 3317570011,
+        "conceptId": 719717006,
+        "term": "Psychosis co-occurrent and due to Parkinson's disease",
+        "preferredTerm": "Psychosis co-occurrent and due to Parkinson's disease"
+    },
+    {
+        "id": 6667981000146116,
+        "conceptId": 719717006,
+        "term": "psychose gelijktijdig met en door ziekte van Parkinson",
+        "preferredTerm": "Psychosis co-occurrent and due to Parkinson's disease"
+    },
+    {
+        "id": 3310404015,
+        "conceptId": 718174008,
+        "term": "Infantile striatonigral degeneration",
+        "preferredTerm": "Infantile striatonigral degeneration"
+    },
+    {
+        "id": 3311374010,
+        "conceptId": 718174008,
+        "term": "Infantile bilateral striatal necrosis",
+        "preferredTerm": "Infantile striatonigral degeneration"
+    },
+    {
+        "id": 139321000146119,
+        "conceptId": 718174008,
+        "term": "infantiele striatonigrale degeneratie",
+        "preferredTerm": "Infantile striatonigral degeneration"
+    },
+    {
+        "id": 139341000146113,
+        "conceptId": 718174008,
+        "term": "infantiele bilaterale striatale necrose",
+        "preferredTerm": "Infantile striatonigral degeneration"
+    },
+    {
+        "id": 3332844018,
+        "conceptId": 722599008,
+        "term": "Parkinsonism due to hereditary spastic paraplegia",
+        "preferredTerm": "Parkinsonism due to hereditary spastic paraplegia"
+    },
+    {
+        "id": 9404991000146116,
+        "conceptId": 722599008,
+        "term": "parkinsonisme door hereditaire spastische paraplegie",
+        "preferredTerm": "Parkinsonism due to hereditary spastic paraplegia"
+    },
+    {
+        "id": 10613981000146118,
+        "conceptId": 722599008,
+        "term": "parkinsonisme door hereditaire spastische paraparese",
+        "preferredTerm": "Parkinsonism due to hereditary spastic paraplegia"
+    },
+    {
+        "id": 2994982015,
+        "conceptId": 702323008,
+        "term": "Rapid onset dystonia parkinsonism",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 2995583010,
+        "conceptId": 702323008,
+        "term": "DYT12 - dystonia 12",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 2995824011,
+        "conceptId": 702323008,
+        "term": "Dystonia 12",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 6393751000146114,
+        "conceptId": 702323008,
+        "term": "dystonie met parkinsonisme met plotse aanvang",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 6393761000146112,
+        "conceptId": 702323008,
+        "term": "RDP",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 6727621000146113,
+        "conceptId": 702323008,
+        "term": "plotseling optredende dystonie met parkinsonisme",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 7742421000146112,
+        "conceptId": 702323008,
+        "term": "'rapid onset dystonia'-parkinsonisme",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 7742431000146114,
+        "conceptId": 702323008,
+        "term": "DYT-12",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 7742451000146115,
+        "conceptId": 702323008,
+        "term": "dystonieparkinsonisme met snelle aanvang",
+        "preferredTerm": "Rapid onset dystonia parkinsonism"
+    },
+    {
+        "id": 2982944012,
+        "conceptId": 699184009,
+        "term": "Perry syndrome",
+        "preferredTerm": "Perry syndrome"
+    },
+    {
+        "id": 2982953017,
+        "conceptId": 699184009,
+        "term": "Parkinsonism with alveolar hypoventilation and mental depression",
+        "preferredTerm": "Perry syndrome"
+    },
+    {
+        "id": 113361000146119,
+        "conceptId": 699184009,
+        "term": "parkinsonisme met alveolaire hypoventilatie en depressieve stoornis",
+        "preferredTerm": "Perry syndrome"
+    },
+    {
+        "id": 2674271013,
+        "conceptId": 427488005,
+        "term": "On - off phenomenon",
+        "preferredTerm": "On - off phenomenon"
+    },
+    {
+        "id": 139351000146111,
+        "conceptId": 427488005,
+        "term": "'on-off'-effect",
+        "preferredTerm": "On - off phenomenon"
+    },
+    {
+        "id": 139371000146115,
+        "conceptId": 427488005,
+        "term": "'on-off'-fenomeen",
+        "preferredTerm": "On - off phenomenon"
+    },
+    {
+        "id": 391731000146117,
+        "conceptId": 427488005,
+        "term": "motorische responsfluctuaties bij ziekte van Parkinson",
+        "preferredTerm": "On - off phenomenon"
+    },
+    {
+        "id": 3334046019,
+        "conceptId": 722965000,
+        "term": "Parkinsonism due to heredodegenerative disorder",
+        "preferredTerm": "Parkinsonism due to heredodegenerative disorder"
+    },
+    {
+        "id": 9405251000146119,
+        "conceptId": 722965000,
+        "term": "parkinsonisme door heredodegeneratieve aandoening",
+        "preferredTerm": "Parkinsonism due to heredodegenerative disorder"
+    },
+    {
+        "id": 3332720010,
+        "conceptId": 722558002,
+        "term": "Parkinsonism following infection",
+        "preferredTerm": "Parkinsonism following infection"
+    },
+    {
+        "id": 3332721014,
+        "conceptId": 722558002,
+        "term": "Post-infectious Parkinsonism",
+        "preferredTerm": "Parkinsonism following infection"
+    },
+    {
+        "id": 9405471000146111,
+        "conceptId": 722558002,
+        "term": "parkinsonisme na infectie",
+        "preferredTerm": "Parkinsonism following infection"
+    },
+    {
+        "id": 3445865016,
+        "conceptId": 724761004,
+        "term": "Sporadic Parkinson disease",
+        "preferredTerm": "Sporadic Parkinson disease"
+    },
+    {
+        "id": 10621111000146118,
+        "conceptId": 724761004,
+        "term": "sporadische vorm van paralysis agitans",
+        "preferredTerm": "Sporadic Parkinson disease"
+    },
+    {
+        "id": 10621131000146113,
+        "conceptId": 724761004,
+        "term": "sporadische vorm van ziekte van Parkinson",
+        "preferredTerm": "Sporadic Parkinson disease"
+    },
+    {
+        "id": 3441979018,
+        "conceptId": 725392005,
+        "term": "Autosomal dominant striatal neurodegeneration",
+        "preferredTerm": "Autosomal dominant striatal neurodegeneration"
+    },
+    {
+        "id": 3441980015,
+        "conceptId": 725392005,
+        "term": "ADSD - autosomal dominant striatal neurodegeneration",
+        "preferredTerm": "Autosomal dominant striatal neurodegeneration"
+    },
+    {
+        "id": 6699971000146114,
+        "conceptId": 725392005,
+        "term": "ADSD",
+        "preferredTerm": "Autosomal dominant striatal neurodegeneration"
+    },
+    {
+        "id": 6828081000146116,
+        "conceptId": 725392005,
+        "term": "autosomaal dominante striatale neurodegeneratie",
+        "preferredTerm": "Autosomal dominant striatal neurodegeneration"
+    },
+    {
+        "id": 3662968014,
+        "conceptId": 766872002,
+        "term": "Parkinsonism caused by cyanide",
+        "preferredTerm": "Parkinsonism caused by cyanide"
+    },
+    {
+        "id": 3662970017,
+        "conceptId": 766872002,
+        "term": "Cyanide-induced parkinsonism",
+        "preferredTerm": "Parkinsonism caused by cyanide"
+    },
+    {
+        "id": 9404801000146115,
+        "conceptId": 766872002,
+        "term": "parkinsonisme door cyanide",
+        "preferredTerm": "Parkinsonism caused by cyanide"
+    },
+    {
+        "id": 3334044016,
+        "conceptId": 722964001,
+        "term": "Atypical Parkinsonism",
+        "preferredTerm": "Atypical Parkinsonism"
+    },
+    {
+        "id": 9362051000146111,
+        "conceptId": 722964001,
+        "term": "atypisch parkinsonisme",
+        "preferredTerm": "Atypical Parkinsonism"
+    },
+    {
+        "id": 3332715010,
+        "conceptId": 722556003,
+        "term": "Parkinsonism co-occurrent and due to acute infection",
+        "preferredTerm": "Parkinsonism co-occurrent and due to acute infection"
+    },
+    {
+        "id": 3332716011,
+        "conceptId": 722556003,
+        "term": "Parkinsonism in acute infection",
+        "preferredTerm": "Parkinsonism co-occurrent and due to acute infection"
+    },
+    {
+        "id": 7948721000146113,
+        "conceptId": 722556003,
+        "term": "parkinsonisme gelijktijdig met en door acute infectieziekte",
+        "preferredTerm": "Parkinsonism co-occurrent and due to acute infection"
+    },
+    {
+        "id": 10467811000146110,
+        "conceptId": 722556003,
+        "term": "parkinsonisme gelijktijdig met en door acute infectie",
+        "preferredTerm": "Parkinsonism co-occurrent and due to acute infection"
+    },
+    {
+        "id": 3786138011,
+        "conceptId": 788911004,
+        "term": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 11738351000146114,
+        "conceptId": 788911004,
+        "term": "conversiestoornis gelijktijdig met parkinsonisme",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 11738361000146112,
+        "conceptId": 788911004,
+        "term": "FNSS gelijktijdig met parkinsonisme",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 11738371000146118,
+        "conceptId": 788911004,
+        "term": "DNSS gelijktijdig met parkinsonisme",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 11738381000146116,
+        "conceptId": 788911004,
+        "term": "functionele-neurologische-symptoomstoornis gelijktijdig met parkinsonisme",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 11738461000146117,
+        "conceptId": 788911004,
+        "term": "dissociatieve-neurologische-symptoomstoornis gelijktijdig met parkinsonisme",
+        "preferredTerm": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism"
+    },
+    {
+        "id": 3702479016,
+        "conceptId": 770757004,
+        "term": "X-linked parkinsonism with spasticity syndrome",
+        "preferredTerm": "X-linked parkinsonism with spasticity syndrome"
+    },
+    {
+        "id": 3702480018,
+        "conceptId": 770757004,
+        "term": "XPDS - X-linked parkinsonism with spasticity syndrome",
+        "preferredTerm": "X-linked parkinsonism with spasticity syndrome"
+    },
+    {
+        "id": 6176271000146115,
+        "conceptId": 770757004,
+        "term": "X-gebonden parkinsonisme-spasticiteit-syndroom",
+        "preferredTerm": "X-linked parkinsonism with spasticity syndrome"
+    },
+    {
+        "id": 6176291000146116,
+        "conceptId": 770757004,
+        "term": "XPDS",
+        "preferredTerm": "X-linked parkinsonism with spasticity syndrome"
+    },
+    {
+        "id": 6686311000146113,
+        "conceptId": 770757004,
+        "term": "syndroom van X-gebonden parkinsonisme met spasticiteit",
+        "preferredTerm": "X-linked parkinsonism with spasticity syndrome"
+    },
+    {
+        "id": 4213399012,
+        "conceptId": 1010642001,
+        "term": "Sporadic infantile bilateral striatal necrosis",
+        "preferredTerm": "Sporadic infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 12134091000146117,
+        "conceptId": 1010642001,
+        "term": "sporadische infantiele bilaterale striatale necrose",
+        "preferredTerm": "Sporadic infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 12134101000146112,
+        "conceptId": 1010642001,
+        "term": "sporadische infantiele striatonigrale degeneratie",
+        "preferredTerm": "Sporadic infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 4643989011,
+        "conceptId": 1176991004,
+        "term": "Parkinsonism following Mycoplasma infection",
+        "preferredTerm": "Parkinsonism following Mycoplasma infection"
+    },
+    {
+        "id": 13273131000146114,
+        "conceptId": 1176991004,
+        "term": "parkinsonisme na infectie door Mycoplasma",
+        "preferredTerm": "Parkinsonism following Mycoplasma infection"
+    },
+    {
+        "id": 4964752019,
+        "conceptId": 1208478005,
+        "term": "Familial infantile bilateral striatal necrosis",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 4964754018,
+        "conceptId": 1208478005,
+        "term": "Familial infantile striatonigral necrosis",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 4964755017,
+        "conceptId": 1208478005,
+        "term": "Familial infantile striatonigral degeneration",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 4964756016,
+        "conceptId": 1208478005,
+        "term": "Familial IBSN (infantile bilateral striatal necrosis)",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 13607781000146112,
+        "conceptId": 1208478005,
+        "term": "familiale infantiele striatonigrale degeneratie",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 13607791000146114,
+        "conceptId": 1208478005,
+        "term": "familiaire infantiele bilaterale striatale necrose",
+        "preferredTerm": "Familial infantile bilateral striatal necrosis"
+    },
+    {
+        "id": 5068829019,
+        "conceptId": 1230308005,
+        "term": "Off-periods in Parkinson disease not responding to oral treatment",
+        "preferredTerm": "Off-periods in Parkinson disease not responding to oral treatment"
+    },
+    {
+        "id": 5068831011,
+        "conceptId": 1230308005,
+        "term": "Off-episodes in Parkinson's disease not responding to oral treatment",
+        "preferredTerm": "Off-periods in Parkinson disease not responding to oral treatment"
+    },
+    {
+        "id": 13928231000146110,
+        "conceptId": 1230308005,
+        "term": "'off'-periode bij ziekte van Parkinson niet reagerend op orale behandeling",
+        "preferredTerm": "Off-periods in Parkinson disease not responding to oral treatment"
+    },
+    {
+        "id": 13928251000146116,
+        "conceptId": 1230308005,
+        "term": "orale-therapieresistente 'off'-episode bij ziekte van Parkinson",
+        "preferredTerm": "Off-periods in Parkinson disease not responding to oral treatment"
+    },
+    {
+        "id": 4578683018,
+        "conceptId": 1156764005,
+        "term": "Progressive supranuclear palsy parkinsonism syndrome",
+        "preferredTerm": "Progressive supranuclear palsy parkinsonism syndrome"
+    },
+    {
+        "id": 13056081000146112,
+        "conceptId": 1156764005,
+        "term": "progressief syndroom van supranucleaire paralyse en parkinsonisme",
+        "preferredTerm": "Progressive supranuclear palsy parkinsonism syndrome"
+    },
+    {
+        "id": 13068461000146116,
+        "conceptId": 1156764005,
+        "term": "PSP en parkinsonisme",
+        "preferredTerm": "Progressive supranuclear palsy parkinsonism syndrome"
+    },
+    {
+        "id": 13068471000146110,
+        "conceptId": 1156764005,
+        "term": "progressieve supranucleaire paralyse en parkinsonisme",
+        "preferredTerm": "Progressive supranuclear palsy parkinsonism syndrome"
+    },
+    {
+        "id": 13068491000146114,
+        "conceptId": 1156764005,
+        "term": "progressieve supranucleaire parese en parkinsonisme",
+        "preferredTerm": "Progressive supranuclear palsy parkinsonism syndrome"
+    },
+    {
+        "id": 4576267016,
+        "conceptId": 1156822001,
+        "term": "Autosomal recessive familial Parkinson disease",
+        "preferredTerm": "Autosomal recessive familial Parkinson disease"
+    },
+    {
+        "id": 12891741000146110,
+        "conceptId": 1156822001,
+        "term": "autosomaal recessieve familiaire ziekte van Parkinson",
+        "preferredTerm": "Autosomal recessive familial Parkinson disease"
+    },
+    {
+        "id": 4643050019,
+        "conceptId": 1176989007,
+        "term": "Parkinsonism due to prion disease",
+        "preferredTerm": "Parkinsonism due to prion disease"
+    },
+    {
+        "id": 13273111000146119,
+        "conceptId": 1176989007,
+        "term": "parkinsonisme door prionziekte",
+        "preferredTerm": "Parkinsonism due to prion disease"
+    },
+    {
+        "id": 4667718011,
+        "conceptId": 1186798007,
+        "term": "Parkinsonism caused by pesticide",
+        "preferredTerm": "Pesticide-induced Parkinsonism"
+    },
+    {
+        "id": 4667719015,
+        "conceptId": 1186798007,
+        "term": "Pesticide-induced Parkinsonism",
+        "preferredTerm": "Pesticide-induced Parkinsonism"
+    },
+    {
+        "id": 13273021000146113,
+        "conceptId": 1186798007,
+        "term": "parkinsonisme door pesticide",
+        "preferredTerm": "Pesticide-induced Parkinsonism"
+    },
+    {
+        "id": 13273031000146110,
+        "conceptId": 1186798007,
+        "term": "parkinsonisme door verdelgingsmiddel",
+        "preferredTerm": "Pesticide-induced Parkinsonism"
+    },
+    {
+        "id": 4667801016,
+        "conceptId": 1186836002,
+        "term": "Parkinsonism caused by toxin",
+        "preferredTerm": "Toxin-induced parkinsonism"
+    },
+    {
+        "id": 4668472017,
+        "conceptId": 1186836002,
+        "term": "Toxin-induced parkinsonism",
+        "preferredTerm": "Toxin-induced parkinsonism"
+    },
+    {
+        "id": 13273091000146111,
+        "conceptId": 1186836002,
+        "term": "parkinsonisme door gif",
+        "preferredTerm": "Toxin-induced parkinsonism"
+    },
+    {
+        "id": 13297711000146118,
+        "conceptId": 1186836002,
+        "term": "parkinsonisme door gifstof",
+        "preferredTerm": "Toxin-induced parkinsonism"
+    },
+    {
+        "id": 13297721000146111,
+        "conceptId": 1186836002,
+        "term": "parkinsonisme door toxine",
+        "preferredTerm": "Toxin-induced parkinsonism"
+    },
+    {
+        "id": 5158565019,
+        "conceptId": 1259121008,
+        "term": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of West New Guinea",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of West New Guinea"
+    },
+    {
+        "id": 14112821000146118,
+        "conceptId": 1259121008,
+        "term": "amyotrofische laterale sclerose met parkinsonisme-dementiecomplex van westelijk Papoea-Nieuw-Guinea",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of West New Guinea"
+    },
+    {
+        "id": 14112831000146116,
+        "conceptId": 1259121008,
+        "term": "ALS met parkinsonisme-dementiecomplex van westelijk Papoea-Nieuw-Guinea",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of West New Guinea"
+    },
+    {
+        "id": 5066422014,
+        "conceptId": 1230018005,
+        "term": "Corticobasal syndrome",
+        "preferredTerm": "Corticobasal syndrome"
+    },
+    {
+        "id": 13596941000146113,
+        "conceptId": 1230018005,
+        "term": "corticobasaal syndroom",
+        "preferredTerm": "Corticobasal syndrome"
+    },
+    {
+        "id": 13596951000146111,
+        "conceptId": 1230018005,
+        "term": "CBS",
+        "preferredTerm": "Corticobasal syndrome"
+    },
+    {
+        "id": 5156364014,
+        "conceptId": 1259123006,
+        "term": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula"
+    },
+    {
+        "id": 14096101000146112,
+        "conceptId": 1259123006,
+        "term": "amyotrofische laterale sclerose met parkinsonisme-dementiecomplex van Kii Peninsula",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula"
+    },
+    {
+        "id": 14096111000146114,
+        "conceptId": 1259123006,
+        "term": "Kii-ALS-PDC",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula"
+    },
+    {
+        "id": 14096121000146116,
+        "conceptId": 1259123006,
+        "term": "ALS met parkinsonisme-dementiecomplex zoals beschreven op Kii Peninsula",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex of Kii Peninsula"
+    },
+    {
+        "id": 5160277014,
+        "conceptId": 1260379008,
+        "term": "Parkinsonism caused by dopamine blocking agent",
+        "preferredTerm": "Parkinsonism caused by dopamine receptor antagonist"
+    },
+    {
+        "id": 5160279012,
+        "conceptId": 1260379008,
+        "term": "Dopamine receptor antagonist-induced parkinsonism",
+        "preferredTerm": "Parkinsonism caused by dopamine receptor antagonist"
+    },
+    {
+        "id": 5160346014,
+        "conceptId": 1260379008,
+        "term": "Parkinsonism caused by dopamine receptor antagonist",
+        "preferredTerm": "Parkinsonism caused by dopamine receptor antagonist"
+    },
+    {
+        "id": 14275011000146117,
+        "conceptId": 1260379008,
+        "term": "parkinsonisme door dopaminereceptorantagonist",
+        "preferredTerm": "Parkinsonism caused by dopamine receptor antagonist"
+    },
+    {
+        "id": 5160283012,
+        "conceptId": 1260381005,
+        "term": "Dopamine depleting agent-induced parkinsonism",
+        "preferredTerm": "Parkinsonism caused by dopamine depleting agent"
+    },
+    {
+        "id": 5160284018,
+        "conceptId": 1260381005,
+        "term": "Parkinsonism caused by dopamine depleting agent",
+        "preferredTerm": "Parkinsonism caused by dopamine depleting agent"
+    },
+    {
+        "id": 14276551000146119,
+        "conceptId": 1260381005,
+        "term": "parkinsonisme door dopamine-verbruikend middel",
+        "preferredTerm": "Parkinsonism caused by dopamine depleting agent"
+    },
+    {
+        "id": 14276571000146110,
+        "conceptId": 1260381005,
+        "term": "parkinsonisme door depletie van dopamine door middel",
+        "preferredTerm": "Parkinsonism caused by dopamine depleting agent"
+    },
+    {
+        "id": 5155718010,
+        "conceptId": 1259122001,
+        "term": "Amyotrophic lateral sclerosis with parkinsonism",
+        "preferredTerm": "Amyotrophic lateral sclerosis with parkinsonism"
+    },
+    {
+        "id": 14096661000146115,
+        "conceptId": 1259122001,
+        "term": "amyotrofische laterale sclerose met parkinsonisme",
+        "preferredTerm": "Amyotrophic lateral sclerosis with parkinsonism"
+    },
+    {
+        "id": 14096681000146111,
+        "conceptId": 1259122001,
+        "term": "ALS met parkinsonisme",
+        "preferredTerm": "Amyotrophic lateral sclerosis with parkinsonism"
+    },
+    {
+        "id": 3968817019,
+        "conceptId": 870288002,
+        "term": "Methanol-induced Parkinsonism",
+        "preferredTerm": "Parkinsonism caused by methanol"
+    },
+    {
+        "id": 3968818012,
+        "conceptId": 870288002,
+        "term": "Parkinsonism caused by methanol",
+        "preferredTerm": "Parkinsonism caused by methanol"
+    },
+    {
+        "id": 10746401000146114,
+        "conceptId": 870288002,
+        "term": "parkinsonisme door methanol",
+        "preferredTerm": "Parkinsonism caused by methanol"
+    },
+    {
+        "id": 10746411000146111,
+        "conceptId": 870288002,
+        "term": "parkinsonisme door methylalcohol",
+        "preferredTerm": "Parkinsonism caused by methanol"
+    },
+    {
+        "id": 3968835011,
+        "conceptId": 870295006,
+        "term": "Parkinsonism caused by carbon disulfide",
+        "preferredTerm": "Parkinsonism caused by carbon disulfide"
+    },
+    {
+        "id": 3968836012,
+        "conceptId": 870295006,
+        "term": "Parkinsonism caused by carbon disulphide",
+        "preferredTerm": "Parkinsonism caused by carbon disulfide"
+    },
+    {
+        "id": 10746391000146111,
+        "conceptId": 870295006,
+        "term": "parkinsonisme door koolstofdisulfide",
+        "preferredTerm": "Parkinsonism caused by carbon disulfide"
+    },
+    {
+        "id": 10769121000146112,
+        "conceptId": 870295006,
+        "term": "parkinsonisme door zwavelkoolstof",
+        "preferredTerm": "Parkinsonism caused by carbon disulfide"
+    },
+    {
+        "id": 3757140019,
+        "conceptId": 783012006,
+        "term": "Pallidopyramidal syndrome",
+        "preferredTerm": "Parkinsonian pyramidal syndrome"
+    },
+    {
+        "id": 3757141015,
+        "conceptId": 783012006,
+        "term": "Parkinsonian pyramidal syndrome",
+        "preferredTerm": "Parkinsonian pyramidal syndrome"
+    },
+    {
+        "id": 9404771000146118,
+        "conceptId": 783012006,
+        "term": "pallidopiramidaal syndroom",
+        "preferredTerm": "Parkinsonian pyramidal syndrome"
+    },
+    {
+        "id": 9404781000146116,
+        "conceptId": 783012006,
+        "term": "Parkinson-piramidaal syndroom",
+        "preferredTerm": "Parkinsonian pyramidal syndrome"
+    },
+    {
+        "id": 10664261000146118,
+        "conceptId": 783012006,
+        "term": "PPS",
+        "preferredTerm": "Parkinsonian pyramidal syndrome"
+    },
+    {
+        "id": 3791224013,
+        "conceptId": 789657008,
+        "term": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 3791225014,
+        "conceptId": 789657008,
+        "term": "Juvenile parkinsonism, neuronal ceroid lipofuscinosis",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 3791227018,
+        "conceptId": 789657008,
+        "term": "CLN12 disease",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 10142441000146118,
+        "conceptId": 789657008,
+        "term": "'ATPase cation transporting 13A2'-gerelateerde juveniele neuronale cero\u00efdlipofuscinose",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 10142461000146117,
+        "conceptId": 789657008,
+        "term": "ATP13A2-gerelateerde juveniele neuronale cero\u00efdlipofuscinose",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 10142471000146111,
+        "conceptId": 789657008,
+        "term": "ATP13A2-gerelateerde ziekte van Batten-Spielmeyer-Vogt",
+        "preferredTerm": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis"
+    },
+    {
+        "id": 3896344017,
+        "conceptId": 838276009,
+        "term": "Amyotrophic lateral sclerosis, parkinsonism, dementia of Guam syndrome",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 3896345016,
+        "conceptId": 838276009,
+        "term": "Guam disease",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 3896346015,
+        "conceptId": 838276009,
+        "term": "Lytico Bodig disease",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 3896348019,
+        "conceptId": 838276009,
+        "term": "PDALS (parkinsonism, dementia, amyotrophic lateral sclerosis) complex",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 3896351014,
+        "conceptId": 838276009,
+        "term": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 10766811000146115,
+        "conceptId": 838276009,
+        "term": "complex van amyotrofische laterale sclerose, parkinsonisme en dementie",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 10862291000146110,
+        "conceptId": 838276009,
+        "term": "lytico-bodig",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 10862301000146114,
+        "conceptId": 838276009,
+        "term": "ALS-PD-complex van Guam",
+        "preferredTerm": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+    },
+    {
+        "id": 3332718012,
+        "conceptId": 722557007,
+        "term": "Parkinsonism due to human immunodeficiency virus infection",
+        "preferredTerm": "Parkinsonism due to human immunodeficiency virus infection"
+    },
+    {
+        "id": 8515841000146112,
+        "conceptId": 722557007,
+        "term": "parkinsonisme door infectie met humaan immunodefici\u00ebntievirus",
+        "preferredTerm": "Parkinsonism due to human immunodeficiency virus infection"
+    },
+    {
+        "id": 8515851000146110,
+        "conceptId": 722557007,
+        "term": "parkinsonisme door HIV-infectie",
+        "preferredTerm": "Parkinsonism due to human immunodeficiency virus infection"
+    },
+    {
+        "id": 3333388012,
+        "conceptId": 722763000,
+        "term": "Dopamine transporter deficiency syndrome",
+        "preferredTerm": "Dopamine transporter deficiency syndrome"
+    },
+    {
+        "id": 3333389016,
+        "conceptId": 722763000,
+        "term": "Infantile dystonia parkinsonism",
+        "preferredTerm": "Dopamine transporter deficiency syndrome"
+    },
+    {
+        "id": 3333390013,
+        "conceptId": 722763000,
+        "term": "Parkinsonism-dystonia infantile",
+        "preferredTerm": "Dopamine transporter deficiency syndrome"
+    },
+    {
+        "id": 6393781000146116,
+        "conceptId": 722763000,
+        "term": "infantiele dystonie met parkinsonisme",
+        "preferredTerm": "Dopamine transporter deficiency syndrome"
+    },
+    {
+        "id": 3439217017,
+        "conceptId": 724546003,
+        "term": "Infection causing parkinsonism",
+        "preferredTerm": "Infection causing parkinsonism"
+    },
+    {
+        "id": 3439218010,
+        "conceptId": 724546003,
+        "term": "Infectious parkinsonism",
+        "preferredTerm": "Infection causing parkinsonism"
+    },
+    {
+        "id": 8514681000146117,
+        "conceptId": 724546003,
+        "term": "parkinsonisme door infectieziekte",
+        "preferredTerm": "Infection causing parkinsonism"
+    },
+    {
+        "id": 8514701000146115,
+        "conceptId": 724546003,
+        "term": "parkinsonisme door infectie",
+        "preferredTerm": "Infection causing parkinsonism"
+    },
+    {
+        "id": 3449584016,
+        "conceptId": 724763001,
+        "term": "Parkinsonism due to mass lesion of brain",
+        "preferredTerm": "Parkinsonism due to mass lesion of brain"
+    },
+    {
+        "id": 10613991000146116,
+        "conceptId": 724763001,
+        "term": "parkinsonisme door RIP in hersenen",
+        "preferredTerm": "Parkinsonism due to mass lesion of brain"
+    },
+    {
+        "id": 10614001000146113,
+        "conceptId": 724763001,
+        "term": "parkinsonisme door ruimte-innemend proces in hersenen",
+        "preferredTerm": "Parkinsonism due to mass lesion of brain"
+    },
+    {
+        "id": 3439451016,
+        "conceptId": 725146001,
+        "term": "Atypical juvenile parkinsonism",
+        "preferredTerm": "Atypical juvenile parkinsonism"
+    },
+    {
+        "id": 8150291000146111,
+        "conceptId": 725146001,
+        "term": "atypisch juveniel parkinsonisme",
+        "preferredTerm": "Atypical juvenile parkinsonism"
+    },
+    {
+        "id": 8150311000146112,
+        "conceptId": 725146001,
+        "term": "atypisch parkinsonisme op puberleeftijd",
+        "preferredTerm": "Atypical juvenile parkinsonism"
+    },
+    {
+        "id": 8150321000146119,
+        "conceptId": 725146001,
+        "term": "atypisch parkinsonisme op kinderleeftijd",
+        "preferredTerm": "Atypical juvenile parkinsonism"
+    },
+    {
+        "id": 3428339018,
+        "conceptId": 723992000,
+        "term": "Kufor Rakeb syndrome",
+        "preferredTerm": "Kufor Rakeb syndrome"
+    },
+    {
+        "id": 3428340016,
+        "conceptId": 723992000,
+        "term": "PARK9 - Parkinson disease 9",
+        "preferredTerm": "Kufor Rakeb syndrome"
+    },
+    {
+        "id": 3428341017,
+        "conceptId": 723992000,
+        "term": "Parkinson disease 9",
+        "preferredTerm": "Kufor Rakeb syndrome"
+    },
+    {
+        "id": 6455621000146111,
+        "conceptId": 723992000,
+        "term": "syndroom van Kufor-Rakeb",
+        "preferredTerm": "Kufor Rakeb syndrome"
+    },
+    {
+        "id": 10669261000146119,
+        "conceptId": 723992000,
+        "term": "Kufor-Rakeb-syndroom",
+        "preferredTerm": "Kufor Rakeb syndrome"
+    },
+    {
+        "id": 3445870011,
+        "conceptId": 724762006,
+        "term": "Parkinsonism due to and following injury of head",
+        "preferredTerm": "Parkinsonism due to and following injury of head"
+    },
+    {
+        "id": 3445871010,
+        "conceptId": 724762006,
+        "term": "Post-traumatic parkinsonism",
+        "preferredTerm": "Parkinsonism due to and following injury of head"
+    },
+    {
+        "id": 10613931000146117,
+        "conceptId": 724762006,
+        "term": "posttraumatisch parkinsonisme",
+        "preferredTerm": "Parkinsonism due to and following injury of head"
+    },
+    {
+        "id": 10613951000146111,
+        "conceptId": 724762006,
+        "term": "parkinsonisme door en volgend op hoofdletsel",
+        "preferredTerm": "Parkinsonism due to and following injury of head"
+    },
+    {
+        "id": 10613961000146114,
+        "conceptId": 724762006,
+        "term": "parkinsonisme door en volgend op letsel van hoofd",
+        "preferredTerm": "Parkinsonism due to and following injury of head"
+    },
+    {
+        "id": 3449846015,
+        "conceptId": 724823008,
+        "term": "Functional parkinsonism",
+        "preferredTerm": "Functional parkinsonism"
+    },
+    {
+        "id": 9387941000146111,
+        "conceptId": 724823008,
+        "term": "functioneel parkinsonisme",
+        "preferredTerm": "Functional parkinsonism"
+    },
+    {
+        "id": 10923651000146114,
+        "conceptId": 724823008,
+        "term": "psychogeen parkinsonisme",
+        "preferredTerm": "Functional parkinsonism"
+    },
+    {
+        "id": 3528396015,
+        "conceptId": 737582007,
+        "term": "Hemiparkinsonism hemiatrophy syndrome",
+        "preferredTerm": "Hemiparkinsonism hemiatrophy syndrome"
+    },
+    {
+        "id": 9388831000146112,
+        "conceptId": 737582007,
+        "term": "syndroom van hemiparkinsonisme en hemiatrofie",
+        "preferredTerm": "Hemiparkinsonism hemiatrophy syndrome"
+    },
+    {
+        "id": 120563015,
+        "conceptId": 72585000,
+        "term": "Parkinsonian syndrome associated with idiopathic orthostatic hypotension",
+        "preferredTerm": "Parkinsonian syndrome with idiopathic orthostatic hypotension"
+    },
+    {
+        "id": 120564014,
+        "conceptId": 72585000,
+        "term": "Parkinsonian syndrome associated with symptomatic orthostatic hypotension",
+        "preferredTerm": "Parkinsonian syndrome with idiopathic orthostatic hypotension"
+    },
+    {
+        "id": 4550424016,
+        "conceptId": 72585000,
+        "term": "Parkinsonian syndrome with idiopathic orthostatic hypotension",
+        "preferredTerm": "Parkinsonian syndrome with idiopathic orthostatic hypotension"
+    },
+    {
+        "id": 663851000146113,
+        "conceptId": 72585000,
+        "term": "parkinsonisme bij idiopathische orthostatische hypotensie",
+        "preferredTerm": "Parkinsonian syndrome with idiopathic orthostatic hypotension"
+    },
+    {
+        "id": 120954010,
+        "conceptId": 72820004,
+        "term": "Neuroleptic-induced Parkinsonism",
+        "preferredTerm": "Neuroleptic-induced parkinsonism"
+    },
+    {
+        "id": 1233538015,
+        "conceptId": 72820004,
+        "term": "Neuroleptic-induced parkinsonism",
+        "preferredTerm": "Neuroleptic-induced parkinsonism"
+    },
+    {
+        "id": 3901962018,
+        "conceptId": 72820004,
+        "term": "Parkinsonism caused by neuroleptic drug",
+        "preferredTerm": "Neuroleptic-induced parkinsonism"
+    },
+    {
+        "id": 113341000146115,
+        "conceptId": 72820004,
+        "term": "parkinsonisme door neuroleptica",
+        "preferredTerm": "Neuroleptic-induced parkinsonism"
+    },
+    {
+        "id": 13095601000146111,
+        "conceptId": 72820004,
+        "term": "parkinsonisme door antipsychoticum",
+        "preferredTerm": "Neuroleptic-induced parkinsonism"
+    },
+    {
+        "id": 81717011,
+        "conceptId": 49049000,
+        "term": "Parkinson's disease",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 81718018,
+        "conceptId": 49049000,
+        "term": "Parkinson's disease, NOS",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 81719014,
+        "conceptId": 49049000,
+        "term": "Paralysis agitans",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 81720015,
+        "conceptId": 49049000,
+        "term": "Idiopathic parkinsonism",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 81721016,
+        "conceptId": 49049000,
+        "term": "Primary parkinsonism",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 81722011,
+        "conceptId": 49049000,
+        "term": "Shaking palsy",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 1230677014,
+        "conceptId": 49049000,
+        "term": "Idiopathic Parkinson's disease",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 1230678016,
+        "conceptId": 49049000,
+        "term": "Parkinson disease",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 1230679012,
+        "conceptId": 49049000,
+        "term": "PD - Parkinson's disease",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 2920648011,
+        "conceptId": 49049000,
+        "term": "Parkinsons disease",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 3014123010,
+        "conceptId": 49049000,
+        "term": "Primary Parkinsonism",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 3014178016,
+        "conceptId": 49049000,
+        "term": "Idiopathic Parkinsonism",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 87601000146114,
+        "conceptId": 49049000,
+        "term": "ziekte van Parkinson",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 87611000146111,
+        "conceptId": 49049000,
+        "term": "paralysis agitans",
+        "preferredTerm": "Parkinson's disease"
+    },
+    {
+        "id": 26750019,
+        "conceptId": 15782007,
+        "term": "MPTP-induced parkinsonism",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 1221232016,
+        "conceptId": 15782007,
+        "term": "MPTP - Methylphenyltetrahydropyridine-induced parkinsonism",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 1221233014,
+        "conceptId": 15782007,
+        "term": "Methylphenyltetrahydropyridine-induced parkinsonism",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 2619119010,
+        "conceptId": 15782007,
+        "term": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced parkinsonism",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 2914331016,
+        "conceptId": 15782007,
+        "term": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced parkinsonism",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 113301000146118,
+        "conceptId": 15782007,
+        "term": "MPTP-parkinsonisme",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 113311000146116,
+        "conceptId": 15782007,
+        "term": "parkinsonisme door 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine [MPTP]",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 728481000146111,
+        "conceptId": 15782007,
+        "term": "parkinsonisme door 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 13290481000146115,
+        "conceptId": 15782007,
+        "term": "parkinsonisme door 1-methyl-4-fenyl-1,2,3,6-tetrahydropyridine",
+        "preferredTerm": "MPTP-induced parkinsonism"
+    },
+    {
+        "id": 33622011,
+        "conceptId": 19972008,
+        "term": "Postencephalitic parkinsonism",
+        "preferredTerm": "Postencephalitic parkinsonism"
+    },
+    {
+        "id": 87621000146118,
+        "conceptId": 19972008,
+        "term": "postencefalitisch parkinsonisme",
+        "preferredTerm": "Postencephalitic parkinsonism"
+    },
+    {
+        "id": 49542018,
+        "conceptId": 29618004,
+        "term": "Striatonigral degeneration",
+        "preferredTerm": "Striatonigral degeneration"
+    },
+    {
+        "id": 49543011,
+        "conceptId": 29618004,
+        "term": "Striatonigral atrophy",
+        "preferredTerm": "Striatonigral degeneration"
+    },
+    {
+        "id": 1226379015,
+        "conceptId": 29618004,
+        "term": "SND - Striatonigral degeneration",
+        "preferredTerm": "Striatonigral degeneration"
+    },
+    {
+        "id": 5094471000146112,
+        "conceptId": 29618004,
+        "term": "striatonigrale degeneratie",
+        "preferredTerm": "Striatonigral degeneration"
+    },
+    {
+        "id": 5094491000146111,
+        "conceptId": 29618004,
+        "term": "bilaterale striatale necrose",
+        "preferredTerm": "Striatonigral degeneration"
+    },
+    {
+        "id": 8118011,
+        "conceptId": 4223005,
+        "term": "Parkinsonism due to drug",
+        "preferredTerm": "Parkinsonism due to drug"
+    },
+    {
+        "id": 3293904015,
+        "conceptId": 4223005,
+        "term": "Parkinsonism caused by drug",
+        "preferredTerm": "Parkinsonism due to drug"
+    },
+    {
+        "id": 2603631000146117,
+        "conceptId": 4223005,
+        "term": "parkinsonisme door geneesmiddel",
+        "preferredTerm": "Parkinsonism due to drug"
+    },
+    {
+        "id": 2612971000146119,
+        "conceptId": 4223005,
+        "term": "medicatiege\u00efnduceerd parkinsonisme",
+        "preferredTerm": "Parkinsonism due to drug"
+    },
+    {
+        "id": 4356491000146115,
+        "conceptId": 4223005,
+        "term": "parkinsonisme door geneesmiddelgebruik",
+        "preferredTerm": "Parkinsonism due to drug"
+    },
+    {
+        "id": 54747017,
+        "conceptId": 32798002,
+        "term": "Parkinsonism",
+        "preferredTerm": "Parkinsonism"
+    },
+    {
+        "id": 54748010,
+        "conceptId": 32798002,
+        "term": "Parkinsonism, NOS",
+        "preferredTerm": "Parkinsonism"
+    },
+    {
+        "id": 485326018,
+        "conceptId": 32798002,
+        "term": "Disorders presenting primarily with parkinsonism",
+        "preferredTerm": "Parkinsonism"
+    },
+    {
+        "id": 30501000146115,
+        "conceptId": 32798002,
+        "term": "parkinsonisme",
+        "preferredTerm": "Parkinsonism"
+    },
+    {
+        "id": 64875013,
+        "conceptId": 38523005,
+        "term": "Syphilitic parkinsonism",
+        "preferredTerm": "Syphilitic parkinsonism"
+    },
+    {
+        "id": 113351000146117,
+        "conceptId": 38523005,
+        "term": "parkinsonisme door syfilis",
+        "preferredTerm": "Syphilitic parkinsonism"
+    }
+]
