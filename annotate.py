@@ -1,6 +1,5 @@
 import pandas as pd
 from pathlib import Path
-import re
 from tqdm import tqdm
 from dotenv import load_dotenv
 import os
@@ -58,11 +57,11 @@ def annotate():
     print('loading model')
     model_location = os.getenv('MODEL_PATH')
     mymodel = CAT.load_model_pack(model_location)
-
-    print('test model')
-    print(mymodel.get_entities('media infarct'))
-
     
+    
+    # fix spelling 
+    mymodel = CAT.load_model_pack('../models/20240603_d4ce199c05d6c6ca.zip')
+
     print('start annotation')
     results = mymodel.multiprocessing_batch_char_size(tqdm(generator, total=df.shape[0]),  # Formatted data
                                                 batch_size_chars = batch_size_chars,

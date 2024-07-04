@@ -18,7 +18,7 @@ def replace_abbreviations_dataframe(df:pd.DataFrame, abbr_list) -> pd.DataFrame:
 
         flags = re.IGNORECASE if ignore_case else 0
 
-        pattern2 = r'(^|\s){}([.><+]|\s|$)'.format(re.escape(abbreviation))
+        pattern2 = r'(^|\s){}([.><+-:)]|\s|$)'.format(re.escape(abbreviation))
         # replacement = 'XXX'
         df['diagn_proc'] = df['diagn_proc'].progress_apply(lambda t: re.sub(pattern2,rf'\1{replacement}\2',t,flags=flags))
         

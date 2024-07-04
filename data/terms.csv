@@ -138,7 +138,7 @@ DB,distantia biparietalis,,enable,False
 DBC,Diagnose Behandel Combinatie,,enable,False
 DC,Decompensatie Cordis,,enable,False
 DCD,developmental coordination disorder,,enable,False
-DD,Differentiaal diagnose,,enable,False
+DD,Differentiaal diagnose,,enable,True
 DHI,Duizeligheid Handicap Inventarisatie,,enable,False
 DHS,Dynamic Hip Screw,,enable,False
 DIAS,Diagnostisch Instrument voor Apraxie van de Spraak,,enable,False

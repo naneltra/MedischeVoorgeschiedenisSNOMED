@@ -2,11 +2,9 @@ import pandas as pd
 from pathlib import Path
 import re
 from tqdm import tqdm
-from vumc import plot_compare, vumc_mapping, snomed_mapping
+from vumc import plot_compare, snomed_mapping
 from dotenv import load_dotenv
-import os
 import typer
-from medcat.cat import CAT
 
 tqdm.pandas(desc="processing vumc dataextract")
 load_dotenv()
@@ -37,25 +35,6 @@ def load_data():
     # df = df.set_index('id')
     df = df.loc[~df['text'].isna()]
     return df
-
-
-##############################################
-##      GET ANNOTATED DATA
-##############################################
-
-
-df = pd.read_parquet('./data/output.parquet.gzip')
-df.shape
-# df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
-df.to_parquet('./data/output.parquet.gzip',compression='gzip')
-
-    # df_backup = df.copy()
-    # df_backup.head()
-    # df = df_backup
-
-
-
-
 
 
 ##############################################
@@ -100,91 +79,15 @@ def top_20(df):
     df.explode('afwijkendemorfologien')['afwijkendemorfologien'].value_counts().head(20)
 
 
-
-
-
-
-
-
-##############################################
-##      NORMALISING ABBREVATIONS
-##############################################
-
-def basic_normalising():
-    df['text'] = df['text'].str.replace('##','fracturen')
-    df['text'] = df['text'].str.replace('#','fractuur')
-    df['text'] = df['text'].str.replace('=a','is aangevraagd')
-    df['text'] = df['text'].str.lower()
-    df['text'] = df['text'].str.strip()
-    df['text'] = df['text'].str.replace('[^\w\s]',' ',regex=True)
-
-def count_term(txt, abbr: str, ignore_case = False):
-    abbr = re.escape(abbr)
-    if ignore_case:
-        return len(re.findall(rf"\b{abbr}(?:[.><+]|\s|$)",txt, re.IGNORECASE))
-    return len(re.findall(rf"\b{abbr}(?:[.><+]|\s|$)",txt))
-  
-
-def analyse_term_on_dataset():
-    abbreviations_df = pd.read_csv('./terms.csv',index_col=None)
-    abbreviations_df = abbreviations_df.loc[abbreviations_df['status']=='enable']
-    
-    abbr_count = []
-    
-    for index, row in tqdm(abbreviations_df.iterrows()):
-        abbreviation = row['term']
-        replacement = row['meaning']
-        is_ignore_case = row.get('ignore_case', False)
-
-        abbr_count.append((abbreviation, replacement, df['text'].apply(lambda x: count_term(x, abbreviation,is_ignore_case)).sum()))
-
-
-    with open('abbr_analyses.txt', 'w') as file:
-        for tup in abbr_count:
-            file.write(','.join(map(str, tup)) + '\n')
-    
-    df_abbr_count = pd.DataFrame(abbr_count, columns=['term','meaning','count'])
-    df.to_csv('df_abbr_analysis.csv')
-
-
-def replace_abbreviations_in_column(df, abbreviations_df):
-
-    for index, row in abbreviations_df.iterrows():
-        abbreviation = row['term']
-        replacement = row['meaning']
-        ignore_case = row.get('ignore_case', False)
-
-        # Create regex pattern based on case sensitivity
-        flags = re.IGNORECASE if ignore_case else 0
-        pattern = r'\b{}\b'.format(re.escape(abbreviation))
-
-        # Replace abbreviations in the column using lambda function
-        df['text'] = df['text'].apply(lambda text: re.sub(pattern, replacement, text, flags=flags))
-
-    return df
-
-
-df_abbr = pd.read_csv('./terms.csv',index_col=None)
-df_abbr.to_dict()
-
-df_clean = replace_abbreviations_in_column(df,df_abbr)
-
-
-
-
-
 ##############################################
 ##      APPLY SNOMED MAPPING
 ##############################################
-
-df['conceptIds'] = df['concepts'].progress_apply(lambda x: {_[1] for _ in x})
 
 def check_number_exists(set1, set2):
     for snomedId in set1:
         if snomedId in set2:
             return True
     return False
-
 
 def create_categories_by_snomed_mappings(df: pd.DataFrame):
     dict_mapping = {}
@@ -195,28 +98,21 @@ def create_categories_by_snomed_mappings(df: pd.DataFrame):
         df[k] = df['conceptIds'].progress_apply(lambda x: check_number_exists(x,v))
 
 
-create_categories_by_snomed_mappings(df)
-
-df.loc[:,'PulmonaalLijden':'Huntington'].sum()
-
-dfDiabetesMellitus = df.loc[df['DiabetesMellitus']]
-
-
 """
 
 Results found per categorie using SNOMED mapping
 
 
-PulmonaalLijden           111485
-CardiovasculairLijden     210754
-CerebrovasculairLijden    252201
-DiabetesMellitus          140808
-Dementie                   98930
-Nierfalen                  93306
-Obesitas                   12599
-Parkinson                  23032
-Korsakov                   13449
-Huntington                     0
+PulmonaalLijden           127744
+CardiovasculairLijden     282620
+CerebrovasculairLijden    363281
+DiabetesMellitus          171135
+Dementie                  153634
+Nierfalen                 163100
+Obesitas                   12833
+Parkinson                  23307
+Korsakov                   15519
+Huntington                  1009
 
 
 """
@@ -241,11 +137,21 @@ plot_compare.plot_tiles()
 
 
 def main():
-    abbr_list = load_terms()
-    df_text = load_data()
+    # df_text = load_data()
 
-    df_text = replace_abbreviations_dataframe(df_text, abbr_list)
-    df_text.to_csv('./data/medische_voorgeschiedenis_processed.csv',index=None)
+    df = pd.read_parquet('./data/output.parquet.gzip')
+    # df = pd.read_csv('./data/output.csv', index_col=None)
+    # df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
+    # df.to_parquet('./data/output.parquet.gzip',compression='gzip')
+    df['conceptIds'] = df['concepts'].progress_apply(lambda x: {_[1] for _ in x})
+
+    create_categories_by_snomed_mappings(df)
+
+    df.loc[:,'PulmonaalLijden':'Huntington'].sum()
+
+    # dfDiabetesMellitus = df.loc[df['DiabetesMellitus']]
+    df.to_csv('./data/medische_voorgeschiedenis_annotated_label.csv.zip',index=None)
+
 
 
 if __name__ == "__main__":
