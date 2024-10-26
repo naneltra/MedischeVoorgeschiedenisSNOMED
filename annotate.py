@@ -17,12 +17,15 @@ app = typer.Typer()
 tqdm.pandas(desc="processing vumc dataextract")
 load_dotenv()
 
+DATA_ANNOTATED_PATH = os.getenv('DATA_ANNOTATED_PATH')
+MODEL_PATH = os.getenv('MODEL_PATH')
+
 ##############################################
 ##      LOAD MEDISCHE VOORGESCHIEDENIS
 ##############################################
 
 def load_data():
-    VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis_processed.csv')
+    VOORGESCHIEDENIS_PATH = Path(os.getenv('PROCESSED_DATA_FILE'))
 
     df = pd.read_csv(VOORGESCHIEDENIS_PATH)
 
@@ -60,12 +63,12 @@ def annotate():
     
     
     # fix spelling 
-    mymodel = CAT.load_model_pack('../models/20240603_d4ce199c05d6c6ca.zip')
+    mymodel = CAT.load_model_pack(MODEL_PATH)
 
     print('start annotation')
     results = mymodel.multiprocessing_batch_char_size(tqdm(generator, total=df.shape[0]),  # Formatted data
                                                 batch_size_chars = batch_size_chars,
-                                                nproc=10)
+                                                nproc=4)
 
     def get_snomed_results(id: str):
         if id not in results:
@@ -76,8 +79,9 @@ def annotate():
         return []
 
     df['concepts'] = df.apply(lambda x: get_snomed_results(x.name), axis=1)
-    print('save to disk')
-    df.to_csv('./data/output.csv',index=None)
+    print('save to disk as zipped parquet')
+    df.to_parquet(DATA_ANNOTATED_PATH, compression='gzip')
+    
 
     # df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
 

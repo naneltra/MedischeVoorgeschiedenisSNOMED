@@ -7,7 +7,16 @@ import typer
 import pandas as pd
 import re
 from tqdm import tqdm
+import os
+from dotenv import load_dotenv
 tqdm.pandas(desc="processing vumc dataextract")
+
+load_dotenv()
+
+model_location = os.getenv('MODEL_PATH')
+TERMS = os.getenv('TERMS')
+DATA_FILE = os.getenv('DATA_FILE')
+PROCESSED_DATA_FILE = os.getenv('PROCESSED_DATA_FILE')
 
 
 def replace_abbreviations_dataframe(df:pd.DataFrame, abbr_list) -> pd.DataFrame:
@@ -25,12 +34,12 @@ def replace_abbreviations_dataframe(df:pd.DataFrame, abbr_list) -> pd.DataFrame:
     return df
 
 def load_terms():
-    abbreviations_df = pd.read_csv('./data/terms.csv',index_col=None)
+    abbreviations_df = pd.read_csv(TERMS,index_col=None)
     abbreviations_df = abbreviations_df.loc[abbreviations_df['status']=='enable']
     return abbreviations_df.to_dict(orient='records')
 
 def load_data():
-    df_text = pd.read_csv('./data/medische_voorgeschiedenis.csv', index_col='db_id', sep='|')
+    df_text = pd.read_csv(DATA_FILE)
     df_text = df_text.loc[~df_text['diagnose'].isna()]
     df_text['diagn_proc'] = df_text['diagnose']
     return df_text
@@ -41,7 +50,7 @@ def main():
     df_text = load_data()
 
     df_text = replace_abbreviations_dataframe(df_text, abbr_list)
-    df_text.to_csv('./data/medische_voorgeschiedenis_processed.csv',index=None)
+    df_text.to_csv(PROCESSED_DATA_FILE,index=None)
 
 
 if __name__ == "__main__":

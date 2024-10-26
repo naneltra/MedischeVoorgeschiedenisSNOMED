@@ -1,3 +1,6 @@
+
+
+
 import json
 from pydantic import BaseModel
 import requests
@@ -77,8 +80,6 @@ def load_from_ecl(ecl_queries):
         snomed_mappings[k] = concepts
     return snomed_mappings
         
-snomed_mappings = load_from_ecl(snomed_ecls)
-# snomed_mappings['Huntington']
 
 def write_snomed_mappings(snomed_mappings):
     for k,v in snomed_mappings.items():
@@ -90,7 +91,9 @@ def write_snomed_mappings(snomed_mappings):
         with open(f'./data/snomed_mappings/{k}.json', 'w') as json_file:
             json.dump(concept_dict, json_file, indent=4)
 
-write_snomed_mappings(snomed_mappings)
+# snomed_mappings = load_from_ecl(snomed_ecls)
+# write_snomed_mappings(snomed_mappings)
+# # snomed_mappings['Huntington']
 
 
 ##################################
@@ -113,8 +116,8 @@ def load_snomed_mappings():
 snomed_mappings = load_snomed_mappings()
 # snomed_mappings['Dementie']
 
-for k,v in snomed_mappings.items():
-    print(k, len(v), len(set([_.conceptId for _ in v])))
+# for k,v in snomed_mappings.items():
+#     print(k, len(v), len(set([_.conceptId for _ in v])))
     
 
 """

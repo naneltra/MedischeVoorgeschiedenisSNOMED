@@ -3,38 +3,18 @@ from pathlib import Path
 import re
 from tqdm import tqdm
 from vumc import plot_compare, snomed_mapping
+import os
 from dotenv import load_dotenv
 import typer
 
 tqdm.pandas(desc="processing vumc dataextract")
 load_dotenv()
 
+#annotated and processed
+VOORGESCHIEDENIS_PATH_ANNOTATED = os.getenv('DATA_ANNOTATED_PATH')
+VOORGESCHIEDENIS_OUTPUT_PATH = os.getenv('DATA_OUTPUT_PATH')
+
 app = typer.Typer()
-
-# import importlib
-# importlib.reload(snomed_mapping)
-# importlib.reload(vumc_mapping)
-# importlib.reload(plot_compare)
-
-
-##############################################
-##      LOAD MEDISCHE VOORGESCHIEDENIS
-##############################################
-
-def load_data():
-    VOORGESCHIEDENIS_PATH = Path('./data/medische_voorgeschiedenis_processed.csv')
-
-    def load_voorgeschiedenis(path: Path):
-        path = VOORGESCHIEDENIS_PATH
-        df = pd.read_csv(VOORGESCHIEDENIS_PATH)
-        return df
-
-    df = load_voorgeschiedenis(VOORGESCHIEDENIS_PATH)
-
-    # df = df.rename(columns={"db_id":"id","diagn_proc":"text"})
-    # df = df.set_index('id')
-    df = df.loc[~df['text'].isna()]
-    return df
 
 
 ##############################################
@@ -139,9 +119,10 @@ plot_compare.plot_tiles()
 def main():
     # df_text = load_data()
 
-    df = pd.read_parquet('./data/output.parquet.gzip')
+    df = pd.read_parquet(VOORGESCHIEDENIS_PATH_ANNOTATED)
+    
     # df = pd.read_csv('./data/output.csv', index_col=None)
-    # df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
+    df['concepts'] = df['concepts'].apply(lambda x: list(eval(x)))
     # df.to_parquet('./data/output.parquet.gzip',compression='gzip')
     df['conceptIds'] = df['concepts'].progress_apply(lambda x: {_[1] for _ in x})
 
@@ -150,7 +131,7 @@ def main():
     df.loc[:,'PulmonaalLijden':'Huntington'].sum()
 
     # dfDiabetesMellitus = df.loc[df['DiabetesMellitus']]
-    df.to_csv('./data/medische_voorgeschiedenis_annotated_label.csv.zip',index=None)
+    df.to_csv(VOORGESCHIEDENIS_OUTPUT_PATH,index=None)
 
 
 

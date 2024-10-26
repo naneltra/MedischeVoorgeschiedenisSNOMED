@@ -4,14 +4,15 @@ Keywords that were not yet present as concept in SNOMED will be added by search 
 """
 
 from medcat.cat import CAT
-from pathlib import Path
 from vumc import vumc_mapping
-from dotenv import load_dotenv
 import os
 from datetime import date
 import pandas as pd
 
+from dotenv import load_dotenv
+
 load_dotenv()
+
 
 def load_model():
     model_location = os.getenv('MODEL_PATH')
@@ -136,7 +137,8 @@ def add_and_train_annotations():
     
     
 #test
-mymodel.get_entities('mr AS-infarct')
+mymodel.get_entities('mr LHS')
+mymodel.get_entities('mr MCI')
 mymodel.create_model_pack(f'snomed_2023_trained_neg_{str(date.today())}')
 
 
